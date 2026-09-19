@@ -113,6 +113,8 @@ Email: changc10@vcu.edu
 
 ## Disclaimer
 
+Job information is summarized from publicly available sources. This site does not reproduce full job advertisements and is not affiliated with or endorsed by the hiring institutions or third-party job platforms listed.
+
 **This is an independently maintained informational resource and is not an official Virginia Commonwealth University website.**
 
 This job board is provided as an informational resource. Job listings are identified and curated through an AI-assisted search process and may contain errors, omissions, outdated information, or changes made by employers after an update.
