@@ -1,4 +1,4 @@
-# RAE Job Opportunities
+# Academic Job Opportunities in Research, Assessment & Evaluation
 
 A curated, regularly updated job board for U.S.-based academic and research opportunities aligned with **Virginia Commonwealth University’s Research, Assessment, and Evaluation (RAE) program**, **Advanced Educational Statistics Certificate**, and **CENTROID Applied Machine Learning Lab**.
 
@@ -60,20 +60,13 @@ Aggregators may be used to discover opportunities, but the workflow attempts to 
 
 Existing links are rechecked during scheduled updates. If a reliable, accessible posting can no longer be found, the listing is removed from the active board.
 
-## Sources
+## Sources & Verification
 
-Searches may include:
+Job opportunities are identified from publicly available university and employer career pages, academic and professional job boards, and other public sources. Whenever possible, listings link directly to the hiring institution’s official posting. Third-party sources may be used for discovery and verification.
 
-- HERC Jobs
-- HigherEd360
-- Inside Higher Ed Careers
-- Chronicle Jobs
-- HigherEdJobs
-- AERA Career Center
-- Psychometric Society Careers
-- Relevant disciplinary and professional job boards
-- Official university and employer career pages
-- LinkedIn for discovery when useful
+Job information is summarized from publicly available sources. This site does not reproduce full job advertisements and is not affiliated with or endorsed by any hiring institution or third-party job platform.
+
+Applicants should verify position availability, eligibility requirements, deadlines, and all application details directly with the hiring institution.
 
 The search is intentionally broad and multi-pass, but it should not be considered exhaustive.
 
