@@ -93,6 +93,10 @@ The board may include:
 - Methodologist
 - Other methodology-focused academic and research positions
 
+## Archive
+
+Closed, expired, or removed opportunities are preserved in a separate **Archive** rather than permanently deleted. Archived records retain their original **First Shared** date and include **Last Verified** and **Status** information when verifiable. Archived jobs do not count toward active opportunity totals or receive NEW indicators.
+
 ## Data Notes
 
 **First Shared** records the date a position was first added to this job board. It is not necessarily the date the employer originally posted the position.
