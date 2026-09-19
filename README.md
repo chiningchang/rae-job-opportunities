@@ -109,6 +109,8 @@ Email: changc10@vcu.edu
 
 ## Disclaimer
 
+**This is an independently maintained informational resource and is not an official Virginia Commonwealth University website.**
+
 This job board is provided as an informational resource. Job listings are identified and curated through an AI-assisted search process and may contain errors, omissions, outdated information, or changes made by employers after an update.
 
 Inclusion of a position does not constitute endorsement by Virginia Commonwealth University, the RAE program, the Advanced Educational Statistics Certificate, CENTROID Applied Machine Learning Lab, or Nick Chang.
