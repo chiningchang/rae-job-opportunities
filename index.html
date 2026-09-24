@@ -52,4 +52,6 @@ body.innerHTML=out.map(x=>'<tr><td>'+((view==="active"&&isNew(x))?'<span class="
 function relevanceTags(s){return s.split(";").map(v=>'<span style="display:inline-block;background:#f2f2f2;border:1px solid #ddd;border-radius:12px;padding:3px 7px;margin:2px;font-size:12px">'+esc(v.trim())+'</span>').join("")}
 function esc(s){return String(s).replace(/[&<>"']/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#039;"}[m]))}
 function populateRanks(){rank.innerHTML='<option value="">All ranks</option>';[...new Set((view==="active"?jobs:archiveJobs).map(x=>x[1]))].sort().forEach(x=>rank.add(new Option(x,x)))}activeTab.onclick=()=>{view="active";activeTab.classList.add("active");archiveTab.classList.remove("active");populateRanks();render()};archiveTab.onclick=()=>{view="archive";archiveTab.classList.add("active");activeTab.classList.remove("active");populateRanks();render()};q.addEventListener("input",render);rank.addEventListener("change",render);sort.addEventListener("change",render);render();
-</script></body></html>
+</script>
+<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2fbc910a6324af0b6b1c555daf5d65f"}'></script><!-- End Cloudflare Web Analytics -->
+</body></html>
