@@ -32,6 +32,12 @@ Closed, expired, removed, or otherwise no-longer-verifiable opportunities are pr
 
 **First Shared** records the date a position was first added to this job board, not necessarily the employer’s posting date. Deadlines are reported only when they can be verified. **Open until filled** is used only when the posting explicitly indicates that status.
 
+## Job Market Insights
+
+The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) is a separate page linked from the main job board. It reads the active jobs, Archive count, and methodology groups directly from `index.html` when opened, so the map, charts, and statistics reflect the current board without copying job records into another file.
+
+When updating the board, keep the Insights link and the `jobs`, `archiveJobs`, and `groups` arrays in `index.html`. New city locations can be added to the coordinate list in `insights.html`; until then, recognized U.S. states are plotted at an approximate state center, and locations that cannot be mapped remain in the posting list. Archive records are excluded from current-opportunity charts. The Insights page uses the same methodology rules as the main board, so any future changes to those rules should be checked in both pages.
+
 ## Feedback
 
 Suggestions for additional job sources, search terms, position types, or other improvements are welcome.
