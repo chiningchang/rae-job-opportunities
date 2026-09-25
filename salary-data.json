@@ -1,0 +1,92 @@
+{
+  "reviewedOn": "2026-09-25",
+  "entries": [
+    {
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "category": "numeric",
+      "amount": "$6,221–$13,224 / month",
+      "label": "CSU assistant professor salary schedule",
+      "note": "The posting says starting salaries are generally in the lower half of this range."
+    },
+    {
+      "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+      "category": "numeric",
+      "amount": "$6,750–$7,100 / month",
+      "label": "Anticipated hiring range",
+      "note": "Academic-year appointment paid in 12 monthly payments."
+    },
+    {
+      "url": "https://careers.bowdoin.edu/postings/17966",
+      "category": "numeric",
+      "amount": "Assistant: $92,000–$98,000 / year; Associate: $120,000–$140,000 / year",
+      "label": "Anticipated hiring ranges by rank",
+      "note": "Final offer depends on experience and internal equity."
+    },
+    {
+      "url": "https://academicjobsonline.org/ajo/jobs/32467",
+      "category": "numeric",
+      "amount": "$62,232–$88,745",
+      "label": "Posted pay range",
+      "note": "The posting does not specify the pay period for this postdoc range."
+    },
+    {
+      "url": "https://aprecruit.berkeley.edu/JPF05480",
+      "category": "numeric",
+      "amount": "$84,100–$132,900 / 9-month academic year",
+      "label": "Published salary range",
+      "note": "Off-scale pay and other components may exceed the published range."
+    },
+    {
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "category": "numeric",
+      "amount": "$100,000–$120,000",
+      "label": "Published salary range",
+      "note": "The posting does not specify the pay period beside this range."
+    },
+    {
+      "url": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+      "category": "numeric",
+      "amount": "$72,828–$89,000",
+      "label": "Published pay range",
+      "note": "The posting describes pay as commensurate with qualifications; period is not specified."
+    },
+    {
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+      "category": "numeric",
+      "amount": "$79,056",
+      "label": "FY27 postdoc minimum base pay",
+      "note": "The posting says this position is expected to pay the university's required postdoc minimum."
+    },
+    {
+      "url": "https://careers.fordham.edu/postings/11864/print_preview",
+      "category": "numeric",
+      "amount": "$75,000–$80,000",
+      "label": "Starting salary range",
+      "note": "The posting says the offer depends on qualifications, experience, and skills."
+    },
+    {
+      "url": "https://bsu.wd12.myworkdayjobs.com/en-US/External/job/Ball-State-University/Assistant-Professor-of-Educational-Psychology--Tenure-Line-_R-03287",
+      "category": "commensurate",
+      "label": "No numeric amount",
+      "note": "The posting describes salary as commensurate with qualifications or experience."
+    },
+    {
+      "url": "https://jobs.uiowa.edu/faculty/view/75924",
+      "category": "commensurate",
+      "label": "No numeric amount",
+      "note": "The posting describes salary as commensurate with qualifications or experience."
+    },
+    {
+      "url": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+      "category": "commensurate",
+      "label": "No numeric amount",
+      "note": "The posting describes salary as commensurate with qualifications or experience."
+    },
+    {
+      "url": "https://ukjobs.uky.edu/postings/640330/print_preview",
+      "category": "commensurate",
+      "label": "No numeric amount",
+      "note": "The posting describes salary as commensurate with qualifications or experience."
+    }
+  ]
+}
