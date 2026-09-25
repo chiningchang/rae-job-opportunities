@@ -24,8 +24,13 @@ const groups=[
 ];
 let active="";
 function methodMatch(x,label){const g=groups.find(z=>z[0]===label),t=x[4].toLowerCase();return (label==="ML / AI / Data Science"&&/(^|[^a-z])(ai|ml)(?=$|[^a-z])/.test(t))||g[1].some(k=>t.includes(k))}
-const methodCounts=Object.fromEntries(groups.map(([label])=>[label,jobs.filter(x=>methodMatch(x,label)).length]));const maxMethod=Math.max(...Object.values(methodCounts),1);
-groups.forEach(([label])=>{const b=document.createElement("button");b.type="button";b.className="filter-btn";b.dataset.label=label;const n=methodCounts[label];b.innerHTML='<span>'+esc(label)+'</span><span class="method-bar"><span class="method-fill" style="display:block;width:'+Math.round(n/maxMethod*100)+'%"></span></span><span class="method-count">'+n+'</span>';b.onclick=()=>{active=active===label?"":label;[...methodFilters.children].forEach(x=>x.classList.toggle("active",x.dataset.label===active));filterState.textContent=active||"All areas";render()};methodFilters.appendChild(b)});
+groups.forEach(([label])=>{const b=document.createElement("button");b.type="button";b.className="filter-btn";b.dataset.label=label;b.innerHTML='<span>'+esc(label)+'</span><span class="method-bar"><span class="method-fill" style="display:block;width:0%"></span></span><span class="method-count">0</span>';b.onclick=()=>{active=active===label?"":label;[...methodFilters.children].forEach(x=>x.classList.toggle("active",x.dataset.label===active));filterState.textContent=active||"All areas";render()};methodFilters.appendChild(b)});
+function refreshMethodFilters(search,selectedRank){
+  const pool=jobs.filter(x=>(!selectedRank||x[1]===selectedRank)&&(!search||(x.join(" ")+" "+(salaryByUrl.get(x[7])?.amount||"")).toLowerCase().includes(search)));
+  const counts=Object.fromEntries(groups.map(([label])=>[label,pool.filter(x=>methodMatch(x,label)).length]));
+  const max=Math.max(1,...Object.values(counts));
+  [...methodFilters.children].forEach(b=>{const n=counts[b.dataset.label];b.querySelector(".method-count").textContent=String(n);b.querySelector(".method-fill").style.width=Math.round(n/max*100)+"%";b.setAttribute("aria-pressed",String(b.dataset.label===active))})
+}
 const latest=Math.max(...jobs.map(x=>dateVal(x[5])));const week=7*24*60*60*1000;activeTabCount.textContent="("+jobs.length+")";archiveTabCount.textContent="("+archiveJobs.length+")";activeCount.textContent=jobs.length;newCount.textContent=jobs.filter(x=>dateVal(x[5])===latest).length;facultyCount.textContent=jobs.filter(x=>/professor/i.test(x[1])).length;researchCount.textContent=jobs.filter(x=>/postdoc|research scientist|research faculty|methodologist/i.test(x[1])).length;
 function dateVal(s){const d=Date.parse(s);return isNaN(d)?0:d}
 function relevant(x){return !active||methodMatch(x,active)}
@@ -43,6 +48,7 @@ function salaryCell(x){
 function render(){
   let s=q.value.toLowerCase().trim(),r=rank.value;
   let source=view==="active"?jobs:archiveJobs;
+  if(view==="active")refreshMethodFilters(s,r);
   document.getElementById("statusHead").hidden=view==="active";
   document.querySelector(".summary").style.display=view==="active"?"grid":"none";
   document.querySelector(".method-overview").style.display=view==="active"?"block":"none";
