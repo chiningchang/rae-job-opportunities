@@ -4,7 +4,7 @@ A curated, regularly updated job board for U.S.-based academic and research oppo
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
-**Last Updated:** September 25, 2026
+**Job board last updated:** September 25, 2026
 
 ## Purpose
 
@@ -14,15 +14,11 @@ The board emphasizes quantitative methods and educational statistics; educationa
 
 ## Search and Update Process
 
-A deep search is scheduled **every Tuesday and Friday at 2:00 AM Eastern Time**. Listings are screened for methodological relevance, duplication, posting status, and link accessibility. A search result or cached snippet is not treated as proof that a posting is active. Whenever possible, final links prioritize a directly accessible official university/employer posting, followed by established academic/professional job boards and other reputable no-login sources. Indeed is not used as a final View Posting link; LinkedIn is used primarily for discovery when access may require login.
+A deep search is scheduled **every Tuesday and Friday at 2:00 AM Eastern Time**. Listings are reviewed for methodological fit, duplication, availability, and link accessibility. This curated search is broad but not exhaustive.
 
 ## Sources & Verification
 
-Job opportunities are identified from publicly available university and employer career pages, academic and professional job boards, and other public sources. Whenever possible, listings link directly to the hiring institution’s official posting. Third-party sources may be used for discovery and verification.
-
-Job information is summarized from publicly available sources. This site does not reproduce full job advertisements and is not affiliated with or endorsed by any hiring institution or third-party job platform.
-
-Applicants should verify position availability, eligibility requirements, deadlines, and all application details directly with the hiring institution. The search is intentionally broad and multi-pass, but it should not be considered exhaustive.
+Opportunities are identified from publicly available academic, professional, and employer career listings. When available, links point to the hiring institution’s original posting.
 
 ## Archive
 
@@ -34,9 +30,9 @@ Closed, expired, removed, or otherwise no-longer-verifiable opportunities are pr
 
 ## Job Market Insights
 
-The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) is a separate page linked from the main job board. It reads the active jobs, Archive count, and methodology groups directly from `index.html` when opened, so the map, charts, and statistics reflect the current board without copying job records into another file.
+The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore where current opportunities are located, what fields and roles are represented, and what postings say about pay. Interactive charts reflect selected active postings; broader takeaways refer to all active postings. Archived jobs are excluded from the current-opportunity charts.
 
-When updating the board, keep the Insights link and the `jobs`, `archiveJobs`, and `groups` arrays in `index.html`. New city locations can be added to the coordinate list in `insights.html`; until then, recognized U.S. states are plotted at an approximate state center, and locations that cannot be mapped remain in the posting list. Archive records are excluded from current-opportunity charts. The Insights page uses the same methodology rules as the main board, so any future changes to those rules should be checked in both pages.
+Research areas can overlap, and map locations may be approximate. Pay information is reviewed separately, may not be available for every posting, and should be confirmed with the hiring institution.
 
 ## Feedback
 
@@ -50,6 +46,6 @@ Email: changc10@vcu.edu
 
 **This is an independently maintained informational resource and is not an official Virginia Commonwealth University website.**
 
-This job board is provided as an informational resource. Job listings are identified and curated through an AI-assisted search process and may contain errors, omissions, outdated information, or changes made by employers after an update. Inclusion of a position does not constitute endorsement by Virginia Commonwealth University, the RAE program, the Advanced Educational Statistics Certificate, CENTROID Applied Machine Learning Lab, or Nick Chang.
+This job board summarizes publicly available information and does not reproduce full job advertisements. Listings are identified and curated through an AI-assisted search process and may contain errors, omissions, outdated information, or changes made by employers after an update. The resource is not affiliated with or endorsed by hiring institutions or job platforms. Inclusion of a position does not constitute endorsement by Virginia Commonwealth University, the RAE program, the Advanced Educational Statistics Certificate, CENTROID Applied Machine Learning Lab, or Nick Chang.
 
 Applicants are responsible for verifying position availability, eligibility requirements, deadlines, and all application details directly with the hiring institution.
