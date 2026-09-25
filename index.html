@@ -23,7 +23,7 @@ const groups=[
 ["Critical / Equity Methods",["critical","quantcrit","equity"]]
 ];
 let active="";
-function methodMatch(x,label){const g=groups.find(z=>z[0]===label),t=x[4].toLowerCase();return g[1].some(k=>t.includes(k))}
+function methodMatch(x,label){const g=groups.find(z=>z[0]===label),t=x[4].toLowerCase();return (label==="ML / AI / Data Science"&&/(^|[^a-z])(ai|ml)(?=$|[^a-z])/.test(t))||g[1].some(k=>t.includes(k))}
 const methodCounts=Object.fromEntries(groups.map(([label])=>[label,jobs.filter(x=>methodMatch(x,label)).length]));const maxMethod=Math.max(...Object.values(methodCounts),1);
 groups.forEach(([label])=>{const b=document.createElement("button");b.type="button";b.className="filter-btn";b.dataset.label=label;const n=methodCounts[label];b.innerHTML='<span>'+esc(label)+'</span><span class="method-bar"><span class="method-fill" style="display:block;width:'+Math.round(n/maxMethod*100)+'%"></span></span><span class="method-count">'+n+'</span>';b.onclick=()=>{active=active===label?"":label;[...methodFilters.children].forEach(x=>x.classList.toggle("active",x.dataset.label===active));filterState.textContent=active||"All areas";render()};methodFilters.appendChild(b)});
 const latest=Math.max(...jobs.map(x=>dateVal(x[5])));const week=7*24*60*60*1000;activeTabCount.textContent="("+jobs.length+")";archiveTabCount.textContent="("+archiveJobs.length+")";activeCount.textContent=jobs.length;newCount.textContent=jobs.filter(x=>dateVal(x[5])===latest).length;facultyCount.textContent=jobs.filter(x=>/professor/i.test(x[1])).length;researchCount.textContent=jobs.filter(x=>/postdoc|research scientist|research faculty|methodologist/i.test(x[1])).length;
