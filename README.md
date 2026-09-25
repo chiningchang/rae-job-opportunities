@@ -4,7 +4,7 @@ A curated, regularly updated job board for U.S.-based academic and research oppo
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
-**Last Updated:** September 22, 2026
+**Last Updated:** September 25, 2026
 
 ## Purpose
 
