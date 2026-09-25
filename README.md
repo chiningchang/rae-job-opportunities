@@ -14,7 +14,7 @@ The board emphasizes quantitative methods and educational statistics; educationa
 
 ## Search and Update Process
 
-A deep search is scheduled **every Tuesday and Friday at 9:00 AM Eastern Time**. Listings are screened for methodological relevance, duplication, posting status, and link accessibility. A search result or cached snippet is not treated as proof that a posting is active. Whenever possible, final links prioritize a directly accessible official university/employer posting, followed by established academic/professional job boards and other reputable no-login sources. Indeed is not used as a final View Posting link; LinkedIn is used primarily for discovery when access may require login.
+A deep search is scheduled **every Tuesday and Friday at 2:00 AM Eastern Time**. Listings are screened for methodological relevance, duplication, posting status, and link accessibility. A search result or cached snippet is not treated as proof that a posting is active. Whenever possible, final links prioritize a directly accessible official university/employer posting, followed by established academic/professional job boards and other reputable no-login sources. Indeed is not used as a final View Posting link; LinkedIn is used primarily for discovery when access may require login.
 
 ## Sources & Verification
 
