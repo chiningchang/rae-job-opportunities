@@ -8,9 +8,9 @@ The collection supports students, alumni, and colleagues exploring faculty, post
 
 **Job board last updated:** September 25, 2026
 
-## Purpose
+## About
 
-This platform curates academic, postdoctoral, and research opportunities across educational research methodology. It is intended as a practical resource for people exploring career paths in education research methods, measurement, assessment, evaluation, data science, and related fields.
+A curated list of U.S. academic and research positions—spanning faculty, postdoc, and research scientist roles—aligned with the methodological focus of VCU’s RAE program, Advanced Educational Statistics Certificate, and Centroid Lab. Designed for students, alumni, and peers seeking methodology-driven careers across academia and research.
 
 ## Search Areas
 
