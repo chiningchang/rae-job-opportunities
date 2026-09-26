@@ -44,7 +44,7 @@ Closed, expired, removed, or otherwise no-longer-verifiable opportunities are pr
 
 ## Job Market Insights
 
-The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore where current opportunities are located, what fields and roles are represented, and what postings say about pay. Interactive charts reflect selected active postings; broader takeaways refer to the selected academic-year collection, which can include active and archived postings. Research areas can overlap, map locations may be approximate, and pay information may not be available for every posting. Applicants should confirm details with the hiring institution.
+The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore locations, fields, roles, stated application materials, and available pay information. Current interactive charts follow the selected active-posting filters; academic-year summaries include active and archived postings. Areas can overlap, map locations may be approximate, and pay or application-material information may be unavailable or unreported for some postings. Applicants should confirm details with the hiring institution.
 
 ## Feedback
 
