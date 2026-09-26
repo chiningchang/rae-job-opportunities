@@ -1,6 +1,8 @@
-# Academic Job Opportunities in Research, Assessment & Evaluation
+# Educational Research Methodology Academic Jobs
 
-A curated, regularly updated job board for U.S.-based academic and research opportunities aligned with **Virginia Commonwealth University’s Research, Assessment, and Evaluation (RAE) program**, **Advanced Educational Statistics Certificate**, and **CENTROID Applied Machine Learning Lab**.
+A curated, regularly updated job board of U.S.-based academic, postdoctoral, and research opportunities across the broad spectrum of educational research methodology—including quantitative methods, measurement, evaluation, educational data science, and AI-supported research design.
+
+The collection supports students, alumni, and colleagues exploring faculty, postdoctoral, research scientist, methodologist, and other research-focused positions, including opportunities relevant to Virginia Commonwealth University’s Research, Assessment, and Evaluation (RAE) program, Advanced Educational Statistics Certificate, and CENTROID Applied Machine Learning Lab.
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
@@ -8,9 +10,21 @@ A curated, regularly updated job board for U.S.-based academic and research oppo
 
 ## Purpose
 
-This resource supports students, alumni, and colleagues seeking faculty, postdoctoral, research scientist, methodologist, and other research-focused positions related to educational research methodology.
+This platform curates academic, postdoctoral, and research opportunities across educational research methodology. It is intended as a practical resource for people exploring career paths in education research methods, measurement, assessment, evaluation, data science, and related fields.
 
-The board emphasizes quantitative methods and educational statistics; educational measurement and psychometrics; program evaluation and assessment; multilevel, structural equation, longitudinal, and latent-variable methods; qualitative and mixed methods; critical and equity-oriented research methods; machine learning and AI in education; educational data science, learning analytics, educational data mining; and research methodology/design.
+## Search Areas
+
+Postings are organized into seven overlapping areas:
+
+- Measurement, Psychometrics, and Assessment
+- Statistical Theory and Quantitative Methodologies
+- Qualitative Methodologies
+- Multiple and Mixed Methodologies
+- Evaluation
+- Critical / Equity
+- AI in Education
+
+Selecting an area on the job board or Insights page reveals common subcategories based on the relevance terms recorded for postings. Examples include quantitative and qualitative research design, Bayesian methods, simulation, missing data, causal inference, SEM, multilevel / HLM, longitudinal methods, and learning analytics. A posting can be represented in more than one area.
 
 ## Search and Update Process
 
@@ -30,9 +44,7 @@ Closed, expired, removed, or otherwise no-longer-verifiable opportunities are pr
 
 ## Job Market Insights
 
-The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore where current opportunities are located, what fields and roles are represented, and what postings say about pay. Interactive charts reflect selected active postings; broader takeaways refer to all active postings. Archived jobs are excluded from the current-opportunity charts.
-
-Research areas can overlap, and map locations may be approximate. Pay information is reviewed separately, may not be available for every posting, and should be confirmed with the hiring institution.
+The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore where current opportunities are located, what fields and roles are represented, and what postings say about pay. Interactive charts reflect selected active postings; broader takeaways refer to the selected academic-year collection, which can include active and archived postings. Research areas can overlap, map locations may be approximate, and pay information may not be available for every posting. Applicants should confirm details with the hiring institution.
 
 ## Feedback
 
