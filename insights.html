@@ -92,7 +92,8 @@
   function role(job){const text=(job[1]+' '+job[0]).toLowerCase();if(/postdoc|research scientist/.test(text))return 'Postdoc / research';if(/teaching professor/.test(text))return 'Teaching faculty';return 'Faculty'}
   function place(job){return job[3].split('/')[0].trim()}
   function geo(job){const label=place(job),key=label.toLowerCase(),match=label.match(/,\s*([A-Z]{2})$/);if(cities[key])return {key,label,point:cities[key],approx:false};if(match&&stateCenters[match[1]])return {key:match[1].toLowerCase(),label:match[1]+' (approximate)',point:stateCenters[match[1]],approx:true};return {key:'unmapped:'+key,label:job[3],point:null,approx:true}}
-  function inArea(job,name){const group=areas.find(a=>a[0]===name);if(!group)return false;const text=job[4].toLowerCase();return (name==='ML / AI / Data Science'&&/(^|[^a-z])(ai|ml)(?=$|[^a-z])/.test(text))||group[1].some(word=>text.includes(word))}
+  function areaWordMatch(text,word){if(['irt','ctt','dif','cat','sem','mlm','hlm'].includes(word))return new RegExp('(^|[^a-z])'+word+'(?=$|[^a-z])','i').test(text);return text.includes(word)}
+  function inArea(job,name){const group=areas.find(a=>a[0]===name);if(!group)return false;const text=job[4].toLowerCase();return (name==='ML / AI / Data Science'&&/(^|[^a-z])(ai|ml)(?=$|[^a-z])/.test(text))||group[1].some(word=>areaWordMatch(text,word))}
   function matching(){return jobs.filter(job=>(!selectedRole||role(job)===selectedRole)&&(!selectedArea||inArea(job,selectedArea))&&(!selectedCity||geo(job).key===selectedCity))}
   function node(tag,cls,txt){const x=document.createElement(tag);if(cls)x.className=cls;if(txt!==undefined)x.textContent=txt;return x}
   function link(href,txt){const a=node('a','',txt);try{const u=new URL(href,location.href);if(u.protocol==='https:'||u.protocol==='http:'){a.href=u.href;a.target='_blank';a.rel='noopener noreferrer'}}catch(_){a.removeAttribute('href')}return a}
