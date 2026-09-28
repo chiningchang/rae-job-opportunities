@@ -1,0 +1,256 @@
+{
+  "reviewedOn": "2026-09-28",
+  "scope": "active postings in current charts; archived records retained for history",
+  "categories": [
+    "Sponsorship available",
+    "Conditional or limited",
+    "Not offered",
+    "Not stated",
+    "Unable to assess"
+  ],
+  "entries": [
+    {
+      "id": "RAE-0001",
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "status": "Conditional or limited",
+      "note": "The posting says it is not currently sponsoring H-1B cases subject to a specified $100,000 fee; applicants must be authorized to work for any U.S. employer.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0002",
+      "url": "https://jobs.coastal.edu/postings/122779",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.coastal.edu/postings/122779",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0003",
+      "url": "https://bsu.wd12.myworkdayjobs.com/en-US/External/job/Ball-State-University/Assistant-Professor-of-Educational-Psychology--Tenure-Line-_R-03287",
+      "status": "Conditional or limited",
+      "note": "The university says it will consider sponsorship; no unconditional commitment is stated.",
+      "visaType": "Not specified",
+      "evidenceUrl": "https://bsu.wd12.myworkdayjobs.com/en-US/External/job/Ball-State-University/Assistant-Professor-of-Educational-Psychology--Tenure-Line-_R-03287",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0004",
+      "url": "https://lifetimelearning.gatech.edu/faculty-opportunities",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://lifetimelearning.gatech.edu/faculty-opportunities",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0005",
+      "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+      "status": "Conditional or limited",
+      "note": "Employment-based visa sponsorship depends on institutional priorities, budget, and current regulations.",
+      "visaType": "Employment-based visas",
+      "evidenceUrl": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0006",
+      "url": "https://jobs.uiowa.edu/faculty/view/75924",
+      "status": "Conditional or limited",
+      "note": "The department says it will not cover a specified $100,000 H-1B payment when applicable and encourages alternative work-authorization paths; general sponsorship availability is not established.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://jobs.uiowa.edu/faculty/view/75924",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0007",
+      "url": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0008",
+      "url": "https://apply.interfolio.com/183744",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://apply.interfolio.com/183744",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0009",
+      "url": "https://careers.bowdoin.edu/postings/17966",
+      "status": "Sponsorship available",
+      "note": "The posting states that visa sponsorship is available for faculty hires.",
+      "visaType": "Faculty visas, type not specified",
+      "evidenceUrl": "https://careers.bowdoin.edu/postings/17966",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0010",
+      "url": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179547591",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179547591",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0011",
+      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0012",
+      "url": "https://academicjobsonline.org/ajo/jobs/32467",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/32467",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0013",
+      "url": "https://aprecruit.berkeley.edu/JPF05480",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://aprecruit.berkeley.edu/JPF05480",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0014",
+      "url": "https://careers.insidehighered.com/job/3551027/assistant-professor-research-methodology-cluster-hire-fall-2027/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3551027/assistant-professor-research-methodology-cluster-hire-fall-2027/",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0015",
+      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "status": "Not offered",
+      "note": "The posting explicitly says applicants must not need visa sponsorship and the university will not sponsor work visas, including H-1B.",
+      "visaType": "Work visas, including H-1B",
+      "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0016",
+      "url": "https://www.universityjobs.com/posting/7370434",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://www.universityjobs.com/posting/7370434",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0017",
+      "url": "https://ukjobs.uky.edu/postings/640330/print_preview",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://ukjobs.uky.edu/postings/640330/print_preview",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0018",
+      "url": "https://faculty.tamu.edu/JobDetail?JobId=190514",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://faculty.tamu.edu/JobDetail?JobId=190514",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0019",
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0020",
+      "url": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+      "status": "Not offered",
+      "note": "The posting explicitly says the university will not sponsor or take over employment-visa sponsorship for this position.",
+      "visaType": "Employment visa, type not specified",
+      "evidenceUrl": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0021",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0022",
+      "url": "https://careers.fordham.edu/postings/11864/print_preview",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.fordham.edu/postings/11864/print_preview",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0023",
+      "url": "https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=928",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=928",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0024",
+      "url": "https://careers.pageuppeople.com/873/sd/en-us/job/559042/assistant-professor-of-psychology",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.pageuppeople.com/873/sd/en-us/job/559042/assistant-professor-of-psychology",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0025",
+      "url": "https://postdocs.yale.edu/posts/2026-07-08-postdoctoral-associate-the-yale-center-for-emotional-intelligence-ycei-part-of-the",
+      "status": "Unable to assess",
+      "note": "Original posting unavailable; no valid captured posting to review.",
+      "visaType": "",
+      "evidenceUrl": "",
+      "reviewedOn": ""
+    },
+    {
+      "id": "RAE-0026",
+      "url": "https://career.eoss.asu.edu/jobs/ets-educational-testing-service-psychometrician-open-rank/",
+      "status": "Unable to assess",
+      "note": "Original posting unavailable; no valid captured posting to review.",
+      "visaType": "",
+      "evidenceUrl": "",
+      "reviewedOn": ""
+    },
+    {
+      "id": "RAE-0027",
+      "url": "https://apply.interfolio.com/182513",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://apply.interfolio.com/182513",
+      "reviewedOn": "2026-09-28"
+    }
+  ]
+}
