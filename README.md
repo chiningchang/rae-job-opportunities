@@ -44,7 +44,7 @@ Closed, expired, removed, or otherwise no-longer-verifiable opportunities are pr
 
 ## Job Market Insights
 
-The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore locations, fields, roles, stated application materials, and available pay information. Current interactive charts follow the selected active-posting filters; academic-year summaries include active and archived postings. Areas can overlap, map locations may be approximate, and pay or application-material information may be unavailable or unreported for some postings. Applicants should confirm details with the hiring institution.
+The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-opportunities/insights.html) helps readers explore locations, fields, roles, stated application materials, available pay, and posting-stated visa sponsorship information. Current interactive charts follow the selected active-posting filters; academic-year summaries include active and archived postings. Areas can overlap, map locations may be approximate, and pay, application-material, or visa-sponsorship information may be unavailable or unreported for some postings. No stated sponsorship policy does not establish that an employer will refuse sponsorship; a generic visa statement does not establish H-1B support. Applicants should confirm details with the hiring institution.
 
 ## Feedback
 
