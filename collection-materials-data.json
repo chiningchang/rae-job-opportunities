@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-09-28",
+  "reviewedOn": "2026-09-29",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -199,7 +199,7 @@
     },
     {
       "id": "RAE-0008",
-      "url": "https://apply.interfolio.com/183744",
+      "url": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179428931",
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
@@ -398,7 +398,7 @@
     },
     {
       "id": "RAE-0015",
-      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "url": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
       "review": "reviewed",
       "itemization": "itemized",
       "counts": {
@@ -679,6 +679,72 @@
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
+    },
+    {
+      "id": "RAE-0028",
+      "url": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0029",
+      "url": "https://careers.callutheran.edu/postings/13532",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
     }
   ]
 }
