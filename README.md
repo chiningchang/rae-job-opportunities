@@ -6,7 +6,7 @@ The collection supports students, alumni, and colleagues exploring faculty, post
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
-**Job board last updated:** September 25, 2026
+**Job board last updated:** September 29, 2026
 
 ## About
 
