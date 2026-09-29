@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-09-28",
+  "reviewedOn": "2026-09-29",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -74,12 +74,12 @@
     },
     {
       "id": "RAE-0008",
-      "url": "https://apply.interfolio.com/183744",
+      "url": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179428931",
       "status": "Not stated",
-      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "note": "No explicit visa sponsorship statement found in the accessible secondary posting.",
       "visaType": "",
-      "evidenceUrl": "https://apply.interfolio.com/183744",
-      "reviewedOn": "2026-09-28"
+      "evidenceUrl": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179428931",
+      "reviewedOn": "2026-09-29"
     },
     {
       "id": "RAE-0009",
@@ -137,12 +137,12 @@
     },
     {
       "id": "RAE-0015",
-      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "url": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
       "status": "Not offered",
-      "note": "The posting explicitly says applicants must not need visa sponsorship and the university will not sponsor work visas, including H-1B.",
-      "visaType": "Work visas, including H-1B",
-      "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
-      "reviewedOn": "2026-09-28"
+      "note": "The posting says applicants must already have unrestricted U.S. work authorization and that the university will not sponsor work visas.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
+      "reviewedOn": "2026-09-29"
     },
     {
       "id": "RAE-0016",
@@ -251,6 +251,24 @@
       "visaType": "",
       "evidenceUrl": "https://apply.interfolio.com/182513",
       "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0028",
+      "url": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "status": "Not stated",
+      "note": "No explicit visa sponsorship policy found in the official posting.",
+      "visaType": "",
+      "evidenceUrl": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "reviewedOn": "2026-09-29"
+    },
+    {
+      "id": "RAE-0029",
+      "url": "https://careers.callutheran.edu/postings/13532",
+      "status": "Not stated",
+      "note": "No explicit visa sponsorship policy found in the official posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.callutheran.edu/postings/13532",
+      "reviewedOn": "2026-09-29"
     }
   ]
 }
