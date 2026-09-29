@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-09-25",
+  "reviewedOn": "2026-09-29",
   "entries": [
     {
       "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
@@ -108,6 +108,22 @@
       "label": "Anticipated salary range",
       "note": "The posting says salary placement depends on qualifications and experience; period is not explicitly stated.",
       "reviewedOn": "2026-09-25"
+    },
+    {
+      "url": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "category": "numeric",
+      "amount": "$120,000–$140,000",
+      "label": "Salary range",
+      "note": "Pay period is not stated in the official posting.",
+      "reviewedOn": "2026-09-29"
+    },
+    {
+      "url": "https://careers.callutheran.edu/postings/13532",
+      "category": "numeric",
+      "amount": "$73,000–$82,000",
+      "label": "Hiring range",
+      "note": "The posting lists a 0.75 FTE academic-year appointment but does not state a pay period for this range.",
+      "reviewedOn": "2026-09-29"
     }
   ]
 }
