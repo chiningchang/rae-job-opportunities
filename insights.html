@@ -252,8 +252,13 @@ function renderCollectionRoles(pool,year){
  const label=new Intl.DateTimeFormat('en-US',{month:'short',timeZone:'UTC'}).format(m.date)+' '+m.date.getUTCFullYear();const b=node('button','collection-month');b.type='button';b.disabled=!m.rows.length;b.setAttribute('aria-label',label+': '+m.rows.length+' postings added. View list.');const track=node('span','month-track');m.counts.forEach((n,i)=>{if(!n)return;const seg=node('span','month-seg '+['faculty','teaching','postdoc'][i]);seg.style.width=(n/max*100)+'%';track.append(seg)});b.append(node('span','',label),track,node('strong','',String(m.rows.length)));b.append(node('small','month-breakdown',m.rows.length?m.counts.map((n,i)=>n?n+' '+['faculty','teaching','postdoc / research'][i]:'').filter(Boolean).join(' · '):'Before launch'));if(m.rows.length)b.addEventListener('click',()=>annualList('Added in '+label,year,m.rows));root.append(b)})
 }
 function payPlotRows(entry,job){
- const values=[...entry.amount.matchAll(/\$([\d,]+)/g)].map(m=>Number(m[1].replaceAll(',','')));if(!values.length)return[];
- const unit=/9-month/i.test(entry.amount)?'9-month academic year':/\/ month/i.test(entry.amount)?'Per month':/\/ year/i.test(entry.amount)?'Per year':'Period not stated';
+ const amountValues=text=>[...text.matchAll(/\$([\d,]+)/g)].map(m=>Number(m[1].replaceAll(',','')));
+ const amountUnit=text=>/9-month/i.test(text)?'9-month academic year':/\/ month/i.test(text)?'Per month':/\/ year/i.test(text)?'Per year':'Period not stated';
+ const parts=entry.amount.split(';').map(text=>({values:amountValues(text),unit:amountUnit(text)})).filter(x=>x.values.length);
+ // Explicitly stated amounts with different periods belong in separate groups.
+ if(parts.length>1&&parts.every(x=>x.unit!=='Period not stated')&&new Set(parts.map(x=>x.unit)).size>1)return parts.map(x=>({job,entry,unit:x.unit,label:job[2],low:x.values[0],high:x.values[1]??x.values[0]}));
+ const values=amountValues(entry.amount);if(!values.length)return[];
+ const unit=amountUnit(entry.amount);
  if(values.length===4&&/Assistant:/.test(entry.amount)&&/Associate:/.test(entry.amount))return[{job,entry,unit,label:job[2]+' · Assistant',low:values[0],high:values[1]},{job,entry,unit,label:job[2]+' · Associate',low:values[2],high:values[3]}];
  return[{job,entry,unit,label:job[2],low:values[0],high:values[1]??values[0]}]
 }
