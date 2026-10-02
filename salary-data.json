@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-09-29",
+  "reviewedOn": "2026-10-02",
   "entries": [
     {
       "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
@@ -74,7 +74,7 @@
       "reviewedOn": "2026-09-25"
     },
     {
-      "url": "https://bsu.wd12.myworkdayjobs.com/en-US/External/job/Ball-State-University/Assistant-Professor-of-Educational-Psychology--Tenure-Line-_R-03287",
+      "url": "https://www.universityjobs.com/posting/7371123",
       "category": "commensurate",
       "label": "No numeric amount",
       "note": "The posting describes salary as commensurate with qualifications or experience.",
@@ -110,7 +110,7 @@
       "reviewedOn": "2026-09-25"
     },
     {
-      "url": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "url": "https://appam.mcjobboard.net/jobs/236685",
       "category": "numeric",
       "amount": "$120,000–$140,000",
       "label": "Salary range",
@@ -124,6 +124,21 @@
       "label": "Hiring range",
       "note": "The posting lists a 0.75 FTE academic-year appointment but does not state a pay period for this range.",
       "reviewedOn": "2026-09-29"
+    },
+    {
+      "url": "https://recruit.ap.uci.edu/JPF10334",
+      "category": "numeric",
+      "amount": "$80,800–$104,700",
+      "label": "Published salary range",
+      "note": "Pay period not explicitly stated beside the range.",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "category": "commensurate",
+      "label": "9-month academic appointment",
+      "note": "Negotiable; based on experience and qualifications.",
+      "reviewedOn": "2026-10-02"
     }
   ]
 }

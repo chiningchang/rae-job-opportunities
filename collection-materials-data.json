@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-09-29",
+  "reviewedOn": "2026-10-02",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -54,7 +54,7 @@
     },
     {
       "id": "RAE-0003",
-      "url": "https://bsu.wd12.myworkdayjobs.com/en-US/External/job/Ball-State-University/Assistant-Professor-of-Educational-Psychology--Tenure-Line-_R-03287",
+      "url": "https://www.universityjobs.com/posting/7371123",
       "review": "reviewed",
       "itemization": "itemized",
       "counts": {
@@ -199,7 +199,7 @@
     },
     {
       "id": "RAE-0008",
-      "url": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179428931",
+      "url": "https://epiresearch.org/frm_display/job-listings/jobdetails/274266/",
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
@@ -244,7 +244,7 @@
     },
     {
       "id": "RAE-0010",
-      "url": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179547591",
+      "url": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147075",
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
@@ -682,7 +682,7 @@
     },
     {
       "id": "RAE-0028",
-      "url": "https://cew.georgetown.edu/wp-content/uploads/Assistant_Associate-Research-Professor-Job-Description.pdf",
+      "url": "https://appam.mcjobboard.net/jobs/236685",
       "review": "reviewed",
       "itemization": "itemized",
       "counts": {
@@ -743,6 +743,120 @@
           "required": 1,
           "conditional": 0,
           "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0030",
+      "url": "https://recruit.ap.uci.edu/JPF10334",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0031",
+      "url": "https://careers.insidehighered.com/job/3555712/open-rank-professor-in-statistics-social-work/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0032",
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
         }
       }
     }
