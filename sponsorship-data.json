@@ -21,11 +21,11 @@
     {
       "id": "RAE-0002",
       "url": "https://jobs.coastal.edu/postings/122779",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship policy found in the captured posting.",
-      "visaType": "",
+      "status": "Conditional or limited",
+      "note": "Employer-based sponsorship may be considered after institutional and legal review.",
+      "visaType": "Not specified",
       "evidenceUrl": "https://jobs.coastal.edu/postings/122779",
-      "reviewedOn": "2026-09-28"
+      "reviewedOn": "2026-10-02"
     },
     {
       "id": "RAE-0003",
@@ -74,7 +74,7 @@
     },
     {
       "id": "RAE-0008",
-      "url": "https://epiresearch.org/frm_display/job-listings/jobdetails/274266/",
+      "url": "https://hiringcafe.com/job/assistant-professor-quantitative-science-program-brown-university-m5lax13cz2sg89ed",
       "status": "Not stated",
       "note": "No explicit visa sponsorship statement found in the accessible secondary posting.",
       "visaType": "",
@@ -295,6 +295,123 @@
       "note": "No explicit sponsorship statement found.",
       "visaType": "",
       "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0033",
+      "url": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0034",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0035",
+      "url": "https://facultypositions.stanford.edu/jobs/faculty-position-in-early-learning-mechanisms-and-interventions-stanford-university-california-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://facultypositions.stanford.edu/jobs/faculty-position-in-early-learning-mechanisms-and-interventions-stanford-university-california-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0036",
+      "url": "https://morgan.peopleadmin.com/postings/8965/print_preview",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://morgan.peopleadmin.com/postings/8965/print_preview",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0037",
+      "url": "https://www.psychometricsociety.org/post/jobad-2026-asu-asst-prof",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://www.psychometricsociety.org/post/jobad-2026-asu-asst-prof",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0038",
+      "url": "https://careers.insidehighered.com/job/3556788/term-open-rank-teaching-professor-of-community-and-global-health/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3556788/term-open-rank-teaching-professor-of-community-and-global-health/",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0039",
+      "url": "https://jobs.sjsu.edu/sj/en-us/job/562676/assistant-professor-school-of-information-youth-information-ecosystems-critical-technology-studies-and-ai",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.sjsu.edu/sj/en-us/job/562676/assistant-professor-school-of-information-youth-information-ecosystems-critical-technology-studies-and-ai",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0040",
+      "url": "https://careers.insidehighered.com/job/3555621/assistant-professor-in-special-education-specialization-in-critical-disability-studies",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3555621/assistant-professor-in-special-education-specialization-in-critical-disability-studies",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0041",
+      "url": "https://jobs.ncat.edu/postings/40883",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.ncat.edu/postings/40883",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0042",
+      "url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0043",
+      "url": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0044",
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0045",
+      "url": "https://jobs.millersville.edu/postings/15272",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.millersville.edu/postings/15272",
       "reviewedOn": "2026-10-02"
     }
   ]
