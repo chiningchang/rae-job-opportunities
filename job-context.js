@@ -72,18 +72,18 @@ window.JobContext = (() => {
     });
     section.append(stack, list); root.append(section); return section;
   }
-  function render(root, rows, scope, open) {
+  function render(root, rows, scope, open, sections = ['appointment','control','research','teaching']) {
     root.replaceChildren();
     root.append(n('p', 'jc-scope', scope));
     if (!data) { root.append(n('p', 'jc-note', 'Context data is temporarily unavailable. Browse the postings for employer details.')); return; }
     if (!rows.length) { root.append(n('p', 'jc-note', 'No postings match this selection.')); return; }
     const grid = n('div', 'jc-grid');
-    panel(grid, 'Appointment Tracks', 'Tracks follow explicit announcements or applicable appointment policies. Rank alone does not establish tenure.', rows, grouped(rows, appointment), open, ['#ba8500','#376c72','#845e85','#766a53','#507d57','#9c5353','#697483','#ababab'], 'appointment');
-    panel(grid, 'Institution Types', 'Institutional control is linked to the verified employer and campus.', rows, grouped(rows, e => e?.institutionContext.control || 'Unable to assess'), open, ['#376c72','#c89521','#8a8a8a'], 'control');
-    panel(grid, 'Research Designations', 'Carnegie 2025: R1, R2, RCU or no research designation. RCU means Research Colleges and Universities: institutions with at least $2.5 million in annual research spending that are not designated R1 or R2. These categories do not classify teaching orientation.', rows, grouped(rows, research), open, ['#376c72','#c89521','#845e85','#8a8a8a'], 'research');
-    const teaching = panel(grid, 'Teaching Loads', 'Disclosure across all selected postings. Not stated is not zero teaching.', rows, grouped(rows, loadStatus), open, ['#376c72','#a9aaab','#c89521','#845e85'], 'teaching');
+    if (sections.includes('appointment')) panel(grid, 'Appointment Tracks', 'Tracks follow explicit announcements or applicable appointment policies. Rank alone does not establish tenure.', rows, grouped(rows, appointment), open, ['#ba8500','#376c72','#845e85','#766a53','#507d57','#9c5353','#697483','#ababab'], 'appointment');
+    if (sections.includes('control')) panel(grid, 'Institution Types', 'Institutional control is linked to the verified employer and campus.', rows, grouped(rows, e => e?.institutionContext.control || 'Unable to assess'), open, ['#376c72','#c89521','#8a8a8a'], 'control');
+    if (sections.includes('research')) panel(grid, 'Research Designations', 'Carnegie 2025: R1, R2, RCU or no research designation. RCU means Research Colleges and Universities: institutions with at least $2.5 million in annual research spending that are not designated R1 or R2. These categories do not classify teaching orientation.', rows, grouped(rows, research), open, ['#376c72','#c89521','#845e85','#8a8a8a'], 'research');
+    const teaching = sections.includes('teaching') ? panel(grid, 'Teaching Loads', 'Disclosure across all selected postings. Not stated is not zero teaching.', rows, grouped(rows, loadStatus), open, ['#376c72','#a9aaab','#c89521','#845e85'], 'teaching') : null;
     const numeric = rows.filter(x => loadStatus(entry(x.job)) === 'Numeric load stated');
-    if (numeric.length) {
+    if (teaching && numeric.length) {
       const more = n('details', 'jc-load-more'); more.append(n('summary', '', 'Explore stated loads · ' + numeric.length + ' posting' + (numeric.length === 1 ? '' : 's')));
       const list = n('div', 'jc-load-list');
       grouped(numeric, e => e.teaching.standardized + ' · ' + e.teaching.unit + ' · ' + e.teaching.period).forEach(([label, matched]) => {
