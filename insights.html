@@ -64,6 +64,14 @@
 .postings-dialog .result .jc-source-detail p:first-child{margin-top:0}
 .postings-dialog .result .jc-source-detail p:last-child{margin-bottom:0}
 @media(max-width:640px){.postings-dialog .results>.result{padding:15px}.postings-dialog .result .jc-source-detail{padding:12px}}
+
+/* Sponsorship drill-down: each posting and its evidence form one visual card */
+.postings-dialog .result .sponsorship-evidence{margin-top:12px;padding:13px 15px;border:0;border-radius:8px;background:#f6f5f1;color:#333}
+.postings-dialog .result .sponsorship-evidence p{margin:0 0 7px;font-size:13px;line-height:1.5}
+.postings-dialog .result .sponsorship-evidence .sponsorship-evidence-status{font-weight:700;color:#171717;font-size:14px}
+.postings-dialog .result .sponsorship-evidence .sponsorship-evidence-note{font-size:13px}
+.postings-dialog .result .sponsorship-evidence .sponsorship-evidence-type{color:#555}
+.postings-dialog .result .sponsorship-evidence .sponsorship-evidence-source{display:inline-block;font-size:13px;margin-top:3px;font-weight:700}
 </style>
 <link rel="stylesheet" href="job-context.css">
 <script src="job-context.js"></script>
@@ -225,7 +233,7 @@
       const button=node('button','sponsorship-row');button.type='button';button.setAttribute('aria-label',name+': '+rows.length+' of '+subset.length+' postings. View list.');
       const head=node('span','sponsorship-row-head');head.append(node('span','',name),node('span','',rows.length+' · '+(Math.round(rows.length/subset.length*1000)/10)+'%'));
       const track=node('span','sponsorship-track'),fill=node('span','sponsorship-fill '+style);fill.style.width=(rows.length/subset.length*100)+'%';track.append(fill);button.append(head,track);
-      button.addEventListener('click',()=>{el('resultsTitle').textContent='Visa sponsorship · '+name;el('resultsSub').textContent=rows.length+' of '+subset.length+' matching active postings · Statement in the available job posting';renderResults(rows.map(x=>x.job));[...el('results').children].forEach((card,i)=>{card.append(node('p','sponsorship-detail',rows[i].entry?.note||'Policy could not be assessed from the available source.'))});openPostings()});list.append(button)
+      button.addEventListener('click',()=>{el('resultsTitle').textContent='Visa sponsorship · '+name;el('resultsSub').textContent=rows.length+' of '+subset.length+' matching active postings · Statement in the available job posting';renderResults(rows.map(x=>x.job));[...el('results').children].forEach((card,i)=>{{const entry=rows[i].entry;const detail=node('div','sponsorship-evidence');detail.append(node('p','sponsorship-evidence-status','Visa Sponsorship: '+(entry?.status||'Unable to assess')));detail.append(node('p','sponsorship-evidence-note',entry?.note||'Policy could not be assessed from the available source.'));if(entry?.visaType&&entry.visaType!=='Not specified')detail.append(node('p','sponsorship-evidence-type','Visa type: '+entry.visaType));if(entry?.evidenceUrl){const source=link(entry.evidenceUrl,'Sponsorship source ↗');source.className='sponsorship-evidence-source';detail.append(source)}card.append(detail)}});openPostings()});list.append(button)
     });root.append(list,node('p','sponsorship-note','Not stated means no explicit sponsorship policy was found in the available posting, not that the employer will not sponsor. Conditional or limited statements may apply only to particular visa types or circumstances. A general visa-sponsorship statement does not establish H-1B sponsorship. This chart describes posting language, not an eligibility decision. Reviewed '+new Date(sponsorshipData.reviewedOn+'T12:00:00Z').toLocaleDateString('en-US',{month:'short',day:'numeric',year:'numeric',timeZone:'UTC'})+'. Confirm current details with the employer.'))
   }
   function renderPay(subset){
