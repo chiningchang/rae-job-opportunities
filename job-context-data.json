@@ -1,0 +1,1855 @@
+{
+  "version": 1,
+  "reviewedOn": "2026-10-08",
+  "classification": "Carnegie 2025",
+  "entries": [
+    {
+      "id": "RAE-0001",
+      "position": "Assistant Professor in Educational Leadership",
+      "institution": "California State University Channel Islands",
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "441937",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0002",
+      "position": "Assistant/Associate Professor in Educational Research",
+      "institution": "Coastal Carolina University",
+      "url": "https://jobs.coastal.edu/postings/122779",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.coastal.edu/postings/122779",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "218724",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.coastal.edu/postings/122779",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0003",
+      "position": "Assistant Professor of Educational Psychology (Tenure-Line)",
+      "institution": "Ball State University",
+      "url": "https://www.universityjobs.com/posting/7371123",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7371123",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "150136",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Three graduate courses each fall and spring",
+        "unit": "Courses",
+        "period": "Fall and spring semesters",
+        "standardized": "3-3",
+        "annualCourses": "6",
+        "notes": "Online or on-campus courses; no reduction stated.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7371123",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0004",
+      "position": "Multiple Open Rank Tenured/Tenure-Track Faculty Positions in Lifetime Learning Systems, Learning Sciences, and AI in Education",
+      "institution": "Georgia Institute of Technology",
+      "url": "https://lifetimelearning.gatech.edu/faculty-opportunities",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Open-rank advertisement explicitly offers tenured and tenure-track positions.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://lifetimelearning.gatech.edu/faculty-opportunities",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "139755",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://lifetimelearning.gatech.edu/faculty-opportunities",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0005",
+      "position": "Psychology - Quantitative Methods Assistant Professor",
+      "institution": "California State University, Fresno",
+      "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "110556",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "12 instructional WTUs plus 3 non-instructional WTUs",
+        "unit": "Weighted teaching units (WTUs)",
+        "period": "Not stated",
+        "standardized": "12 instructional WTUs",
+        "annualCourses": null,
+        "notes": "Do not convert WTUs to course count; period not specified in the posting.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0006",
+      "position": "Tenure Track Faculty, Iowa Testing Programs",
+      "institution": "The University of Iowa",
+      "url": "https://jobs.uiowa.edu/faculty/view/75924",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Fiscal-year tenure-track appointment at assistant, associate, or full professor rank; rank alone does not establish tenure on hire.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.uiowa.edu/faculty/view/75924",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "153658",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.uiowa.edu/faculty/view/75924",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0007",
+      "position": "Assistant Professor – Artificial Intelligence Education",
+      "institution": "New Mexico State University",
+      "url": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "188030",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.nmsu.edu/jobs/assistant-professor-artificial-intelligence-education-las-cruces-new-mexico-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0008",
+      "position": "Assistant Professor, Quantitative Science Program",
+      "institution": "Brown University",
+      "url": "https://hiringcafe.com/job/assistant-professor-quantitative-science-program-brown-university-m5lax13cz2sg89ed",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Posting specifies assistant professor duties but does not explicitly establish tenure eligibility.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://hiringcafe.com/job/assistant-professor-quantitative-science-program-brown-university-m5lax13cz2sg89ed",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "217156",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://hiringcafe.com/job/assistant-professor-quantitative-science-program-brown-university-m5lax13cz2sg89ed",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0009",
+      "position": "Assistant or Associate Professor of Education",
+      "institution": "Bowdoin College",
+      "url": "https://careers.bowdoin.edu/postings/17966",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.bowdoin.edu/postings/17966",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "161004",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.bowdoin.edu/postings/17966",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0010",
+      "position": "Assistant Professor – Educational Research (EdD)",
+      "institution": "Austin Peay State University",
+      "url": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147075",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147075",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "219602",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147075",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0011",
+      "position": "Assistant/Associate Professor in Quantitative Psychology",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "100751",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0012",
+      "position": "Postdoctoral Associate, National Tutoring Observatory",
+      "institution": "Cornell University",
+      "url": "https://academicjobsonline.org/ajo/jobs/32467",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/32467",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "190415",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/32467",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0013",
+      "position": "Assistant Teaching Professor, Quantitative Methods-Psychology",
+      "institution": "University of California, Berkeley",
+      "url": "https://aprecruit.berkeley.edu/JPF05480",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Security of employment track",
+        "detail": "Teaching Professor series offers review for promotion to Associate Professor of Teaching with security of employment, described as equivalent to tenure; kept separate from standard tenure-track.",
+        "reviewStatus": "Verified from historical source capture",
+        "evidenceUrl": "https://aprecruit.berkeley.edu/JPF05480",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "110635",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://aprecruit.berkeley.edu/JPF05480",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0014",
+      "position": "Assistant Professor, Research Methodology Cluster Hire (3 positions)",
+      "institution": "University of Tennessee, Knoxville",
+      "url": "https://careers.insidehighered.com/job/3551027/assistant-professor-research-methodology-cluster-hire-fall-2027/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3551027/assistant-professor-research-methodology-cluster-hire-fall-2027/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "221759",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3551027/assistant-professor-research-methodology-cluster-hire-fall-2027/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0015",
+      "position": "Assistant Professor, Educational Research and Statistics",
+      "institution": "University of Southern Mississippi",
+      "url": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from partial secondary posting",
+        "evidenceUrl": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "176372",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Unable to assess",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Original/full posting unavailable or abbreviated; silence cannot be treated as no teaching.",
+        "reviewStatus": "Unable to assess",
+        "evidenceUrl": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0016",
+      "position": "Assistant Professor of Educational Studies (Instructional Design, Technology, and Quantitative Methods Focus)",
+      "institution": "University of Nevada, Reno",
+      "url": "https://nshe.wd1.myworkdayjobs.com/en-US/UNR-external/job/Assistant-Professor-of-Educational-Studies--Instructional-Design--Technology--and-Quantitative-Methods-Focus-_R0153407-1",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Official job description specifies Assistant Professor, but no explicit tenure eligibility was found.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://nshe.wd1.myworkdayjobs.com/en-US/UNR-external/job/Assistant-Professor-of-Educational-Studies--Instructional-Design--Technology--and-Quantitative-Methods-Focus-_R0153407-1",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "182290",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://nshe.wd1.myworkdayjobs.com/en-US/UNR-external/job/Assistant-Professor-of-Educational-Studies--Instructional-Design--Technology--and-Quantitative-Methods-Focus-_R0153407-1",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0017",
+      "position": "Assistant Professor, Educational Policy Studies & Evaluation: Qualitative Research Design & Methods",
+      "institution": "University of Kentucky",
+      "url": "https://ukjobs.uky.edu/postings/640330/print_preview",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://ukjobs.uky.edu/postings/640330/print_preview",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "157085",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://ukjobs.uky.edu/postings/640330/print_preview",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0018",
+      "position": "Open Rank, Quantitative & Computational Methods (3 positions)",
+      "institution": "Texas A&M University",
+      "url": "https://faculty.tamu.edu/JobDetail?JobId=190514",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Assistant: tenure-track; Associate/Professor: tenured, subject to tenure review upon hire.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://faculty.tamu.edu/JobDetail?JobId=190514",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "228723",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Typical departmental load: 3 courses per year",
+        "unit": "Courses",
+        "period": "Year; term allocation not stated",
+        "standardized": "3 courses/year",
+        "annualCourses": "3",
+        "notes": "Typical departmental expectation, not a guaranteed individual assignment; no term split inferred.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://faculty.tamu.edu/JobDetail?JobId=190514",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0019",
+      "position": "Assistant Professor, Quantitative Methodology: Measurement and Statistics",
+      "institution": "University of Maryland, College Park",
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "163286",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0020",
+      "position": "Assistant Professor, Quantitative Psychology",
+      "institution": "Illinois State University",
+      "url": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "145813",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Typically 3 classes per semester",
+        "unit": "Courses",
+        "period": "Semester",
+        "standardized": "3 courses/semester",
+        "annualCourses": null,
+        "notes": "Typical expectation; annual total not inferred.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://jobsearch.illinoisstate.edu/jobs/assistant-professor-quantitative-psychology-normal-illinois-illinois-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0021",
+      "position": "Postdoc, Operational Psychometrics & Educational Data Science",
+      "institution": "Stanford University",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Verified from historical source capture",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "243744",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0022",
+      "position": "Postdoctoral Research Scientist, Applied Modeling, Measurement & Methodology Lab",
+      "institution": "Fordham University",
+      "url": "https://careers.fordham.edu/postings/11864/print_preview",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.fordham.edu/postings/11864/print_preview",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "191241",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://careers.fordham.edu/postings/11864/print_preview",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0023",
+      "position": "Postdoctoral Scholar, AI & Learning Analytics for Tutoring and Student Pathways",
+      "institution": "Vanderbilt University",
+      "url": "https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=928",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=928",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "221999",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://www.vanderbilt.edu/postdoc/prospective-postdocs/current-opportunities/?id=928",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0024",
+      "position": "Assistant Professor of Psychology (Quantitative Psychology)",
+      "institution": "San Diego State University",
+      "url": "https://careers.pageuppeople.com/873/sd/en-us/job/559042/assistant-professor-of-psychology",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/873/sd/en-us/job/559042/assistant-professor-of-psychology",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "122409",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/873/sd/en-us/job/559042/assistant-professor-of-psychology",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0025",
+      "position": "Postdoctoral Associate, Yale Center for Emotional Intelligence",
+      "institution": "Yale University",
+      "url": "https://postdocs.yale.edu/posts/2026-07-08-postdoctoral-associate-the-yale-center-for-emotional-intelligence-ycei-part-of-the",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Unable to assess original source",
+        "evidenceUrl": "https://postdocs.yale.edu/posts/2026-07-08-postdoctoral-associate-the-yale-center-for-emotional-intelligence-ycei-part-of-the",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "130794",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Unable to assess",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Original/full posting unavailable or abbreviated; silence cannot be treated as no teaching.",
+        "reviewStatus": "Unable to assess",
+        "evidenceUrl": "https://postdocs.yale.edu/posts/2026-07-08-postdoctoral-associate-the-yale-center-for-emotional-intelligence-ycei-part-of-the",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0027",
+      "position": "Research Assistant Professor, Biostatistics or Quantitative Psychology",
+      "institution": "University of Oklahoma Health Sciences Center",
+      "url": "https://apply.interfolio.com/182513",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Research track (tenure not specified)",
+        "detail": "Historical original source labels this a Research Track / Assistant Professor of Research position; tenure eligibility not explicitly stated.",
+        "reviewStatus": "Verified from historical source capture",
+        "evidenceUrl": "https://apply.interfolio.com/182513",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "207342",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://apply.interfolio.com/182513",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0028",
+      "position": "Assistant/Associate Research Professor",
+      "institution": "Georgetown University",
+      "url": "https://appam.mcjobboard.net/jobs/236685",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Explicitly non-tenure-track, fully remote research faculty position.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://appam.mcjobboard.net/jobs/236685",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "131496",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://appam.mcjobboard.net/jobs/236685",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0029",
+      "position": "Assistant Professor of Psychology",
+      "institution": "California Lutheran University",
+      "url": "https://careers.callutheran.edu/postings/13532",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.callutheran.edu/postings/13532",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "110413",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.callutheran.edu/postings/13532",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0030",
+      "position": "Assistant Professor, Psychology – Quantitative, Computational, and Data Science",
+      "institution": "University of California, Irvine",
+      "url": "https://recruit.ap.uci.edu/JPF10334",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://recruit.ap.uci.edu/JPF10334",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "110653",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://recruit.ap.uci.edu/JPF10334",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0031",
+      "position": "Open Rank Professor in Statistics, Social Work",
+      "institution": "Binghamton University, State University of New York",
+      "url": "https://careers.insidehighered.com/job/3555712/open-rank-professor-in-statistics-social-work/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Scholarship appropriate for tenure and promotion is mentioned, but the appointment route is not explicitly identified.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3555712/open-rank-professor-in-statistics-social-work/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "196079",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3555712/open-rank-professor-in-statistics-social-work/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0032",
+      "position": "Assistant, Associate, or Full Professor of Learning Sciences – RISE-AI",
+      "institution": "University of Wisconsin–Madison",
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Advertised as open-rank tenure-track; senior-rank tenure standards are discussed without a guaranteed tenure-on-hire statement.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "240444",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0033",
+      "position": "Tenure-Track Assistant Professor, Human Behavior, Research, and Policy",
+      "institution": "Boston University",
+      "url": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "164988",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0034",
+      "position": "Assistant/Associate Professor of Instructional Technology",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Official title/category states Tenure/Tenure Track; appointment depends on rank/offer and is not reduced to one track.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "100751",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0035",
+      "position": "Faculty Position in Early Learning: Mechanisms and Interventions",
+      "institution": "Stanford University",
+      "url": "https://facultypositions.stanford.edu/jobs/faculty-position-in-early-learning-mechanisms-and-interventions-stanford-university-california-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure line (route not specified)",
+        "detail": "Official source identifies University Tenure Line; track versus tenure on hire is not specified.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://facultypositions.stanford.edu/jobs/faculty-position-in-early-learning-mechanisms-and-interventions-stanford-university-california-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "243744",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://facultypositions.stanford.edu/jobs/faculty-position-in-early-learning-mechanisms-and-interventions-stanford-university-california-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0036",
+      "position": "Tenure-Track Assistant/Associate Professor, Higher Education and Student Affairs",
+      "institution": "Morgan State University",
+      "url": "https://morgan.peopleadmin.com/postings/8965/print_preview",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://morgan.peopleadmin.com/postings/8965/print_preview",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "163453",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://morgan.peopleadmin.com/postings/8965/print_preview",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0037",
+      "position": "Assistant Professor, Social and Family Dynamics",
+      "institution": "Arizona State University",
+      "url": "https://www.ncfr.org/jobs-center/arizona-state-university-assistant-professor",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.ncfr.org/jobs-center/arizona-state-university-assistant-professor",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "104151",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.ncfr.org/jobs-center/arizona-state-university-assistant-professor",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0038",
+      "position": "Term Open Rank Teaching Professor, Community-Engaged Methodologies",
+      "institution": "Lehigh University",
+      "url": "https://careers.insidehighered.com/job/3556788/term-open-rank-teaching-professor-of-community-and-global-health/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Renewable fixed-term non-tenure-track teaching position; initial three-year term.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3556788/term-open-rank-teaching-professor-of-community-and-global-health/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "213543",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3556788/term-open-rank-teaching-professor-of-community-and-global-health/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0039",
+      "position": "Assistant Professor, Youth Information Ecosystems, Critical Technology Studies, and AI Literacy",
+      "institution": "San José State University",
+      "url": "https://jobs.sjsu.edu/sj/en-us/job/562676/assistant-professor-school-of-information-youth-information-ecosystems-critical-technology-studies-and-ai",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.sjsu.edu/sj/en-us/job/562676/assistant-professor-school-of-information-youth-information-ecosystems-critical-technology-studies-and-ai",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "122755",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.sjsu.edu/sj/en-us/job/562676/assistant-professor-school-of-information-youth-information-ecosystems-critical-technology-studies-and-ai",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0040",
+      "position": "Assistant Professor in Special Education: Critical Disability Studies",
+      "institution": "University of Washington",
+      "url": "https://careers.insidehighered.com/job/3555621/assistant-professor-in-special-education-specialization-in-critical-disability-studies",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3555621/assistant-professor-in-special-education-specialization-in-critical-disability-studies",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "236948",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Equivalent of 6 standard courses per academic year",
+        "unit": "Standard-course equivalents",
+        "period": "Academic year; term allocation not stated",
+        "standardized": "6 course-equivalents/academic year",
+        "annualCourses": "6",
+        "notes": "Do not convert to 3-3 or 2-2-2; standard-course equivalents are preserved.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3555621/assistant-professor-in-special-education-specialization-in-critical-disability-studies",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0041",
+      "position": "Assistant Professor & Coordinator of Adult Education",
+      "institution": "North Carolina Agricultural and Technical State University",
+      "url": "https://jobs.ncat.edu/postings/40883",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.ncat.edu/postings/40883",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "199102",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.ncat.edu/postings/40883",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0042",
+      "position": "Assistant/Associate Professor in Educational Policy Studies – RISE Earth",
+      "institution": "University of Wisconsin–Madison",
+      "url": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Advertised as tenure-track; associate candidates must meet qualifications for appointment with tenure, which is not a guaranteed offer.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "240444",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-or-associate-professor-in-educational-policy-studies-rise-earth-madison-wisconsin-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0043",
+      "position": "Assistant Professor of Education (Special Education)",
+      "institution": "Randolph College",
+      "url": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "233301",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "3/3 teaching load",
+        "unit": "Courses (posting notation)",
+        "period": "Posting uses 3/3 notation",
+        "standardized": "3-3",
+        "annualCourses": "6",
+        "notes": "College uses two 7-week sessions per semester; retain advertised load without inferring preparation count.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0044",
+      "position": "Open Rank Professor of Psychology – Quantitative Psychology",
+      "institution": "The University of Oklahoma",
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Open-rank advertisement explicitly offers tenured and tenure-track appointments; no rank-specific tenure guarantee inferred.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "207500",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "2:2 teaching load; two courses per semester",
+        "unit": "Courses",
+        "period": "Semester",
+        "standardized": "2-2",
+        "annualCourses": "4",
+        "notes": "No reduction stated.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0045",
+      "position": "Tenure-Track Assistant/Associate Psychology Professor (School Psychology)",
+      "institution": "Millersville University of Pennsylvania",
+      "url": "https://jobs.millersville.edu/postings/15272",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from historical source capture",
+        "evidenceUrl": "https://jobs.chronicle.com/job/38031285/tenure-track-assistant-associate-psychology-professor-beginning-august-2027-/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "214041",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.chronicle.com/job/38031285/tenure-track-assistant-associate-psychology-professor-beginning-august-2027-/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0046",
+      "position": "Assistant Professor, Quantitative Research Methodologist (AI/ML/NLP)",
+      "institution": "Johns Hopkins University",
+      "url": "https://facultyjobs.jhu.edu/positions/details?postingId=A-193721-3",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3553921/assistant-professor-quantitative-research-methodologist-ai-ml-nlp-/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "162928",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3553921/assistant-professor-quantitative-research-methodologist-ai-ml-nlp-/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0047",
+      "position": "Assistant/Associate Professor, AI-Based Quantitative Research Methods in Education",
+      "institution": "University of Florida",
+      "url": "https://explore.jobs.ufl.edu/cw/en-us/job/541521/assistantassociate-professor-position-in-aibased-quantitative-research-method-in-education",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://explore.jobs.ufl.edu/cw/en-us/job/541521/assistantassociate-professor-position-in-aibased-quantitative-research-method-in-education",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "134130",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://explore.jobs.ufl.edu/cw/en-us/job/541521/assistantassociate-professor-position-in-aibased-quantitative-research-method-in-education",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0048",
+      "position": "Assistant Professor in Educational Leadership and Policy",
+      "institution": "Florida State University",
+      "url": "https://careers.insidehighered.com/job/3547611/assistant-professor-in-educational-leadership-and-policy-9-month-salaried-educational-leader-/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3547611/assistant-professor-in-educational-leadership-and-policy-9-month-salaried-educational-leader-/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "134097",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3547611/assistant-professor-in-educational-leadership-and-policy-9-month-salaried-educational-leader-/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0049",
+      "position": "Assistant Professor of Education, General Faculty (Curriculum & Instruction)",
+      "institution": "University of Virginia",
+      "url": "https://careers.insidehighered.com/job/3550357/assistant-professor-of-education-general-faculty-curriculum-and-instruction-/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Explicitly tenure-ineligible teaching-track, nine-month appointment.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3550357/assistant-professor-of-education-general-faculty-curriculum-and-instruction-/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "234076",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Prior Teaching Expectations summary mentions 3-3, but no numeric load is present in the source reviewed now; not coded pending clarification.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3550357/assistant-professor-of-education-general-faculty-curriculum-and-instruction-/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0050",
+      "position": "Assistant Professor of Educational Studies (Community-Based Education)",
+      "institution": "Trinity College",
+      "url": "https://trincoll.peopleadmin.com/postings/3754",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://trincoll.peopleadmin.com/postings/3754",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "130590",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "2/2 for first two years; 3/2 thereafter",
+        "unit": "Courses",
+        "period": "Academic year with two-term notation",
+        "standardized": "3-2 (regular); 2-2 (first two years)",
+        "annualCourses": "5",
+        "notes": "First two years: 4 courses/year; thereafter: 5. One-semester leave every fourth year. Annual field represents regular load, not initial reduction.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://trincoll.peopleadmin.com/postings/3754",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0051",
+      "position": "Assistant/Associate Professor, Mathematics (Statistics or Statistics Education)",
+      "institution": "Marist University",
+      "url": "https://careers.pageuppeople.com/mob/870/cw/en-us/job/494039/assistantassociate-professor-mathematics",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/mob/870/cw/en-us/job/494039/assistantassociate-professor-mathematics",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "192819",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/mob/870/cw/en-us/job/494039/assistantassociate-professor-mathematics",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0052",
+      "position": "Assistant Professor, Counseling",
+      "institution": "Wichita State University",
+      "url": "https://jobs.wichita.edu/jobs/assistant-professor-9-month-counseling-wichita-kansas-united-states",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.wichita.edu/jobs/assistant-professor-9-month-counseling-wichita-kansas-united-states",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "156125",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.wichita.edu/jobs/assistant-professor-9-month-counseling-wichita-kansas-united-states",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0053",
+      "position": "Assistant or Associate Professor of Higher Education Policy",
+      "institution": "Vanderbilt University",
+      "url": "https://appam.mcjobboard.net/jobs/236456",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Assistant: tenure-track; Associate: with tenure.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://appam.mcjobboard.net/jobs/236456",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "221999",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://appam.mcjobboard.net/jobs/236456",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0054",
+      "position": "Associate Professor in Educational Leadership (Research Methodology)",
+      "institution": "Texas A&M University–San Antonio",
+      "url": "https://tamus.wd1.myworkdayjobs.com/en-US/System-wide_External/job/Associate-Professor-in-Educational-Leadership--Research-Methodology-_R-091544-2",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://tamus.wd1.myworkdayjobs.com/en-US/System-wide_External/job/Associate-Professor-in-Educational-Leadership--Research-Methodology-_R-091544-2",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "459949",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://tamus.wd1.myworkdayjobs.com/en-US/System-wide_External/job/Associate-Professor-in-Educational-Leadership--Research-Methodology-_R-091544-2",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0055",
+      "position": "Assistant Research Professor, Information Science",
+      "institution": "Cornell University",
+      "url": "https://apps.hr.cornell.edu/recruiting/facultyview.cfm?posting_id=_JOB_POSTING-3-105183",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Assistant Research Professor is non-tenure-track under Cornell Academic HR title policy; job posting itself does not state the track.",
+        "reviewStatus": "Verified from official title policy and posting",
+        "evidenceUrl": "https://hr.cornell.edu/sites/default/files/documents/academic_titles.pdf",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "190415",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://apps.hr.cornell.edu/recruiting/facultyview.cfm?posting_id=_JOB_POSTING-3-105183",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0056",
+      "position": "Postdoctoral Research Associate, Gifted Education Research & Resource Institute",
+      "institution": "Purdue University",
+      "url": "https://careers.purdue.edu/job/Postdoctoral-Research-Associate/43836-en_US/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Postdoctoral appointment; kept separate from faculty tenure-track/non-tenure-track comparisons.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.purdue.edu/job/Postdoctoral-Research-Associate/43836-en_US/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "243780",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Reviewed duties focus on research/mentoring; no numeric teaching load or explicit zero teaching assignment was established.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://careers.purdue.edu/job/Postdoctoral-Research-Associate/43836-en_US/",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0057",
+      "position": "Visiting Assistant Professor of Higher Education",
+      "institution": "Purdue University",
+      "url": "https://careers.purdue.edu/job/Visiting-Assistant-Professor-in-Higher-Education/44090-en_US/",
+      "reviewedOn": "2026-10-08",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Visiting appointment, initial one-year term with possible second year; non-tenure-track designation supported by Purdue visiting-faculty policy.",
+        "reviewStatus": "Verified from official posting and title policy",
+        "evidenceUrl": "https://careers.purdue.edu/job/Visiting-Assistant-Professor-in-Higher-Education/44090-en_US/",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "243780",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "2 classes in Fall and 2 in Spring",
+        "unit": "Courses",
+        "period": "Fall and spring semesters",
+        "standardized": "2-2",
+        "annualCourses": "4",
+        "notes": "Initial visiting appointment is one year, with a possible mutually agreed second year.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://careers.purdue.edu/job/Visiting-Assistant-Professor-in-Higher-Education/44090-en_US/",
+        "reviewedOn": "2026-10-08"
+      }
+    }
+  ]
+}

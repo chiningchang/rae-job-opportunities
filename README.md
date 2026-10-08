@@ -6,7 +6,7 @@ The collection supports students, alumni, and colleagues exploring faculty, post
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
-**Job board last updated:** OctobeOctober 6, 2026
+**Job board last updated:** October 6, 2026
 
 ## About
 
@@ -61,3 +61,12 @@ Email: changc10@vcu.edu
 This job board summarizes publicly available information and does not reproduce full job advertisements. Listings are identified and curated through an AI-assisted search process and may contain errors, omissions, outdated information, or changes made by employers after an update. The resource is not affiliated with or endorsed by hiring institutions or job platforms. Inclusion of a position does not constitute endorsement by Virginia Commonwealth University, the RAE program, the Advanced Educational Statistics Certificate, CENTROID Applied Machine Learning Lab, or Nick Chang.
 
 Applicants are responsible for verifying position availability, eligibility requirements, deadlines, and all application details directly with the hiring institution.
+
+
+## Appointment and Institutional Context
+
+The board displays appointment-track tags where supported by explicit posting language or applicable official appointment policy. Insights provides a collapsible context dashboard for active postings, following the existing role, method and location filters. The academic-year collection includes the same statistics for active and archived postings.
+
+Context covers appointment tracks, public/private institutional control, Carnegie 2025 research designations (R1, R2, RCU and no designation), and teaching-load disclosure. Categories are clickable to inspect the corresponding postings and evidence. Teaching loads retain their stated units, periods and initial reductions; missing statements are not treated as zero. Institutional designations do not establish a department’s teaching expectations. These facts describe the curated collection, not the national market.
+
+Public context metadata is stored in `job-context-data.json`; it contains limited factual metadata and paraphrases, never private source PDFs or Google Drive references. The private Master List retains the fuller evidence record. Context review dates are separate from job-board release dates.
