@@ -91,10 +91,23 @@
 .insight-tab-indicator{display:none;align-items:center;justify-content:center;border-radius:50%;background:#171717;color:white;width:23px;height:23px;font-size:14px;flex:none}
 .insight-view-cards .tab.active .insight-tab-indicator{display:flex}
 @media(max-width:620px){.section-tabs.insight-view-cards{grid-template-columns:1fr;gap:9px}.section-tabs.insight-view-cards .tab{min-height:74px;padding:13px}.insight-tab-copy strong{font-size:15px}}
+</style><style>
+.primary-site-nav.topnav{display:flex;flex-wrap:wrap;gap:12px;align-items:stretch;margin-bottom:27px}
+.primary-site-nav.topnav a{display:flex;align-items:center;gap:12px;box-sizing:border-box;min-height:69px;min-width:245px;padding:12px 17px;border:2px solid #8b8b8b;border-radius:13px;background:rgba(255,255,255,.065);color:#fff;text-decoration:none;line-height:1.25;transition:background-color .15s,border-color .15s,transform .15s}
+.primary-site-nav.topnav a:hover{background:rgba(255,255,255,.16);border-color:#e5c46c;transform:translateY(-1px)}
+.primary-site-nav.topnav a[aria-current="page"]{background:#e5bc57;border-color:#e5bc57;color:#161616}
+.primary-site-nav.topnav a[aria-current="page"]:hover{background:#f0cb72}
+.primary-site-nav.topnav a:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.primary-site-nav .nav-icon{display:flex;align-items:center;justify-content:center;width:37px;height:37px;border-radius:9px;background:rgba(255,255,255,.13);font-size:23px;flex:none}
+.primary-site-nav a[aria-current="page"] .nav-icon{background:rgba(0,0,0,.09)}
+.primary-site-nav .nav-copy{display:flex;flex-direction:column;gap:4px}
+.primary-site-nav .nav-copy strong{font-size:15px;font-weight:800}
+.primary-site-nav .nav-copy small{font-size:12px;font-weight:400;opacity:.85}
+@media(max-width:560px){.primary-site-nav.topnav{display:grid;grid-template-columns:1fr 1fr;gap:8px}.primary-site-nav.topnav a{min-width:0;min-height:76px;padding:11px;gap:8px}.primary-site-nav .nav-icon{width:29px;height:29px;font-size:18px}.primary-site-nav .nav-copy strong{font-size:12px}.primary-site-nav .nav-copy small{font-size:10px}}
 </style></head>
 <body>
   <header class="hero">
-    <nav class="topnav" aria-label="Site navigation"><a href="index.html">Browse Job Postings</a><a href="insights.html" aria-current="page">Job Market Insights</a></nav>
+    <nav class="topnav primary-site-nav" aria-label="Site navigation"><a href="index.html"><span class="nav-icon" aria-hidden="true">▣</span><span class="nav-copy"><strong>Browse Job Postings</strong><small>Find academic opportunities</small></span></a><a href="insights.html" aria-current="page"><span class="nav-icon" aria-hidden="true">▥</span><span class="nav-copy"><strong>Job Market Insights</strong><small>Explore hiring trends</small></span></a></nav>
     <div class="eyebrow">Academic Job Opportunities in Educational Research Methodology</div>
     <h1>See the landscape<br>Plan your path</h1>
     <p>Explore current roles, see what they require, and plan your next step.</p>
