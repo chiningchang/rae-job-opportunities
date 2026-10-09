@@ -5,8 +5,8 @@ on:
       - '.github/workflows/rae-browser-qa.yml'
   workflow_dispatch:
   schedule:
-    # Run after the 2 AM Eastern release: 3 AM EST / 4 AM EDT (07:00 UTC).
-    - cron: '0 7 * * 2,5'
+    # Run after the 2 AM Eastern release: 3 AM EST / 4 AM EDT (08:00 UTC).
+    - cron: '0 8 * * 2,5'
 permissions:
   contents: read
 jobs:
