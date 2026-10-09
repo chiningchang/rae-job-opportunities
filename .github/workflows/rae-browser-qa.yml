@@ -5,8 +5,7 @@ on:
       - '.github/workflows/rae-browser-qa.yml'
   workflow_dispatch:
   schedule:
-    # Follow the 2 AM Eastern release with browser QA at 3 AM EDT / 3 AM EST.
-    # UTC 07:00 year-round avoids a missed run; this is 3 AM EST / 4 AM EDT.
+    # Run after the 2 AM Eastern release: 3 AM EST / 4 AM EDT (07:00 UTC).
     - cron: '0 7 * * 2,5'
 permissions:
   contents: read
@@ -31,15 +30,10 @@ jobs:
           const { chromium } = require(process.cwd() + '/node_modules/playwright');
           const fs = require('fs');
           const out = 'rae-qa-output';
-          const jobs = [
-            ['RAE-0062','Postdoctoral-Researcher-AI-Integrated-STEM-Education','https://jobs.tnstate.edu/postings/11120'],
-            ['RAE-0063','Millsap-Endowed-Professorship-Human-Development-Family-Science','https://jobs.psychologicalscience.org/job/13932/millsap-endowed-professorship-of-human-development-and-family-science/'],
-            ['RAE-0064','Assistant-Professor-Medical-Education-Assessment-Evaluation','https://faculty.utexas.edu/career/189048'],
-            ['RAE-0065','Assistant-Associate-Professor-Educational-Innovation-Institute','https://careers.insidehighered.com/job/3540608/assistant-associate-professor-educational-innovation-institute/'],
-            ['RAE-0066','Assistant-Associate-Professor-Curriculum-Educational-Research','https://careers.insidehighered.com/job/3540538/assistant-associate-professor-of-curriculum-educational-studies-or-educational-research'],
-            ['RAE-0067','Assistant-Associate-Professor-of-Education','https://careers.insidehighered.com/job/3540162/assistant-associate-professor-of-education/'],
-            ['RAE-0068','Assistant-Professor-Higher-Education-Student-Affairs','https://employment.niu.edu/postings/97497']
-          ];
+          const jobs = [];
+          const context=JSON.parse(fs.readFileSync('job-context-data.json','utf8'));
+          const byUrl=new Map(context.entries.filter(e=>e.id&&e.url).map(e=>[e.url.replace(/\\/$/,''),e]));
+          const slug=t=>String(t).normalize('NFKD').replace(/[^A-Za-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,105);
           const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
           const results={capturedAt:new Date().toISOString(),site:{},postings:[]};
           const page=await browser.newPage({viewport:{width:1440,height:900}});
@@ -53,8 +47,19 @@ jobs:
             results.site.newTitles=await page.locator('#jobs tr').allTextContents();
             results.site.newTitles=results.site.newTitles.slice(0,7).map(x=>x.slice(0,180));
             results.site.links=await page.locator('#jobs tr a[href]').count();
+            const activeRows=await page.locator('#jobs tr').evaluateAll(rows=>rows.map(row=>({isLatest:!!row.querySelector('.new-badge'),url:row.querySelector('a.btn')?.href||'',institution:row.cells[2]?.innerText?.trim()||''})));
+            results.site.latestCount=activeRows.filter(row=>row.isLatest).length;
+            const latest=activeRows.filter(row=>row.isLatest);
+            for(const row of latest){
+              const match=byUrl.get(row.url.replace(/\\/$/,''));
+              if(match)jobs.push([match.id,slug(match.position),row.url]);
+              else (results.site.unmatchedLatestUrls??=[]).push(row.url);
+            }
+            results.site.captureTargets=jobs.length;
+            const queryInstitution=activeRows[0]?.institution||'';
+
             await page.screenshot({path:out+'/screenshots/active.png',fullPage:true});
-            await page.locator('#q').fill('Tennessee State University');
+            await page.locator('#q').fill(queryInstitution);
             await page.waitForTimeout(700);
             results.site.searchRows=await page.locator('#jobs tr').count();
             results.site.searchText=(await page.locator('#jobs').innerText()).slice(0,450);
@@ -72,7 +77,7 @@ jobs:
             results.site.insightsTitle=await page.title();
             results.site.insightsBodyLength=(await page.locator('body').innerText()).length;
             await page.screenshot({path:out+'/screenshots/insights.png',fullPage:true});
-            results.site.passed=results.site.http===200&&results.site.activeRows===56&&results.site.searchRows===1&&results.site.archiveRows===11&&results.site.returnActiveRows===56&&results.site.insightsBodyLength>300;
+            results.site.passed=results.site.http===200&&results.site.activeRows>0&&results.site.searchRows>0&&results.site.searchRows<=results.site.activeRows&&results.site.archiveRows>=0&&results.site.returnActiveRows===results.site.activeRows&&results.site.insightsBodyLength>300&&!(results.site.errors?.length);
           }catch(e){results.site.error=String(e)}
           await page.close();
           for(const [id,slug,url] of jobs){
