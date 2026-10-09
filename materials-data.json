@@ -18,18 +18,18 @@
   ],
   "views": {
     "||": {
-      "total": 48,
-      "itemized": 42,
+      "total": 49,
+      "itemized": 43,
       "formatOnly": 0,
       "notStated": 6,
       "counts": {
         "Cover letter": {
-          "required": 38,
+          "required": 39,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 40,
+          "required": 41,
           "conditional": 0,
           "later": 0
         },
@@ -39,12 +39,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 23,
+          "required": 24,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 33,
+          "required": 34,
           "conditional": 0,
           "later": 1
         },
@@ -1332,18 +1332,18 @@
       }
     },
     "Faculty||": {
-      "total": 39,
-      "itemized": 35,
+      "total": 40,
+      "itemized": 36,
       "formatOnly": 0,
       "notStated": 4,
       "counts": {
         "Cover letter": {
-          "required": 33,
+          "required": 34,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 33,
+          "required": 34,
           "conditional": 0,
           "later": 0
         },
@@ -1353,12 +1353,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 22,
+          "required": 23,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 28,
+          "required": 29,
           "conditional": 0,
           "later": 1
         },
@@ -10676,18 +10676,18 @@
       }
     },
     "|Qualitative Methodologies|": {
-      "total": 11,
-      "itemized": 10,
+      "total": 12,
+      "itemized": 11,
       "formatOnly": 0,
       "notStated": 1,
       "counts": {
         "Cover letter": {
-          "required": 9,
+          "required": 10,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 8,
+          "required": 9,
           "conditional": 0,
           "later": 0
         },
@@ -10697,12 +10697,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 6,
+          "required": 7,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 8,
+          "required": 9,
           "conditional": 0,
           "later": 0
         },
@@ -10968,18 +10968,18 @@
       }
     },
     "|Qualitative Research Methods|": {
-      "total": 11,
-      "itemized": 10,
+      "total": 12,
+      "itemized": 11,
       "formatOnly": 0,
       "notStated": 1,
       "counts": {
         "Cover letter": {
-          "required": 9,
+          "required": 10,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 8,
+          "required": 9,
           "conditional": 0,
           "later": 0
         },
@@ -10989,12 +10989,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 6,
+          "required": 7,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 8,
+          "required": 9,
           "conditional": 0,
           "later": 0
         },
@@ -11333,18 +11333,18 @@
       }
     },
     "Faculty|Qualitative Methodologies|": {
-      "total": 8,
-      "itemized": 7,
+      "total": 9,
+      "itemized": 8,
       "formatOnly": 0,
       "notStated": 1,
       "counts": {
         "Cover letter": {
-          "required": 7,
+          "required": 8,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 5,
+          "required": 6,
           "conditional": 0,
           "later": 0
         },
@@ -11354,12 +11354,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 5,
+          "required": 6,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 6,
+          "required": 7,
           "conditional": 0,
           "later": 0
         },
@@ -11625,18 +11625,18 @@
       }
     },
     "Faculty|Qualitative Research Methods|": {
-      "total": 8,
-      "itemized": 7,
+      "total": 9,
+      "itemized": 8,
       "formatOnly": 0,
       "notStated": 1,
       "counts": {
         "Cover letter": {
-          "required": 7,
+          "required": 8,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 5,
+          "required": 6,
           "conditional": 0,
           "later": 0
         },
@@ -11646,12 +11646,12 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 5,
+          "required": 6,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 6,
+          "required": 7,
           "conditional": 0,
           "later": 0
         },
@@ -53700,6 +53700,444 @@
         },
         "References (contact information)": {
           "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "||findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "|Qualitative Methodologies|findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "|Qualitative Research Methods|findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "Faculty||findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "Faculty|Qualitative Methodologies|findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching dossier / materials": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    "Faculty|Qualitative Research Methods|findlay, oh": {
+      "total": 1,
+      "itemized": 1,
+      "formatOnly": 0,
+      "notStated": 0,
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
           "conditional": 0,
           "later": 0
         },
