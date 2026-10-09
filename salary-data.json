@@ -306,6 +306,14 @@
       "label": "Proposed salary",
       "note": "Pay period is not explicitly stated in the accessible posting.",
       "reviewedOn": "2026-10-09"
+    },
+    {
+      "url": "https://findlay.wd5.myworkdayjobs.com/en-US/careers/job/Main-Campus/Assistant-Professor-of-Education_R0005549",
+      "category": "non-numeric",
+      "amount": "Commensurate with qualifications",
+      "label": "Posted salary description",
+      "note": "The Chronicle listing states appointment and salary are commensurate with qualifications; the official Workday page gives no numeric figure.",
+      "reviewedOn": "2026-10-09"
     }
   ]
 }
