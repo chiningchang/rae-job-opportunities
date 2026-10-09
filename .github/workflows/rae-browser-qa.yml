@@ -23,6 +23,7 @@ jobs:
         run: |
           mkdir -p rae-qa-output/pdfs rae-qa-output/screenshots
           cat > /tmp/rae-qa.cjs <<'JAVASCRIPT'
+          (async () => {
           const { chromium } = require(process.cwd() + '/node_modules/playwright');
           const fs = require('fs');
           const out = 'rae-qa-output';
@@ -96,6 +97,7 @@ jobs:
           await browser.close();
           fs.writeFileSync(out+'/qa-report.json',JSON.stringify(results,null,2));
           console.log('RAE_QA_REPORT='+JSON.stringify(results));
+          })().catch(e=>{console.error(e);process.exitCode=1});
           JAVASCRIPT
           node /tmp/rae-qa.cjs
       - name: Upload capture evidence
