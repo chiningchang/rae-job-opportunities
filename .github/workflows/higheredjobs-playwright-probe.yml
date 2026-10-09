@@ -1,0 +1,63 @@
+name: HigherEdJobs Playwright probe
+on:
+  push:
+    branches: [test/higheredjobs-playwright-20261009]
+    paths: [.github/workflows/higheredjobs-playwright-probe.yml]
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm install playwright@1.56.1
+          npx playwright install --with-deps chromium
+      - name: Read posting with Chromium
+        run: |
+          mkdir -p results
+          cat > probe.cjs <<'JS'
+          const { chromium } = require('playwright');
+          const fs = require('node:fs/promises');
+          (async () => {
+            const browser = await chromium.launch();
+            const page = await browser.newPage();
+            const url = 'https://www.higheredjobs.com/institution/details.cfm?JobCode=179581653&Title=Assistant%20Professor%20of%20Education';
+            const metadata = { requestedUrl: url, capturedAt: new Date().toISOString() };
+            try {
+              const response = await page.goto(url, { waitUntil: 'domcontentloaded', timeout: 60000 });
+              metadata.httpStatus = response ? response.status() : null;
+              await page.waitForTimeout(10000);
+              metadata.finalUrl = page.url();
+              metadata.title = await page.title();
+              const text = await page.locator('body').innerText({ timeout: 15000 });
+              metadata.textLength = text.length;
+              metadata.possibleBlock = /captcha|access denied|request unsuccessful|verify you are human|incapsula|unusual traffic/i.test(text);
+              await fs.writeFile('results/page.txt', text);
+              await fs.writeFile('results/page.html', await page.content());
+              await page.screenshot({ path: 'results/page.png', fullPage: true, timeout: 30000 });
+              console.log(JSON.stringify(metadata, null, 2));
+              console.log('PAGE TEXT (first 20000 characters):\n' + text.slice(0, 20000));
+            } catch (error) {
+              metadata.error = error.message;
+              console.error(error.message);
+              process.exitCode = 1;
+            } finally {
+              await fs.writeFile('results/metadata.json', JSON.stringify(metadata, null, 2));
+              await browser.close();
+            }
+          })().catch(error => { console.error(error); process.exitCode = 1; });
+          JS
+          node probe.cjs
+      - name: Upload diagnostic files
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: higheredjobs-playwright-results
+          path: results/
+          retention-days: 7
