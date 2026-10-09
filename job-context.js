@@ -17,12 +17,12 @@ window.JobContext = (() => {
   function entry(job) { return byUrl.get(job[7]) || byIdentity.get(identity(job[0], job[2])) || null; }
   function badge(job) {
     const type = entry(job)?.appointment.type;
-    return ({'Tenure-track': 'Tenure-track', 'Tenure-track or tenured': 'Tenure-track / tenured', 'Non-tenure-track': 'Non-tenure-track', 'Security of employment track': 'Security of employment track', 'Research track (tenure not specified)': 'Research track · tenure unspecified', 'Tenure line (route not specified)': 'Tenure line', 'Not specified': 'Tenure status not stated', 'Not applicable (postdoctoral appointment)': 'Postdoctoral appointment'})[type] || '';
+    return ({'Tenure-track': 'Tenure-track', 'Tenure-track or tenured': 'Tenure-track / tenured', 'Non-tenure-track': 'Non-tenure-track', 'Security of employment track': 'Security of employment track', 'Research track (tenure not specified)': 'Research track · tenure unspecified', 'Tenure line (route not specified)': 'Tenure line', 'Not specified': 'Tenure status not stated', 'Not applicable (postdoctoral appointment)': 'Postdoctoral appointment', 'Postdoc / Research': 'Postdoctoral appointment', 'Tenured': 'Tenured', 'Not verified': 'Tenure status unverified'})[type] || '';
   }
   function appendBadge(root, job) { const label = badge(job); if (label) root.append(n('span', 'jc-appointment-tag', label)); }
   function appointment(e) {
     const type = e?.appointment.type;
-    return ({'Tenure-track': 'Tenure-track', 'Tenure-track or tenured': 'Tenure-track / tenured', 'Non-tenure-track': 'Non-tenure-track', 'Security of employment track': 'Security of employment track', 'Research track (tenure not specified)': 'Research track · tenure unspecified', 'Tenure line (route not specified)': 'Tenure line · route unspecified', 'Not applicable (postdoctoral appointment)': 'Postdoctoral appointment'})[type] || 'Not specified / unavailable';
+    return ({'Tenure-track': 'Tenure-track', 'Tenure-track or tenured': 'Tenure-track / tenured', 'Non-tenure-track': 'Non-tenure-track', 'Security of employment track': 'Security of employment track', 'Research track (tenure not specified)': 'Research track · tenure unspecified', 'Tenure line (route not specified)': 'Tenure line · route unspecified', 'Not applicable (postdoctoral appointment)': 'Postdoctoral appointment', 'Postdoc / Research': 'Postdoctoral appointment', 'Tenured': 'Tenured', 'Not verified': 'Tenure status unverified'})[type] || 'Not specified / unavailable';
   }
   function research(e) { return ({'Research 1: Very High Spending and Doctorate Production':'R1', 'Research 2: High Spending and Doctorate Production':'R2', 'Research Colleges and Universities':'RCU', 'No research designation':'No research designation'})[e?.institutionContext.research] || e?.institutionContext.research || 'Unable to assess'; }
   function loadStatus(e) {
