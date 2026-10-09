@@ -1831,6 +1831,34 @@
       "review": "reviewed",
       "itemization": "not-stated",
       "counts": {}
+    },
+    {
+      "id": "RAE-0061",
+      "url": "https://findlay.wd5.myworkdayjobs.com/en-US/careers/job/Main-Campus/Assistant-Professor-of-Education_R0005549",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
     }
   ]
 }
