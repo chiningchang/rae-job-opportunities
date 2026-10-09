@@ -32,7 +32,7 @@ jobs:
           const out = 'rae-qa-output';
           const jobs = [];
           const context=JSON.parse(fs.readFileSync('job-context-data.json','utf8'));
-          const byUrl=new Map(context.entries.filter(e=>e.id&&e.url).map(e=>[e.url.replace(/\\/$/,''),e]));
+          const byUrl=new Map(context.entries.filter(e=>e.id&&e.url).map(e=>[e.url.replace(/\/$/,''),e]));
           const slug=t=>String(t).normalize('NFKD').replace(/[^A-Za-z0-9]+/g,'-').replace(/^-|-$/g,'').slice(0,105);
           const browser=await chromium.launch({headless:true,args:['--no-sandbox']});
           const results={capturedAt:new Date().toISOString(),site:{},postings:[]};
@@ -51,7 +51,7 @@ jobs:
             results.site.latestCount=activeRows.filter(row=>row.isLatest).length;
             const latest=activeRows.filter(row=>row.isLatest);
             for(const row of latest){
-              const match=byUrl.get(row.url.replace(/\\/$/,''));
+              const match=byUrl.get(row.url.replace(/\/$/,''));
               if(match)jobs.push([match.id,slug(match.position),row.url]);
               else (results.site.unmatchedLatestUrls??=[]).push(row.url);
             }
