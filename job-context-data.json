@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-10-08",
+  "reviewedOn": "2026-10-09",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -469,7 +469,7 @@
       "id": "RAE-0015",
       "position": "Assistant Professor, Educational Research and Statistics",
       "institution": "University of Southern Mississippi",
-      "url": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
+      "url": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
       "reviewedOn": "2026-10-08",
       "appointment": {
         "type": "Tenure-track",
@@ -667,7 +667,7 @@
       "id": "RAE-0021",
       "position": "Postdoc, Operational Psychometrics & Educational Data Science",
       "institution": "Stanford University",
-      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jason-yeatman?page=1",
+      "url": "https://www.applykite.com/positions/postdoctoral-position-in-operational-psychometrics-and-educational-data-science-at-stanford-university-6p3vqzmy73",
       "reviewedOn": "2026-10-08",
       "appointment": {
         "type": "Not applicable (postdoctoral appointment)",
@@ -1723,7 +1723,7 @@
       "id": "RAE-0054",
       "position": "Associate Professor in Educational Leadership (Research Methodology)",
       "institution": "Texas A&M University–San Antonio",
-      "url": "https://tamus.wd1.myworkdayjobs.com/en-US/System-wide_External/job/Associate-Professor-in-Educational-Leadership--Research-Methodology-_R-091544-2",
+      "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/",
       "reviewedOn": "2026-10-08",
       "appointment": {
         "type": "Tenure-track",
@@ -1849,6 +1849,105 @@
         "reviewStatus": "Numeric load stated",
         "evidenceUrl": "https://careers.purdue.edu/job/Visiting-Assistant-Professor-in-Higher-Education/44090-en_US/",
         "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0058",
+      "position": "Assistant/Associate Professor in Public Policy",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/slp-assistant-professor-associate-professor-in-public-policy-530323-tuscaloosa-alabama-united-states",
+      "reviewedOn": "2026-10-09",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "The official posting identifies a tenure-track faculty appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/slp-assistant-professor-associate-professor-in-public-policy-530323-tuscaloosa-alabama-united-states",
+        "reviewedOn": "2026-10-09"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "100751",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-09"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/slp-assistant-professor-associate-professor-in-public-policy-530323-tuscaloosa-alabama-united-states",
+        "reviewedOn": "2026-10-09"
+      }
+    },
+    {
+      "id": "RAE-0059",
+      "position": "Postdoctoral Fellow (Researcher Artificial Intelligence and Learning Sciences)",
+      "institution": "Georgia Institute of Technology",
+      "url": "https://diversityjobs.com/career/17998112/Postdoctoral-Fellow-Researcher-Artificial-Intelligence-Learning-Sciences-Georgia-Atlanta",
+      "reviewedOn": "2026-10-09",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Two-year postdoctoral appointment with a possible third year.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://diversityjobs.com/career/17998112/Postdoctoral-Fellow-Researcher-Artificial-Intelligence-Learning-Sciences-Georgia-Atlanta",
+        "reviewedOn": "2026-10-09"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "139755",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-09"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Reviewed duties focus on research and mentoring; no numeric teaching load was stated.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://diversityjobs.com/career/17998112/Postdoctoral-Fellow-Researcher-Artificial-Intelligence-Learning-Sciences-Georgia-Atlanta",
+        "reviewedOn": "2026-10-09"
+      }
+    },
+    {
+      "id": "RAE-0060",
+      "position": "Postdoc in AI Measurement, Psychometrics, and Data Science",
+      "institution": "Georgetown University",
+      "url": "https://www.applykite.com/positions/postdoc-in-ai-measurement-psychometrics-and-data-science-at-georgetown-university-kzh8yin04z",
+      "reviewedOn": "2026-10-09",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Twelve-month postdoctoral appointment through January 2027, renewable subject to funding and performance.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.applykite.com/positions/postdoc-in-ai-measurement-psychometrics-and-data-science-at-georgetown-university-kzh8yin04z",
+        "reviewedOn": "2026-10-09"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "131496",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-09"
+      },
+      "teaching": {
+        "asStated": "No formal teaching load stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Reviewed duties focus on research; no numeric teaching load was stated.",
+        "reviewStatus": "No formal teaching load stated (research/postdoc role)",
+        "evidenceUrl": "https://www.applykite.com/positions/postdoc-in-ai-measurement-psychometrics-and-data-science-at-georgetown-university-kzh8yin04z",
+        "reviewedOn": "2026-10-09"
       }
     }
   ]
