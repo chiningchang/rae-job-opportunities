@@ -1949,6 +1949,39 @@
         "evidenceUrl": "https://www.applykite.com/positions/postdoc-in-ai-measurement-psychometrics-and-data-science-at-georgetown-university-kzh8yin04z",
         "reviewedOn": "2026-10-09"
       }
+    },
+    {
+      "id": "RAE-0061",
+      "position": "Assistant Professor of Education",
+      "institution": "University of Findlay",
+      "url": "https://findlay.wd5.myworkdayjobs.com/en-US/careers/job/Main-Campus/Assistant-Professor-of-Education_R0005549",
+      "reviewedOn": "2026-10-09",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "The official posting explicitly identifies a tenure-track faculty position.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://findlay.wd5.myworkdayjobs.com/en-US/careers/job/Main-Campus/Assistant-Professor-of-Education_R0005549",
+        "reviewedOn": "2026-10-09"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "202763",
+        "research": "Few or not classified",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-09"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "The posting states that teaching excellence is the university's top priority but gives no numeric teaching load.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://findlay.wd5.myworkdayjobs.com/en-US/careers/job/Main-Campus/Assistant-Professor-of-Education_R0005549",
+        "reviewedOn": "2026-10-09"
+      }
     }
   ]
 }
