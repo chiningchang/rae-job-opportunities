@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-13",
+  "reviewedOn": "2026-10-09",
   "entries": [
     {
       "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
@@ -314,46 +314,6 @@
       "label": "Posted salary description",
       "note": "The Chronicle listing states appointment and salary are commensurate with qualifications; the official Workday page gives no numeric figure.",
       "reviewedOn": "2026-10-09"
-    },
-    {
-      "url": "https://recruit.ucdavis.edu/JPF07941",
-      "category": "numeric",
-      "amount": "$84,100–$108,900",
-      "label": "Academic year salary range",
-      "note": "Actual appointment level and salary depend on qualifications and experience.",
-      "reviewedOn": "2026-10-13"
-    },
-    {
-      "url": "https://careers.pageuppeople.com/873/bk/en-us/job/562724/assistant-professor-of-teacher-education",
-      "category": "numeric",
-      "amount": "$74,652–$82,500 / year",
-      "label": "Probable annual hiring range",
-      "note": "",
-      "reviewedOn": "2026-10-13"
-    },
-    {
-      "url": "https://academiccareers.com/job/181827/assistant-associate-professor-of-education/",
-      "category": "numeric",
-      "amount": "$61,192–$70,000 / year",
-      "label": "Stated salary range on accessible secondary posting",
-      "note": "",
-      "reviewedOn": "2026-10-13"
-    },
-    {
-      "url": "https://careers.insidehighered.com/job/3558257/coe-4022-assistant-professor-in-elementary-education/",
-      "category": "numeric",
-      "amount": "$70,000–$73,000 / year",
-      "label": "Stated salary range",
-      "note": "",
-      "reviewedOn": "2026-10-13"
-    },
-    {
-      "url": "https://careers.insidehighered.com/job/3548215/assistant-professor-in-elementary-teacher-education",
-      "category": "numeric",
-      "amount": "$80,000–$84,000 / year",
-      "label": "Stated salary range",
-      "note": "",
-      "reviewedOn": "2026-10-13"
     }
   ]
 }
