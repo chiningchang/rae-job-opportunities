@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-10-09",
+  "reviewedOn": "2026-10-13",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -2020,22 +2020,22 @@
       "id": "RAE-0063",
       "position": "Millsap Endowed Professorship of Human Development and Family Science",
       "institution": "University of Missouri–Columbia",
-      "url": "https://jobs.psychologicalscience.org/job/13932/millsap-endowed-professorship-of-human-development-and-family-science/",
-      "reviewedOn": "2026-10-09",
+      "url": "https://erecruit.umsystem.edu/psc/tamext/COLUM/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=9&FOCUS=Applicant&JobOpeningId=61126&PostingSeq=1",
+      "reviewedOn": "2026-10-13",
       "appointment": {
         "type": "Tenured",
         "detail": "Endowed full professor, nine-month",
-        "reviewStatus": "Verified from accessible posting",
-        "evidenceUrl": "https://jobs.psychologicalscience.org/job/13932/millsap-endowed-professorship-of-human-development-and-family-science/",
-        "reviewedOn": "2026-10-09"
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://erecruit.umsystem.edu/psc/tamext/COLUM/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=9&FOCUS=Applicant&JobOpeningId=61126&PostingSeq=1",
+        "reviewedOn": "2026-10-13"
       },
       "institutionContext": {
-        "control": "Not verified",
-        "unitid": "",
-        "research": "Not verified",
-        "version": "Carnegie 2025 — pending verification",
-        "evidenceUrl": "",
-        "reviewedOn": "2026-10-09"
+        "control": "Public",
+        "unitid": "178396",
+        "research": "Research 1: Very High Research Spending and Doctorate Production",
+        "version": "Carnegie 2025",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/page/59/?inst=&unit_id=178396",
+        "reviewedOn": "2026-10-13"
       },
       "teaching": {
         "asStated": "Not stated",
@@ -2045,8 +2045,8 @@
         "annualCourses": "",
         "notes": "",
         "reviewStatus": "Not stated in reviewed posting",
-        "evidenceUrl": "https://jobs.psychologicalscience.org/job/13932/millsap-endowed-professorship-of-human-development-and-family-science/",
-        "reviewedOn": "2026-10-09"
+        "evidenceUrl": "https://erecruit.umsystem.edu/psc/tamext/COLUM/HRMS/c/HRS_HRAM_FL.HRS_CG_SEARCH_FL.GBL?Page=HRS_APP_JBPST_FL&Action=U&SiteId=9&FOCUS=Applicant&JobOpeningId=61126&PostingSeq=1",
+        "reviewedOn": "2026-10-13"
       }
     },
     {
@@ -2212,6 +2212,369 @@
         "reviewStatus": "Verified from posting",
         "evidenceUrl": "https://employment.niu.edu/postings/97504/print_preview",
         "reviewedOn": "2026-10-09"
+      }
+    },
+    {
+      "id": "RAE-0069",
+      "position": "Assistant Professor of Disability, Neurodiversity, and Inclusion",
+      "institution": "University of California, Davis",
+      "url": "https://recruit.ucdavis.edu/JPF07941",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Assistant Professor tenure-track appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://recruit.ucdavis.edu/JPF07941",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching and mentoring are stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://recruit.ucdavis.edu/JPF07941",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0070",
+      "position": "Assistant/Associate Professor of Clinical Mental Health Counseling",
+      "institution": "Gannon University",
+      "url": "https://gannon.peopleadmin.com/postings/15269",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Regular nine-month tenure-track faculty appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://gannon.peopleadmin.com/postings/15269",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "24 credits per academic year",
+        "unit": "Credit hours",
+        "period": "Academic year",
+        "standardized": "24 credits / academic year",
+        "annualCourses": "",
+        "notes": "The posting states a 24-credit annual teaching assignment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://gannon.peopleadmin.com/postings/15269",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0071",
+      "position": "Assistant Professor of Teacher Education",
+      "institution": "California State University, Bakersfield",
+      "url": "https://careers.pageuppeople.com/873/bk/en-us/job/562724/assistant-professor-of-teacher-education",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Tenure-track assistant professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/873/bk/en-us/job/562724/assistant-professor-of-teacher-education",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is required, but the posting gives no numeric load.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.pageuppeople.com/873/bk/en-us/job/562724/assistant-professor-of-teacher-education",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0072",
+      "position": "Assistant/Associate Professor of Education",
+      "institution": "Georgia College & State University",
+      "url": "https://academiccareers.com/job/181827/assistant-associate-professor-of-education/",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Tenure-track assistant or associate professor appointment.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://academiccareers.com/job/181827/assistant-associate-professor-of-education/",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "4-4 course load",
+        "unit": "Courses",
+        "period": "Academic year",
+        "standardized": "4 courses / semester",
+        "annualCourses": "8",
+        "notes": "The accessible secondary posting states a 4-4 teaching load.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://academiccareers.com/job/181827/assistant-associate-professor-of-education/",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0073",
+      "position": "Assistant Professor in Elementary Education",
+      "institution": "Towson University",
+      "url": "https://careers.insidehighered.com/job/3558257/coe-4022-assistant-professor-in-elementary-education/",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Nine-month tenure-track assistant professor appointment.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3558257/coe-4022-assistant-professor-in-elementary-education/",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "18 credits over nine months",
+        "unit": "Credit hours",
+        "period": "9-month academic year",
+        "standardized": "18 credits / academic year",
+        "annualCourses": "",
+        "notes": "The posting states six course units / 18 credits over the nine-month appointment.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3558257/coe-4022-assistant-professor-in-elementary-education/",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0074",
+      "position": "Assistant Professor in Elementary Teacher Education",
+      "institution": "North Carolina State University",
+      "url": "https://careers.insidehighered.com/job/3548215/assistant-professor-in-elementary-teacher-education",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Nine-month recurring tenure-track assistant professor appointment.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3548215/assistant-professor-in-elementary-teacher-education",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3548215/assistant-professor-in-elementary-teacher-education",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0075",
+      "position": "Assistant Professor of Exercise Science",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-of-exercise-science-renewable-contract-530503-alabama-united-states",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Non-tenure-track renewable",
+        "detail": "Renewable clinical assistant professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-of-exercise-science-renewable-contract-530503-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "8 courses per academic year",
+        "unit": "Courses",
+        "period": "Academic year",
+        "standardized": "8 courses / academic year",
+        "annualCourses": "8",
+        "notes": "",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-of-exercise-science-renewable-contract-530503-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0076",
+      "position": "Assistant Professor of Special Education",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-of-special-education-tenure-tenure-track-530371-alabama-united-states",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Tenure-track assistant professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-of-special-education-tenure-tenure-track-530371-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-of-special-education-tenure-tenure-track-530371-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0077",
+      "position": "Clinical Assistant Professor of Elementary Literacy Education",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-literacy-education-renewable-contract-53033-alabama-united-states",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Non-tenure-track renewable",
+        "detail": "Renewable clinical assistant professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-literacy-education-renewable-contract-53033-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-literacy-education-renewable-contract-53033-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0078",
+      "position": "Assistant/Associate Professor of Elementary Literacy Education",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-associate-professor-of-elementary-literacy-education-tenure-tenure-track-530315-alabama-united-states",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Tenure-track assistant or associate professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-associate-professor-of-elementary-literacy-education-tenure-tenure-track-530315-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-associate-professor-of-elementary-literacy-education-tenure-tenure-track-530315-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      }
+    },
+    {
+      "id": "RAE-0079",
+      "position": "Clinical Assistant Professor of Elementary Education (Mathematics)",
+      "institution": "The University of Alabama",
+      "url": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-education-mathematics-renewable-contract-530088-alabama-united-states",
+      "reviewedOn": "2026-10-13",
+      "appointment": {
+        "type": "Non-tenure-track renewable",
+        "detail": "Renewable clinical assistant professor appointment.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-education-mathematics-renewable-contract-530088-alabama-united-states",
+        "reviewedOn": "2026-10-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": ""
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": "",
+        "notes": "Teaching is stated, but no numeric load is provided.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.ua.edu/jobs/edu-clinical-assistant-professor-of-elementary-education-mathematics-renewable-contract-530088-alabama-united-states",
+        "reviewedOn": "2026-10-13"
       }
     }
   ]
