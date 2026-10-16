@@ -12,8 +12,9 @@ const extract = name => {
   const at = html.indexOf(marker);
   if (at < 0) throw Error('Missing '+marker);
   const from = at + marker.length;
-  const end = html.indexOf(';', from);
-  return JSON.parse(html.slice(from, end));
+  const match = html.slice(from).match(/^(\[[\s\S]*?\]);/);
+  if (!match) throw Error('Invalid array '+name);
+  return JSON.parse(match[1]);
 };
 const active = extract('jobs'), archived = extract('archiveJobs'), jobs = [...active, ...archived];
 const context = json('job-context-data.json'), visa = json('sponsorship-data.json');
