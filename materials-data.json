@@ -18,21 +18,21 @@
   ],
   "views": {
     "all": {
-      "total": 106,
-      "postingCount": 27,
+      "total": 113,
+      "postingCount": 28,
       "counts": {
         "Cover letter": {
-          "required": 19,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
           "required": 21,
           "conditional": 0,
           "later": 0
         },
+        "CV / résumé": {
+          "required": 23,
+          "conditional": 0,
+          "later": 0
+        },
         "References (contact information)": {
-          "required": 16,
+          "required": 17,
           "conditional": 0,
           "later": 0
         },
@@ -42,7 +42,7 @@
           "later": 0
         },
         "Teaching statement": {
-          "required": 9,
+          "required": 10,
           "conditional": 0,
           "later": 0
         },
@@ -53,7 +53,7 @@
         },
         "Reference letters": {
           "required": 2,
-          "conditional": 0,
+          "conditional": 1,
           "later": 3
         },
         "Transcripts": {
@@ -72,7 +72,7 @@
           "later": 0
         },
         "Other application statement": {
-          "required": 2,
+          "required": 3,
           "conditional": 0,
           "later": 1
         },
