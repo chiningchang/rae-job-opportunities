@@ -68,7 +68,18 @@ The [Job Market Insights dashboard](https://chiningchang.github.io/rae-job-oppor
 6. **Failure handling.** If validation fails or unexpected presentation files are modified, do not publish that update. Preserve the last working version, inspect the diff, and report the problem.
 7. **Audit trail.** Record each run's timestamp (Eastern Time), data sources/search scope, added/updated/archived counts, verification exceptions, files changed, validation result, and commit SHA.
 
-**Important limitation:** These are documented requirements, not automatically enforced protections. The scheduler or external AI agent responsible for Tuesday/Friday updates must be configured to follow them; add automated checks that block presentation-file changes before publication. No GitHub Actions workflow was found in this repository at the time of this review, so the actual scheduling mechanism has not been verified.
+### PDF completeness gate (added October 16, 2026)
+
+Every newly added or substantively changed posting must have a source-body comparison before its PDF is labeled complete. Website and Master List summaries are separate products and must never be substituted for the archived announcement.
+
+1. Prefer the employer's specific official announcement. If only a full secondary copy is obtainable, identify that actual source and label it as secondary; do not claim the employer's full page was verified.
+2. Preserve the source announcement verbatim and in order. Reflowed fonts, line wrapping and pagination are acceptable; summarization, paraphrase, translation, omissions and invented additions are not. Include separate tables, sidebars and expanded posting sections: responsibilities, required/preferred qualifications, pay/benefits, appointment/start dates, review/closing dates, all application documents and reference stages, work authorization and sponsorship, and other posting conditions. Preserve announcement link destinations. Navigation, advertising, unrelated recommendations and platform-only application forms may be excluded.
+3. Prefer the official Download PDF, Print Job or Print Preview when available; otherwise preserve the complete webpage or explicitly labeled verbatim reflowed text. Record Posting ID, actual source URL and capture time in America/New_York. Distinguish publisher PDFs, webpage images, verbatim reflowed archives, secondary copies and summaries.
+4. Compare text extracted from every PDF page with the complete captured source body, allowing only layout whitespace/line-break/hyphenation differences. Verify words, numbers and order, independently check the critical fields above, render every page for clipping/overlays/blank pages, and read the stored Drive file back. Title, first-page appearance, page count or keyword spot checks alone cannot certify completeness.
+5. Mark a PDF body-matched/complete only after these checks pass. For inaccessible, removed or partial sources, retain a valid historical copy and record the exact pending/unverified limitation. Never reconstruct a purported original from snippets, an AI summary or Master List. Revisit pending captures on later runs.
+6. Preserve prior versions when the source changes. Synchronize verified corrections to the public list, both Insights scopes, Master List/Application Materials, PDF tracking and the four bilingual log/methods documents. Keep quarantined records separate and retain existing eligibility and design rules. Report PDF created/updated/body-matched/pending counts and distinguish matching a recorded secondary source from verifying the official employer announcement.
+
+**Important limitation:** These requirements are configured as instructions for the existing ChatGPT update tasks; they are not repository-enforced guarantees. Each run must execute and document the checks. This source-archive work does not require a custom GitHub Actions capture workflow.
 
 ### October 8, 2026 visual design log
 
