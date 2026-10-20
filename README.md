@@ -24,7 +24,7 @@ Postings are organized into seven overlapping areas:
 - Critical / Equity
 - AI in Education
 
-Selecting an area on the job board or Insights page reveals common subcategories based on the relevance terms recorded for postings. Examples include quantitative and qualitative research design, Bayesian methods, simulation, missing data, causal inference, SEM, multilevel / HLM, longitudinal methods, and learning analytics. A posting can be represented in more than one area.
+Selecting an area on the job board or Insights page reveals common subcategories based on the relevance terms recorded for postings. Examples include quantitative and qualitative research design, Bayesian methods, simulation, missing data, causal inference, SEM, multilevel / HLM, longitudinal methods, and learning analytics. A posting can be represented in more than one area. Network Analysis is a quantitative-methods subcategory covering explicit network, social network, and organizational network analysis. Generic networking or references to networks alone do not trigger this category. Specific source terminology and verification limitations are retained.
 
 ## Search and Update Process
 
