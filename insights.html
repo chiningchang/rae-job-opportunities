@@ -201,7 +201,7 @@
   const el=id=>document.getElementById(id);
   let jobs=[],archived=[],selectedArea='',selectedSubcategory='',selectedPosition='',updated='';let materialData=null;let sponsorshipData=null;let collectionMaterialsData=null;
   let atlas=null;
-  function role(job){const text=(job[1]+' '+job[0]).toLowerCase();if(/postdoc|research scientist/.test(text))return 'Postdoc / research';if(/teaching professor/.test(text))return 'Teaching faculty';return 'Faculty'}
+  function role(job){const text=(job[1]+' '+job[0]).toLowerCase(),rank=String(job[1]).toLowerCase();if(/postdoc|research scientist/.test(text)||/research\s*\/\s*evaluation staff/.test(rank))return 'Postdoc / research';if(/teaching professor/.test(text)||/lecturer|teaching faculty/.test(rank))return 'Teaching faculty';return 'Faculty'}
   function positionType(job){return String(job[1]||'Unspecified').trim()||'Unspecified'}
   function positionTypes(){return [...new Set(jobs.map(positionType))].sort((a,b)=>a.localeCompare(b))}
   function place(job){return job[3].split('/')[0].trim()}
