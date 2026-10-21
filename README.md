@@ -91,6 +91,8 @@ Every newly added or substantively changed posting must have a source-body compa
 
 ## Feedback
 
+Visitors can [suggest a missing job posting](https://docs.google.com/forms/d/e/1FAIpQLSevJ-PMzYgU2aDbi0kT7EfaAevPUZllQALj64qMbINh5SLQlQ/viewform) using a short public Google Form. Only the posting URL is required; methodological context and an email address are optional. Suggestions enter a private review queue and are screened for U.S. scope, substantive ERM relevance, duplication, and availability before inclusion. The form does not automatically publish suggestions, and contact details and response records are not public.
+
 Suggestions for additional job sources, search terms, position types, or other improvements are welcome.
 
 **Dr. Nick Chang**  
