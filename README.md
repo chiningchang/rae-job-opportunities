@@ -114,4 +114,7 @@ The board displays appointment-track tags where supported by explicit posting la
 
 Context covers appointment tracks, public/private institutional control, Carnegie 2025 research designations (R1, R2, RCU and no designation), and teaching-load disclosure. Categories are clickable to inspect the corresponding postings and evidence. Teaching loads retain their stated units, periods and initial reductions; missing statements are not treated as zero. Institutional designations do not establish a department’s teaching expectations. These facts describe the curated collection, not the national market.
 
+
+Institution-type labels use a controlled vocabulary: `Public`, `Private nonprofit`, and `Not verified`. Normalize equivalent nonprofit labels such as `Private not-for-profit` and `Private non-profit` to `Private nonprofit` in current records and public context data before publishing; retain original evidence wording and historical snapshots.
+
 Public context metadata is stored in `job-context-data.json`; it contains limited factual metadata and paraphrases, never private source PDFs or Google Drive references. The private Master List retains the fuller evidence record. Context review dates are separate from job-board release dates.
