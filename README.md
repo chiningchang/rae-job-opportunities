@@ -26,6 +26,8 @@ Postings are organized into seven overlapping areas:
 
 Selecting an area on the job board or Insights page reveals common subcategories based on the relevance terms recorded for postings. Examples include quantitative and qualitative research design, Bayesian methods, simulation, missing data, causal inference, SEM, multilevel / HLM, longitudinal methods, and learning analytics. A posting can be represented in more than one area. Network Analysis is a quantitative-methods subcategory covering explicit network, social network, and organizational network analysis. Generic networking or references to networks alone do not trigger this category. Specific source terminology and verification limitations are retained.
 
+Critical / Equity has two evidence-reviewed subcategories: `QuantCrit` (explicit QuantCrit / Quantitative Criticalism) and `Other Critical & Equity-Oriented Methodologies` (explicit critical, anti-racist or equity-centered research design/analysis, participatory inquiry linked to equity, or equitable assessment/test-fairness methods). General equity topics, populations, critical disciplinary titles, community service and nondiscrimination statements do not establish either subcategory. Subcategories can overlap and need not exhaust the broader theme. Assignments and evidence are stored in `const criticalMethodAssignments` in `index.html`, keyed by the actual posting URL and stable Posting ID; Browse and both Insights scopes consume that same reviewed set. During updates, add or revise an assignment only after reading source evidence; do not use broad keyword hits or assign all non-QuantCrit postings to Other. Preserve source-level/access limitations. Taxonomy version: `2026-27 v1.2`.
+
 ## Search and Update Process
 
 A deep search is scheduled **every Tuesday and Friday at 2:00 AM Eastern Time**. Listings are reviewed for methodological fit, duplication, availability, and link accessibility. This curated search is broad but not exhaustive.
@@ -118,3 +120,4 @@ Context covers appointment tracks, public/private institutional control, Carnegi
 Institution-type labels use a controlled vocabulary: `Public`, `Private nonprofit`, and `Not verified`. Normalize equivalent nonprofit labels such as `Private not-for-profit` and `Private non-profit` to `Private nonprofit` in current records and public context data before publishing; retain original evidence wording and historical snapshots.
 
 Public context metadata is stored in `job-context-data.json`; it contains limited factual metadata and paraphrases, never private source PDFs or Google Drive references. The private Master List retains the fuller evidence record. Context review dates are separate from job-board release dates.
+
