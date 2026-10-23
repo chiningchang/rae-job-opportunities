@@ -68,7 +68,7 @@ const subcategories=[
 ["Multiple and Mixed Methodologies","Multi-Method Research & Integration",["multimethod","multi-method","method integration","joint display"]],
 ["Evaluation","Program & Policy Evaluation",["program evaluation","policy evaluation","evaluation"]],
 ["Critical / Equity","QuantCrit",[]],
-["Critical / Equity","Other",[]],
+["Critical / Equity","Broader Critical & Equity Research",[]],
 ["AI in Education","AI in Teaching & Learning",["ai in education","ai education","artificial intelligence education","generative ai","educational ai","ai pedagogy","ai-supported learning","ai and learning sciences"," ai "," ai;","ai;"]],
 ["AI in Education","AI-Supported Assessment",["ai-supported assessment"]]
 ];
@@ -76,9 +76,9 @@ const criticalMethodAssignments=[{"id":"RAE-0095","url":"https://employmentoppor
 let active="",activeSubcategory="";
 function keywordMatch(t,k){if(["irt","ctt","dif","cat","sem","mlm","hlm","ml"].includes(k))return new RegExp("(^|[^a-z])"+k+"(?=$|[^a-z])","i").test(t);if(k===" ai "||k===" ai;"||k==="ai;")return new RegExp("(^|[^a-z])ai(?=$|[^a-z])","i").test(t);return t.includes(k)}
 function methodMatch(x,label){const g=groups.find(z=>z[0]===label),t=x[4].toLowerCase();return !!g&&g[1].some(k=>keywordMatch(t,k))}
-function subcategoryMatch(x,name){const g=subcategories.find(z=>z[1]===name),t=x[4].toLowerCase();if(g?.[0]==="Critical / Equity"){const quantcrit=criticalMethodAssignments.some(e=>e.url===x[7]&&e.subcategories.includes("QuantCrit"));return methodMatch(x,"Critical / Equity")&&(name==="QuantCrit"?quantcrit:name==="Other"&&!quantcrit);}return !!g&&g[2].some(k=>keywordMatch(t,k))}
+function subcategoryMatch(x,name){const g=subcategories.find(z=>z[1]===name),t=x[4].toLowerCase();if(g?.[0]==="Critical / Equity"){const quantcrit=criticalMethodAssignments.some(e=>e.url===x[7]&&e.subcategories.includes("QuantCrit"));return methodMatch(x,"Critical / Equity")&&(name==="QuantCrit"?quantcrit:name==="Broader Critical & Equity Research"&&!quantcrit);}return !!g&&g[2].some(k=>keywordMatch(t,k))}
 groups.forEach(([label])=>{const b=document.createElement("button");b.type="button";b.className="filter-btn";b.dataset.label=label;b.innerHTML='<span>'+esc(label)+'</span><span class="method-bar"><span class="method-fill" style="display:block;width:0%"></span></span><span class="method-count">0</span>';b.onclick=()=>{active=active===label?"":label;activeSubcategory="";filterState.textContent=active||"All areas";render()};methodFilters.appendChild(b)});
-function refreshSubcategories(pool){const panel=document.getElementById("subFilterPanel"),root=document.getElementById("subFilters");root.replaceChildren();panel.hidden=!active;filterState.textContent=activeSubcategory||active||"All areas";if(!active)return;const visible=subcategories.filter(x=>x[0]===active).map(x=>({name:x[1],n:pool.filter(job=>methodMatch(job,active)&&subcategoryMatch(job,x[1])).length})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n||a.name.localeCompare(b.name));document.getElementById("subFilterTitle").textContent="Common subcategories · "+active+" · Select to narrow the postings"+(active==="Critical / Equity"?" · QuantCrit is explicitly named; Other includes the remaining postings in this theme. Each posting is counted once.":"");visible.forEach(x=>{const b=document.createElement("button");b.type="button";b.className="subcategory-btn";b.setAttribute("aria-pressed",String(activeSubcategory===x.name));b.textContent=x.name+" · "+x.n;b.onclick=()=>{activeSubcategory=activeSubcategory===x.name?"":x.name;render()};root.appendChild(b)})}
+function refreshSubcategories(pool){const panel=document.getElementById("subFilterPanel"),root=document.getElementById("subFilters");root.replaceChildren();panel.hidden=!active;filterState.textContent=activeSubcategory||active||"All areas";if(!active)return;const visible=subcategories.filter(x=>x[0]===active).map(x=>({name:x[1],n:pool.filter(job=>methodMatch(job,active)&&subcategoryMatch(job,x[1])).length})).filter(x=>x.n>0).sort((a,b)=>b.n-a.n||a.name.localeCompare(b.name));document.getElementById("subFilterTitle").textContent="Common subcategories · "+active+" · Select to narrow the postings"+(active==="Critical / Equity"?" · QuantCrit is explicitly named; the broader category includes all remaining Critical / Equity postings. Each posting is counted once.":"");visible.forEach(x=>{const b=document.createElement("button");b.type="button";b.className="subcategory-btn";b.setAttribute("aria-pressed",String(activeSubcategory===x.name));b.textContent=x.name+" · "+x.n;b.onclick=()=>{activeSubcategory=activeSubcategory===x.name?"":x.name;render()};root.appendChild(b)})}
 function refreshMethodFilters(search,selectedRank,pool){
   pool=pool.filter(x=>(!selectedRank||x[1]===selectedRank)&&(!search||(x.join(" ")+" "+(salaryByUrl.get(x[7])?.amount||"")).toLowerCase().includes(search)));
   const counts=Object.fromEntries(groups.map(([label])=>[label,pool.filter(x=>methodMatch(x,label)).length]));
@@ -127,6 +127,7 @@ fetch('salary-data.json',{cache:'no-store'}).then(response=>{if(!response.ok)thr
 </script>
 <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "a2fbc910a6324af0b6b1c555daf5d65f"}'></script><!-- End Cloudflare Web Analytics -->
 </body></html>
+
 
 
 
