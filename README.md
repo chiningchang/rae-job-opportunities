@@ -6,7 +6,7 @@ The collection supports students, alumni, and colleagues exploring faculty, post
 
 **Live job board:** https://chiningchang.github.io/rae-job-opportunities/
 
-**Job board last updated:** October 23, 2026
+**Job board last updated:** October 27, 2026
 
 ## About
 
@@ -120,6 +120,7 @@ Context covers appointment tracks, public/private institutional control, Carnegi
 Institution-type labels use a controlled vocabulary: `Public`, `Private nonprofit`, and `Not verified`. Normalize equivalent nonprofit labels such as `Private not-for-profit` and `Private non-profit` to `Private nonprofit` in current records and public context data before publishing; retain original evidence wording and historical snapshots.
 
 Public context metadata is stored in `job-context-data.json`; it contains limited factual metadata and paraphrases, never private source PDFs or Google Drive references. The private Master List retains the fuller evidence record. Context review dates are separate from job-board release dates.
+
 
 
 
