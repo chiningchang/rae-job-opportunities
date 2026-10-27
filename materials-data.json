@@ -18,7 +18,7 @@
   ],
   "views": {
     "all": {
-      "total": 219,
+      "total": 220,
       "postingCount": 47,
       "counts": {
         "Cover letter": {
@@ -47,7 +47,7 @@
           "later": 0
         },
         "Application format instructions": {
-          "required": 9,
+          "required": 10,
           "conditional": 0,
           "later": 0
         },
