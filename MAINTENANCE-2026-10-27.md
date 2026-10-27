@@ -24,3 +24,6 @@ Public JSONs contain no private PDF/Drive IDs or links. No GitHub Actions added.
 
 ## Final attachment-format check
 The Alfred archive also retains the official resume attachment-or-paste instruction, allowed file types and5MB limit. A final PDF revision passed full text comparison, all3 page checks and complete Drive byte readback (SHA256508f551cda1565618a1e1f8567553e80debd50b300500724646eff75bcb535f8). Application Materials includes its format row through221, and both material JSON datasets include that requirement. The final counts remain3 new PDFs and1 pre-existing file replacement.
+
+## Source-specific method boundary
+Alfred’s research-design, survey-methodology and institutional-assessment duties support Measurement/Assessment and Quantitative Methods. The final relevance string omits an earlier paraphrase of program evaluation because the adopted announcement does not explicitly specify program-evaluation work. It is not counted in the Evaluation theme or Program & Policy Evaluation subcategory. The same final record, main-list cell and this-run history snapshot are aligned. Current Evaluation remains17; the90-posting collection and all other totals are unchanged.
