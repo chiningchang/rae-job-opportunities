@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-10-27",
+  "reviewedOn": "2026-10-30",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -2593,7 +2593,7 @@
       "institutionContext": {
         "control": "Public",
         "unitid": "139940",
-        "research": "Research 1: Very High Research Spending and Doctorate Production",
+        "research": "Research 1: Very High Spending and Doctorate Production",
         "version": "Carnegie 2025",
         "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/georgia-state-university/",
         "reviewedOn": "2026-10-23"
@@ -2626,7 +2626,7 @@
       "institutionContext": {
         "control": "Public",
         "unitid": "199139",
-        "research": "Research 1: Very High Research Spending and Doctorate Production",
+        "research": "Research 1: Very High Spending and Doctorate Production",
         "version": "Carnegie 2025",
         "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-north-carolina-at-charlotte/",
         "reviewedOn": "2026-10-23"
@@ -2692,7 +2692,7 @@
       "institutionContext": {
         "control": "Not verified",
         "unitid": "100858",
-        "research": "Research 1: Very High Research Spending and Doctorate Production",
+        "research": "Research 1: Very High Spending and Doctorate Production",
         "version": "Carnegie 2025",
         "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/Auburn-University/",
         "reviewedOn": "2026-10-23"
@@ -2974,6 +2974,142 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://polisci.northwestern.edu/about/faculty-searches.html",
         "reviewedOn": "2026-10-27"
+      }
+    },
+    {
+      "id": "RAE-0103",
+      "position": "Assistant Professor of Quantitative Psychology / Advanced Quantitative Methods",
+      "institution": "University of North Carolina at Charlotte",
+      "url": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "reviewedOn": "2026-10-30",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track Assistant Professor; permanent full-time, nine months; starts August16,2027.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.charlotte.edu/postings/71435/print_preview",
+        "evidenceNote": "Position002485; original71385 Print Preview links to71435. Applicant Documents requires combined Research, Teaching & Leadership statement and an Other Document; prose describes research/teaching statement and up to3publications. Both retained without silently resolving the portal wording. Letters requested for screening interview; official transcript upon hire.",
+        "reviewedOn": "2026-10-30"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "199139",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-north-carolina-at-charlotte/",
+        "reviewedOn": "2026-10-23"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.charlotte.edu/postings/71435/print_preview",
+        "reviewedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "RAE-0104",
+      "position": "Data Scientist, M-Powering Teacher Coaching",
+      "institution": "Harvard University",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "reviewedOn": "2026-10-30",
+      "appointment": {
+        "type": "Fixed-term staff",
+        "detail": "Full-time, one-year term from hire; continuation contingent on funding, performance and department needs;35hours/week.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+        "evidenceNote": "Employer SmartRecruiters full body including measurement-development section; resume/CV and cover letter; conditional interview task/sample program. No numeric teaching load inferred from weekly work hours.",
+        "reviewedOn": "2026-10-30"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; official institution-search result read in full; UNITID not independently verified",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/?ic2025%5B%5D=6&inst=",
+        "reviewedOn": "2026-10-30"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+        "reviewedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "RAE-0105",
+      "position": "Assistant Professor of Psychology (Statistics / Quantitative Research Methods)",
+      "institution": "Loma Linda University",
+      "url": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "reviewedOn": "2026-10-30",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Official announcement specifies tenure-track Assistant Professor; Associate Professor applicants may also be considered. Pending final budgetary approval.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+        "evidenceNote": "Original two-page employer PDF preserved byte-for-byte. Associate consideration is not treated as a promise of tenure. Cover letter, vita, two publications;3letters may be requested after initial screening.",
+        "reviewedOn": "2026-10-30"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025; official institution-search result read in full; UNITID not independently verified",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/page/3/?inst&research2025%5B0%5D=2",
+        "reviewedOn": "2026-10-30"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+        "reviewedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "RAE-0106",
+      "position": "Learning Scientist III — Center for Engineering Education and Outreach",
+      "institution": "Tufts University",
+      "url": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "reviewedOn": "2026-10-30",
+      "appointment": {
+        "type": "Fixed-term staff",
+        "detail": "One-year limited-term Learning Scientist appointment ending September1,2027; not coded tenure-track from secondary lecturer/research categories.",
+        "reviewStatus": "Verified from full secondary posting",
+        "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+        "evidenceNote": "Full AcademicKeys publisher PDF preserved; employer23502 returned403. Posting specifically gives no itemized application-document list; cover-letter reference instruction is retained but not converted into a required-document list.",
+        "reviewedOn": "2026-10-30"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; official institution-search result read in full; UNITID not independently verified",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/page/4/?inst&stabbr%5B0%5D=MA",
+        "reviewedOn": "2026-10-30"
+      },
+      "teaching": {
+        "asStated": "Teaching two courses",
+        "unit": "courses",
+        "period": "Not stated",
+        "standardized": "Two courses; period not stated",
+        "annualCourses": null,
+        "notes": "No term/year period supplied for two-course duty; no annualization.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+        "reviewedOn": "2026-10-30"
       }
     }
   ]

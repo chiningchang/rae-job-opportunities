@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-27",
+  "reviewedOn": "2026-10-30",
   "entries": [
     {
       "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
@@ -486,6 +486,42 @@
       "note": "Expected base range, subject to negotiation. Department says until filled; portal separately mentions an October 12 reference-letter deadline, now past; applicants should confirm late-reference handling.",
       "evidenceUrl": "https://polisci.northwestern.edu/about/faculty-searches.html",
       "reviewedOn": "2026-10-27"
+    },
+    {
+      "url": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "category": "numeric",
+      "amount": "$84,000–$87,000",
+      "label": "Nine-month faculty appointment; salary range pay period not separately stated",
+      "note": "Anticipated salary range. Hiring subject to budget availability.",
+      "evidenceUrl": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "category": "numeric",
+      "amount": "$90,000–$95,000",
+      "label": "Full-time one-year term;35hours/week; salary period not explicitly stated in announcement",
+      "note": "Commensurate with experience; remote subject to project needs and Harvard-registered-state restrictions.",
+      "evidenceUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "url": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "category": "commensurate",
+      "amount": "Commensurate with faculty policies and wage scale",
+      "label": "Faculty salary determined under School of Behavioral Health policies/wage scale",
+      "note": "No salary amount; rank determination and salary commensurate with faculty policies/wage scale. Position pending final budgetary approval.",
+      "evidenceUrl": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "url": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "category": "numeric",
+      "amount": "$81,200 minimum–$120,900 maximum; $101,600 midpoint",
+      "label": "Pay-range period not stated; one-year limited term ends Sep1,2027",
+      "note": "New hires generally minimum to midpoint; based on experience, expertise and internal equity. Full secondary publisher PDF; employer page403/not fully verified.",
+      "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "reviewedOn": "2026-10-30"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-27",
+  "reviewedOn": "2026-10-30",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,61 +18,61 @@
   ],
   "views": {
     "all": {
-      "total": 220,
-      "postingCount": 47,
+      "total": 239,
+      "postingCount": 51,
       "counts": {
         "Cover letter": {
-          "required": 38,
+          "required": 41,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 40,
+          "required": 43,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 32,
+          "required": 33,
           "conditional": 0,
           "later": 0
         },
         "Research statement": {
-          "required": 16,
+          "required": 17,
           "conditional": 0,
           "later": 0
         },
         "Teaching statement": {
-          "required": 17,
+          "required": 18,
           "conditional": 1,
           "later": 0
         },
         "Application format instructions": {
-          "required": 10,
+          "required": 12,
           "conditional": 0,
           "later": 0
         },
         "Reference letters": {
-          "required": 6,
-          "conditional": 2,
-          "later": 6
+          "required": 4,
+          "conditional": 3,
+          "later": 7
         },
         "Transcripts": {
           "required": 6,
           "conditional": 0,
-          "later": 3
+          "later": 4
         },
         "Research samples / publications": {
-          "required": 19,
-          "conditional": 1,
+          "required": 21,
+          "conditional": 2,
           "later": 0
         },
         "Teaching evaluations": {
           "required": 3,
-          "conditional": 3,
+          "conditional": 4,
           "later": 0
         },
         "Other application statement": {
-          "required": 5,
+          "required": 6,
           "conditional": 0,
           "later": 1
         },

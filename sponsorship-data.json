@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-27",
+  "reviewedOn": "2026-10-30",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -818,6 +818,42 @@
       "visaType": "",
       "evidenceUrl": "https://polisci.northwestern.edu/about/faculty-searches.html",
       "reviewedOn": "2026-10-27"
+    },
+    {
+      "id": "RAE-0103",
+      "url": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "id": "RAE-0104",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "status": "Not offered",
+      "note": "Harvard explicitly cannot provide visa sponsorship for this position. Remote work limited to Harvard-registered states; certain visa/funding restrictions may apply.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "id": "RAE-0105",
+      "url": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "reviewedOn": "2026-10-30"
+    },
+    {
+      "id": "RAE-0106",
+      "url": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "reviewedOn": "2026-10-30"
     }
   ]
 }

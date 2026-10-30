@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-27",
+  "reviewedOn": "2026-10-30",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -2796,6 +2796,133 @@
           "conditional": 0,
           "later": 0
         },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0103",
+      "url": "https://jobs.charlotte.edu/postings/71435/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0104",
+      "url": "https://jobs.smartrecruiters.com/HarvardUniversity/3743990015806161-data-scientist-m-powering-teacher-coaching",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0105",
+      "url": "https://behavioralhealth.llu.edu/sites/behavioralhealth.llu.edu/files/2026-09/llu-psyc-faculty-search-ad-2026.pdf",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0106",
+      "url": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
+      "review": "reviewed",
+      "itemization": "format-only",
+      "counts": {
         "Application format instructions": {
           "required": 1,
           "conditional": 0,
