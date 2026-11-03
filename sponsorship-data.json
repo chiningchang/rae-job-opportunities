@@ -926,6 +926,33 @@
       "visaType": "",
       "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
       "reviewedOn": "2026-10-02"
+    },
+    {
+      "id": "RAE-0115",
+      "url": "https://viethconsulting.com/classifieds/moreinfo.php?cid=73469985",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://viethconsulting.com/classifieds/moreinfo.php?cid=73469985",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0116",
+      "url": "https://www.schooljobs.com/jobs/newprint/5504850",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://www.schooljobs.com/jobs/newprint/5504850",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0117",
+      "url": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
+      "status": "Not offered",
+      "note": "CSUSM explicitly is not a sponsoring agent for staff or management positions (i.e. H1-B visas); California-only CSU work restriction also stated.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
+      "reviewedOn": "2026-11-03"
     }
   ]
 }

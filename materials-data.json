@@ -18,16 +18,16 @@
   ],
   "views": {
     "all": {
-      "total": 281,
-      "postingCount": 61,
+      "total": 287,
+      "postingCount": 64,
       "counts": {
         "Cover letter": {
-          "required": 49,
+          "required": 50,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 51,
+          "required": 52,
           "conditional": 0,
           "later": 0
         },
@@ -47,7 +47,7 @@
           "later": 0
         },
         "Application format instructions": {
-          "required": 15,
+          "required": 16,
           "conditional": 0,
           "later": 0
         },
@@ -74,7 +74,7 @@
         "Other application statement": {
           "required": 7,
           "conditional": 0,
-          "later": 1
+          "later": 2
         },
         "Service statement": {
           "required": 2,

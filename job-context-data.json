@@ -3386,6 +3386,108 @@
         "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
         "reviewedOn": "2026-10-08"
       }
+    },
+    {
+      "id": "RAE-0115",
+      "position": "Assessment Analyst II",
+      "institution": "Tulane University",
+      "url": "https://viethconsulting.com/classifieds/moreinfo.php?cid=73469985",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Assessment staff role; tenure status, fixed term and work location not stated in the complete SAIR secondary announcement.",
+        "reviewStatus": "Verified from full secondary posting",
+        "evidenceUrl": "https://viethconsulting.com/classifieds/moreinfo.php?cid=73469985",
+        "evidenceNote": "Full secondary SAIR source, not certification of employer ATS entirety. Specific work location, salary, documents and visa policy are not stated.",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://viethconsulting.com/classifieds/moreinfo.php?cid=73469985",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0116",
+      "position": "Director, Institutional Research and Assessment",
+      "institution": "Alcorn State University",
+      "url": "https://www.schooljobs.com/jobs/newprint/5504850",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time director role. Portal job-type field says Full-Time Faculty; no academic rank or tenure designation stated. Functional role coded Research / Evaluation Staff.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://www.schooljobs.com/jobs/newprint/5504850",
+        "evidenceNote": "Portal Full-Time Faculty label retained as source metadata; no tenure-track, tenured or academic rank inferred. Benefits included in complete official Print Job body.",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.schooljobs.com/jobs/newprint/5504850",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0117",
+      "position": "Institutional Research Analyst, Institutional Planning and Analysis",
+      "institution": "California State University San Marcos",
+      "url": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt probationary staff appointment leading toward permanent status after successful probation; hybrid eligible, work must remain in California.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
+        "evidenceNote": "Complete original five-page position description downloaded from the announcement Position Description link and appended unchanged; all qualifications, physical/environment tables and signature page preserved.",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
+        "reviewedOn": "2026-11-03"
+      }
     }
   ]
 }
