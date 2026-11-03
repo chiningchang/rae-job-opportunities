@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-30",
+  "reviewedOn": "2026-11-03",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -9,15 +9,6 @@
     "Unable to assess"
   ],
   "entries": [
-    {
-      "id": "RAE-0001",
-      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-      "status": "Conditional or limited",
-      "note": "The posting says it is not currently sponsoring H-1B cases subject to a specified $100,000 fee; applicants must be authorized to work for any U.S. employer.",
-      "visaType": "H-1B",
-      "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-      "reviewedOn": "2026-09-28"
-    },
     {
       "id": "RAE-0002",
       "url": "https://jobs.coastal.edu/postings/122779",
@@ -169,15 +160,6 @@
       "note": "No explicit visa-sponsorship policy found in the captured posting.",
       "visaType": "",
       "evidenceUrl": "https://faculty.tamu.edu/JobDetail?JobId=190514",
-      "reviewedOn": "2026-09-28"
-    },
-    {
-      "id": "RAE-0019",
-      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship policy found in the captured posting.",
-      "visaType": "",
-      "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
       "reviewedOn": "2026-09-28"
     },
     {
@@ -385,15 +367,6 @@
       "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
       "visaType": "",
       "evidenceUrl": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
-      "reviewedOn": "2026-10-02"
-    },
-    {
-      "id": "RAE-0044",
-      "url": "https://www.universityjobs.com/posting/7370830",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
-      "visaType": "",
-      "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
       "reviewedOn": "2026-10-02"
     },
     {
@@ -854,6 +827,105 @@
       "visaType": "",
       "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
       "reviewedOn": "2026-10-30"
+    },
+    {
+      "id": "RAE-0107",
+      "url": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0108",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0109",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0110",
+      "url": "https://academicjobsonline.org/ajo/jobs/33182",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33182",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0111",
+      "url": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "status": "Conditional or limited",
+      "note": "Recruitment sidebar explicitly says UNF cannot consider candidates requiring H-1B sponsorship regardless of current visa status. Other visa categories not stated; not a blanket finding on every visa type.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0112",
+      "url": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0113",
+      "url": "https://careers.uoregon.edu/en-us/job/536999",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.uoregon.edu/en-us/job/536999",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0114",
+      "url": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0019",
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0001",
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "status": "Conditional or limited",
+      "note": "The posting says it is not currently sponsoring H-1B cases subject to a specified $100,000 fee; applicants must be authorized to work for any U.S. employer.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "reviewedOn": "2026-09-28"
+    },
+    {
+      "id": "RAE-0044",
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+      "reviewedOn": "2026-10-02"
     }
   ]
 }

@@ -1,14 +1,6 @@
 {
-  "reviewedOn": "2026-10-30",
+  "reviewedOn": "2026-11-03",
   "entries": [
-    {
-      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-      "category": "numeric",
-      "amount": "$6,221–$13,224 / month",
-      "label": "CSU assistant professor salary schedule",
-      "note": "The posting says starting salaries are generally in the lower half of this range.",
-      "reviewedOn": "2026-09-25"
-    },
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
       "category": "numeric",
@@ -39,14 +31,6 @@
       "amount": "$84,100–$132,900 / 9-month academic year",
       "label": "Published salary range",
       "note": "Off-scale pay and other components may exceed the published range.",
-      "reviewedOn": "2026-09-25"
-    },
-    {
-      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
-      "category": "numeric",
-      "amount": "$100,000–$120,000",
-      "label": "Published salary range",
-      "note": "The posting does not specify the pay period beside this range.",
       "reviewedOn": "2026-09-25"
     },
     {
@@ -212,14 +196,6 @@
       "amount": "$60,000–$70,000",
       "label": "Posted salary range",
       "note": "Pay period not stated beside figure.",
-      "reviewedOn": "2026-10-02"
-    },
-    {
-      "url": "https://www.universityjobs.com/posting/7370830",
-      "category": "commensurate",
-      "amount": "",
-      "label": "Competitive and commensurate with qualifications and experience",
-      "note": "No numeric figure.",
       "reviewedOn": "2026-10-02"
     },
     {
@@ -522,6 +498,105 @@
       "note": "New hires generally minimum to midpoint; based on experience, expertise and internal equity. Full secondary publisher PDF; employer page403/not fully verified.",
       "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
       "reviewedOn": "2026-10-30"
+    },
+    {
+      "url": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "category": "numeric",
+      "amount": "Assistant Professor: from $70,000 / 9-month contract",
+      "label": "Rank-specific nine-month minimums, not a closed salary range",
+      "note": "Assistant minimum only, not a closed range. Associate Professor minimum $80,000 /9months; no upper limits stated. Pay/benefits distributed over12months.",
+      "evidenceUrl": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "category": "numeric",
+      "amount": "$115,000–$139,125 / year",
+      "label": "Explicit annual base salary range",
+      "note": "Offer depends on role, experience, training, skills, internal equity, laws, grant funding and market factors.",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "category": "numeric",
+      "amount": "$82,000–$85,000",
+      "label": "Expected base pay range; pay period not explicitly attached",
+      "note": "Qualifications, budget and internal equity affect pay. Source evaluation criteria emphasize quantitative/econometric skills alongside explicitly required qualitative expertise; discrepancy retained.",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://academicjobsonline.org/ajo/jobs/33182",
+      "category": "numeric",
+      "amount": "$62,232–$88,745",
+      "label": "Posted postdoctoral range; pay period not specified",
+      "note": "Generic faculty nine-month-pay disclaimer is not applied to this postdoctoral range. PriorityNov15 and portalNov16 dates differ; neither silently resolved.",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33182",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "category": "numeric",
+      "amount": "From $150,000 / year; upper limit negotiable",
+      "label": "Explicit annual compensation floor",
+      "note": "No upper bound stated.",
+      "evidenceUrl": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "category": "numeric",
+      "amount": "$140,000–$160,000",
+      "label": "Anticipated range; pay period not explicitly stated",
+      "note": "Final offer based on qualifications, internal equity and market considerations.",
+      "evidenceUrl": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://careers.uoregon.edu/en-us/job/536999",
+      "category": "numeric",
+      "amount": "$80,000–$90,000 / year",
+      "label": "Explicit annual salary range",
+      "note": "FTE1.0; compensation band OS-OA06 fiscal2026–27.",
+      "evidenceUrl": "https://careers.uoregon.edu/en-us/job/536999",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "category": "commensurate",
+      "amount": "Commensurate; no figure",
+      "label": "Salary commensurate with experience",
+      "note": "Full Inside Higher Ed secondary body; employer-specific full ATS page not certified.",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "category": "numeric",
+      "amount": "$100,000–$120,000",
+      "label": "Published salary range",
+      "note": "The posting does not specify the pay period beside this range.",
+      "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "reviewedOn": "2026-09-25"
+    },
+    {
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "category": "numeric",
+      "amount": "$6,221–$13,224 / month",
+      "label": "CSU assistant professor salary schedule",
+      "note": "The posting says starting salaries are generally in the lower half of this range.",
+      "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "reviewedOn": "2026-09-25"
+    },
+    {
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "category": "commensurate",
+      "amount": "Commensurate; no figure",
+      "label": "Competitive and commensurate with qualifications and experience",
+      "note": "No numeric figure.",
+      "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+      "reviewedOn": "2026-10-02"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-30",
+  "reviewedOn": "2026-11-03",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,66 +18,66 @@
   ],
   "views": {
     "all": {
-      "total": 239,
-      "postingCount": 51,
+      "total": 281,
+      "postingCount": 61,
       "counts": {
         "Cover letter": {
-          "required": 41,
+          "required": 49,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 43,
+          "required": 51,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 33,
+          "required": 39,
           "conditional": 0,
           "later": 0
         },
         "Research statement": {
-          "required": 17,
+          "required": 20,
           "conditional": 0,
           "later": 0
         },
         "Teaching statement": {
-          "required": 18,
+          "required": 20,
           "conditional": 1,
           "later": 0
         },
         "Application format instructions": {
-          "required": 12,
+          "required": 15,
           "conditional": 0,
           "later": 0
         },
         "Reference letters": {
           "required": 4,
-          "conditional": 3,
+          "conditional": 4,
           "later": 7
         },
         "Transcripts": {
           "required": 6,
           "conditional": 0,
-          "later": 4
+          "later": 5
         },
         "Research samples / publications": {
-          "required": 21,
+          "required": 26,
           "conditional": 2,
           "later": 0
         },
         "Teaching evaluations": {
-          "required": 3,
+          "required": 4,
           "conditional": 4,
           "later": 0
         },
         "Other application statement": {
-          "required": 6,
+          "required": 7,
           "conditional": 0,
           "later": 1
         },
         "Service statement": {
-          "required": 1,
+          "required": 2,
           "conditional": 0,
           "later": 0
         },

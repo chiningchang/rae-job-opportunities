@@ -1,41 +1,8 @@
 {
   "version": 1,
-  "reviewedOn": "2026-10-30",
+  "reviewedOn": "2026-11-03",
   "classification": "Carnegie 2025",
   "entries": [
-    {
-      "id": "RAE-0001",
-      "position": "Assistant Professor in Educational Leadership",
-      "institution": "California State University Channel Islands",
-      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-      "reviewedOn": "2026-10-08",
-      "appointment": {
-        "type": "Tenure-track",
-        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
-        "reviewStatus": "Verified from official posting",
-        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-        "reviewedOn": "2026-10-08"
-      },
-      "institutionContext": {
-        "control": "Public",
-        "unitid": "441937",
-        "research": "Research Colleges and Universities",
-        "version": "Carnegie 2025 (public file revision October 10, 2025)",
-        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
-        "reviewedOn": "2026-10-08"
-      },
-      "teaching": {
-        "asStated": "Not stated",
-        "unit": "",
-        "period": "",
-        "standardized": "",
-        "annualCourses": null,
-        "notes": "No numeric teaching load identified; does not mean zero teaching.",
-        "reviewStatus": "Not stated in reviewed posting",
-        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-        "reviewedOn": "2026-10-08"
-      }
-    },
     {
       "id": "RAE-0002",
       "position": "Assistant/Associate Professor in Educational Research",
@@ -594,39 +561,6 @@
         "notes": "Typical departmental expectation, not a guaranteed individual assignment; no term split inferred.",
         "reviewStatus": "Numeric load stated",
         "evidenceUrl": "https://faculty.tamu.edu/JobDetail?JobId=190514",
-        "reviewedOn": "2026-10-08"
-      }
-    },
-    {
-      "id": "RAE-0019",
-      "position": "Assistant Professor, Quantitative Methodology: Measurement and Statistics",
-      "institution": "University of Maryland, College Park",
-      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
-      "reviewedOn": "2026-10-08",
-      "appointment": {
-        "type": "Tenure-track",
-        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
-        "reviewStatus": "Verified from official posting",
-        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
-        "reviewedOn": "2026-10-08"
-      },
-      "institutionContext": {
-        "control": "Public",
-        "unitid": "163286",
-        "research": "Research 1: Very High Spending and Doctorate Production",
-        "version": "Carnegie 2025 (public file revision October 10, 2025)",
-        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
-        "reviewedOn": "2026-10-08"
-      },
-      "teaching": {
-        "asStated": "Not stated",
-        "unit": "",
-        "period": "",
-        "standardized": "",
-        "annualCourses": null,
-        "notes": "No numeric teaching load identified; does not mean zero teaching.",
-        "reviewStatus": "Not stated in reviewed posting",
-        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
         "reviewedOn": "2026-10-08"
       }
     },
@@ -1386,39 +1320,6 @@
         "notes": "College uses two 7-week sessions per semester; retain advertised load without inferring preparation count.",
         "reviewStatus": "Numeric load stated",
         "evidenceUrl": "https://careers.insidehighered.com/job/3554097/assistant-professor-of-education-special-education-/",
-        "reviewedOn": "2026-10-08"
-      }
-    },
-    {
-      "id": "RAE-0044",
-      "position": "Open Rank Professor of Psychology – Quantitative Psychology",
-      "institution": "The University of Oklahoma",
-      "url": "https://www.universityjobs.com/posting/7370830",
-      "reviewedOn": "2026-10-08",
-      "appointment": {
-        "type": "Tenure-track or tenured",
-        "detail": "Open-rank advertisement explicitly offers tenured and tenure-track appointments; no rank-specific tenure guarantee inferred.",
-        "reviewStatus": "Verified from secondary posting",
-        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
-        "reviewedOn": "2026-10-08"
-      },
-      "institutionContext": {
-        "control": "Public",
-        "unitid": "207500",
-        "research": "Research 1: Very High Spending and Doctorate Production",
-        "version": "Carnegie 2025 (public file revision October 10, 2025)",
-        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
-        "reviewedOn": "2026-10-08"
-      },
-      "teaching": {
-        "asStated": "2:2 teaching load; two courses per semester",
-        "unit": "Courses",
-        "period": "Semester",
-        "standardized": "2-2",
-        "annualCourses": "4",
-        "notes": "No reduction stated.",
-        "reviewStatus": "Numeric load stated",
-        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
         "reviewedOn": "2026-10-08"
       }
     },
@@ -3110,6 +3011,380 @@
         "reviewStatus": "Numeric load stated",
         "evidenceUrl": "https://engineering.academickeys.com/seeker_job_display.php?dothis=pdf&job[IDX]=278679",
         "reviewedOn": "2026-10-30"
+      }
+    },
+    {
+      "id": "RAE-0107",
+      "position": "Assistant or Associate Professor in Quantitative Methods (two positions)",
+      "institution": "Boise State University",
+      "url": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Two in-person nine-month faculty positions starting Fall2027; employer explicitly says tenure-track or tenured. Pay/benefits spread over12months; yearly renewable contract wording retained.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/boise-state-university/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0108",
+      "position": "Assistant Professor in Quantitative Methods and Computational Psychology",
+      "institution": "University of Southern California",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track Assistant Professor; expected August2027 start.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+        "evidenceNote": "AI/ML in psychology is not automatically coded AI in Education; methods and measurement tags only.",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-southern-california/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0109",
+      "position": "SCALE Qualitative Postdoctoral Fellowship — Susanna Loeb",
+      "institution": "Stanford University",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "August1,2027–July31,2028 renewable; start flexible. Timeline also says Summer2027; both source statements retained.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "243744",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0110",
+      "position": "Multiple Engineering Education Research Postdoctoral Positions — Duffield Engineering Education Research Institute",
+      "institution": "Cornell University",
+      "url": "https://academicjobsonline.org/ajo/jobs/33182",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Desired March2027 start; across-position statement says one-year renewable based on performance; AI Integration project separately describes two years. Both retained.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33182",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "190415",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33182",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0111",
+      "position": "Assistant VP of Institutional Research and Effectiveness",
+      "institution": "University of North Florida",
+      "url": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff leadership role; tenure status and fixed end date not stated.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+        "evidenceNote": "Full Workday body and rendered recruitment sidebar reviewed; H-1B notice retained in PDF.",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Research 2: High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/page/141/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0112",
+      "position": "Assistant Provost for Data Strategy and Director of Institutional Effectiveness",
+      "institution": "Quinnipiac University",
+      "url": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff appointment; no tenure or fixed end date stated.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie2025 official listing verifies control; research designation not verified.",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institutions/?inst=&stabbr%5B%5D=CT",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0113",
+      "position": "Institutional Research Analyst — Data Enablement",
+      "institution": "University of Oregon",
+      "url": "https://careers.uoregon.edu/en-us/job/536999",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Regular, ongoing full-time Officer of Administration appointment; hybrid eligible.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://careers.uoregon.edu/en-us/job/536999",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-oregon/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.uoregon.edu/en-us/job/536999",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0114",
+      "position": "Executive Director of Institutional Effectiveness and Assessment",
+      "institution": "University of West Georgia",
+      "url": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Regular full-time executive staff position; in-person campus presence as needed; no tenure designation.",
+        "reviewStatus": "Verified from full secondary posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-03"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie2025 official profile verifies control; research designation not verified.",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-west-georgia/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "Not stated",
+        "annualCourses": null,
+        "notes": "No numeric course load stated; not zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+        "reviewedOn": "2026-11-03"
+      }
+    },
+    {
+      "id": "RAE-0019",
+      "position": "Assistant Professor, Quantitative Methodology: Measurement and Statistics",
+      "institution": "University of Maryland, College Park",
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+        "evidenceNote": "",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "163286",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0001",
+      "position": "Assistant Professor in Educational Leadership",
+      "institution": "California State University Channel Islands",
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+        "evidenceNote": "",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "441937",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load identified; does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+        "reviewedOn": "2026-10-08"
+      }
+    },
+    {
+      "id": "RAE-0044",
+      "position": "Open Rank Professor of Psychology – Quantitative Psychology",
+      "institution": "The University of Oklahoma",
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "reviewedOn": "2026-11-03",
+      "appointment": {
+        "type": "Tenure-track or tenured",
+        "detail": "Open-rank advertisement explicitly offers tenured and tenure-track appointments; no rank-specific tenure guarantee inferred.",
+        "reviewStatus": "Verified from secondary posting",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+        "evidenceNote": "",
+        "reviewedOn": "2026-10-08"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "207500",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "2:2 teaching load; two courses per semester",
+        "unit": "Courses",
+        "period": "Semester",
+        "standardized": "2-2",
+        "annualCourses": 4.0,
+        "notes": "No reduction stated.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
+        "reviewedOn": "2026-10-08"
       }
     }
   ]

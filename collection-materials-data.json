@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-10-30",
+  "reviewedOn": "2026-11-03",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -17,39 +17,6 @@
     "Application format instructions"
   ],
   "entries": [
-    {
-      "id": "RAE-0001",
-      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Other application statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
-    },
     {
       "id": "RAE-0002",
       "url": "https://jobs.coastal.edu/postings/122779",
@@ -538,34 +505,6 @@
           "later": 0
         },
         "Other application statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
-    },
-    {
-      "id": "RAE-0019",
-      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research samples / publications": {
           "required": 1,
           "conditional": 0,
           "later": 0
@@ -1242,44 +1181,6 @@
           "required": 0,
           "conditional": 0,
           "later": 1
-        }
-      }
-    },
-    {
-      "id": "RAE-0044",
-      "url": "https://www.universityjobs.com/posting/7370830",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research samples / publications": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching dossier / materials": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
         }
       }
     },
@@ -2924,6 +2825,312 @@
       "itemization": "format-only",
       "counts": {
         "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0107",
+      "url": "https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0108",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Service statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0109",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0110",
+      "url": "https://academicjobsonline.org/ajo/jobs/33182",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0111",
+      "url": "https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0112",
+      "url": "https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0113",
+      "url": "https://careers.uoregon.edu/en-us/job/536999",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0114",
+      "url": "https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0019",
+      "url": "https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0001",
+      "url": "https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0044",
+      "url": "https://www.universityjobs.com/posting/7370830",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
           "required": 1,
           "conditional": 0,
           "later": 0

@@ -1,0 +1,49 @@
+# November 3, 2026 posting refresh
+
+Added eight postings, restored three existing identities after current full announcements explicitly confirmed open-until-filled status, archived two expired/removed source pages, and corrected one incomplete deadline/source caveat. Current collection: **77 Active + 25 Archive = 102**; 62 faculty and15 postdoc/research postings. Eight First Shared dates are November3; restored entries retain their original dates and IDs.
+
+## Changes and provenance
+
+- RAE-0107 Boise State: two quantitative-methods faculty positions; official full announcement. Rank-specific nine-month salary minimums are not upper/lower ends of one range. Main public amount shows the Assistant minimum, with Associate minimum in the note.
+- RAE-0108 USC: quantitative/computational-methods and psychometrics faculty; found in independent search and also reported by the community. General AI/ML in psychology is not automatically tagged AI in Education.
+- RAE-0109 Stanford SCALE: independently found qualitative postdoc embedded in quantitative evaluations. Preserve the source's qualitative qualifications and quantitative evaluation-criteria wording, January19 review date and renewable term.
+- RAE-0110 Cornell: independently found employer-authored AcademicJobsOnline announcement covering four engineering-education research projects under one posting identity. Preserve November15 priority versus November16 portal date and one-year general versus two-year project-specific term wording. The generic faculty-pay disclaimer is not used to annualize postdoctoral pay.
+- RAE-0111 UNF: quantitative/qualitative institutional research staff leadership. Complete Workday body and rendered recruitment sidebar checked; the H-1B restriction is preserved as a visa-type limitation rather than a finding about all visa types.
+- RAE-0112 Quinnipiac: survey research, quantitative/qualitative skills and learning-assessment leadership; official full source. No numeric course load or salary pay period inferred.
+- RAE-0113 Oregon: methodology selection/statistical analysis in curricular and learning-outcome assessment; official full source; regular ongoing staff, annual pay and until-filled status explicit.
+- RAE-0114 West Georgia: institutional research methods/statistical analysis and program-evaluation staff leadership; adopted full secondary Inside Higher Ed source. Employer full ATS announcement not certified.
+- Restored RAE-0019 Maryland from explicit official Open Until Filled: Yes; RAE-0001 CSUCI from explicit official until-filled language; RAE-0044 Oklahoma from the full secondary UniversityJobs announcement's explicit until-filled statement. No new IDs or NEW dates. Maryland's older unsupported AI/causal specialty paraphrases were removed from the private research-topic summary; original source dates/history otherwise retained.
+- Archived RAE-0066 Augusta: listed source expressly expired. RAE-0016 Reno: browser now reports the page does not exist, following the previously recorded October31 close date. These are source-status findings, not claims of confirmed hires.
+- RAE-0004 Georgia Tech: current official overview still advertises search300774 but omits a closing date; the previously recorded November2 date is now explicitly qualified as not currently verified. The overview is partial, so its historical PDF is retained and marked pending full-announcement verification.
+
+## PDFs and native synchronization
+
+Eight new PDFs and three replacements; all11 full-source text comparisons passed, all37pages rendered/visually inspected, link destinations retained, and uploaded full bytes downloaded with matching SHA-256. Nine adopted sources are employer announcements (eight on university domains and Cornell on its official AJO posting); two are identified secondary full announcements. All archives are labeled verbatim reflowed text, not publisher PDFs. The three replaced Drive file identities retain their previous revisions. Source-body comparison is not a blanket recertification of older PDFs.
+
+Native Master List has104 Posting Records rows including header and one excluded historical record; main list106rows, Application Materials282rows. A full102-record Active+Archive snapshot was appended at Posting History1478–1579. 7,244 written values/formulas match native readback;8,004 other read values preserved; zero formula errors. Original history, First Shared, quarantine and source-level distinctions retained. No private source files/Drive references published.
+
+## Review queue and exceptions
+
+Fifteen new non-test community suggestions reviewed, plus two previously pending Colorado scope cases. Planned final queue outcomes after all delivery checks: six Approved, one Duplicate (0019), three Unavailable, seven Pending verification; zero Out of scope and zero general feedback. Unavailable: expired Mississippi and Montclair pages; Pepperdine URL404. Pending: Wisconsin AI/games role needs method-scope precision; Tulane SAIR406/full capture unavailable; Alcorn and Kennesaw require further substantive method-role review; CSUSM requires the linked complete position description; two Colorado behavioral-genetics scope reviews retained. Original submissions and contact details remain private and unmodified. No email sent.
+
+All94 existing listed URLs requested:84HTTP200, six429, three404 and one410. HTTP success/dynamic shells are not full-source verification. Other existing source/pay/visa dates were not blanket advanced. Historical PDF gaps0024/0025/0035 persist;0004 has an additional partial-overview/full-PDF caveat. Tufts0106 remains secondary-source-full, not employer-full certified. JHU/JMU and other independently discovered leads not meeting the complete-source/scope/PDF gates remain unpublished.
+
+## Contract and presentation checks
+
+Latest README and four bilingual procedures applied. Education-unit affiliation remains discovery only; substantive ERM evidence required. Excluded0026 and quarantined0069–0079 remain outside every analysis. Network Analysis and mutually exclusive/exhaustive QuantCrit/Broader v1.3 unchanged. Seven annual methodology narratives reviewed and retained.
+
+Only embedded jobs/archive literals and visible date changed in index; every other byte of index presentation preserved. Insights, job-context scripts/styles and design remain unchanged. Five JSON datasets and README release date synchronized. Script syntax,102-way public/native identity, dataset coverage, stable IDs and privacy checks pass. No GitHub Actions or duplicate schedule added. Actual browser checks after deployment are recorded in the private bilingual logs. Native Sheets rendering reaches Google sign-in, so visual fit is not certified; connector values/formulas/format metadata were checked. No mobile viewport emulation available in the exposed browser API.
+
+## Captured source manifest
+
+- RAE-0107: official employer full source; https://jobs.boisestate.edu/jobs/assistant-or-associate-professor-in-quantitative-methods-boise-idaho-united-states; captured 2026-11-03T02:12:32-05:00 America/New_York; 4pages; SHA-256 `17a8d7d17449648dc0338812d76e9cb206309172c411924f825df0300cab47f5`.
+- RAE-0108: official employer full source; https://usccareers.usc.edu/job/los-angeles/assistant-professor-in-quantitative-methods-and-computational-psychology/1209/102612524688; captured 2026-11-03T02:12:32-05:00 America/New_York; 1pages; SHA-256 `558acdb983896a93ddc5342825337b57cef4b5fc86613c2a71625b57f11c8040`.
+- RAE-0109: official employer full source; https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb-1; captured 2026-11-03T02:12:32-05:00 America/New_York; 3pages; SHA-256 `11ab334099373cc0c1a891981f87dd4b51a00922fa86e83ea5788aed29122076`.
+- RAE-0110: official employer full source; https://academicjobsonline.org/ajo/jobs/33182; captured 2026-11-03T02:12:33-05:00 America/New_York; 5pages; SHA-256 `fc4a1ecb4398b4311436c283fda73f50839a6dad4dac2337e19063525e8bdeed`.
+- RAE-0111: official employer full source; https://unf.wd5.myworkdayjobs.com/en-US/unfjobs/job/Assistant-VP-of-Institutional-Research-and-Effectiveness_JR103605; captured 2026-11-03T02:12:33-05:00 America/New_York; 3pages; SHA-256 `a9451e670c7a46073eada284ca1388e39364b44b6015552e470f1451e53c8a44`.
+- RAE-0112: official employer full source; https://career.qu.edu/en-us/job/497154/assistant-provost-for-data-strategy-and-director-of-institutional-effectiveness; captured 2026-11-03T02:12:33-05:00 America/New_York; 3pages; SHA-256 `dae34ba930785432b645b71e8cde040c5316c62f841e844cf2f7fe738e5e97d6`.
+- RAE-0113: official employer full source; https://careers.uoregon.edu/en-us/job/536999; captured 2026-11-03T02:12:33-05:00 America/New_York; 3pages; SHA-256 `69d99e5ff4d5b9aabc83fb4c0cfc25a82db49eaedf662cf069bbf7ff0b9dedd5`.
+- RAE-0114: secondary full source; https://careers.insidehighered.com/job/3563609/executive-director-of-institutional-effectiveness-and-assessment; captured 2026-11-03T02:12:33-05:00 America/New_York; 4pages; SHA-256 `7581762db95c28940028e517f318d5e62308bffb0ececeebd1bd2c3b25fe8a67`.
+- RAE-0019: official employer full source; https://umd.wd1.myworkdayjobs.com/en-US/UMCP/job/Assistant-Professor_JR104228; captured 2026-11-03T02:12:34-05:00 America/New_York; 3pages; SHA-256 `bc5cd943d47c8a127f94c6851efa3cad9aae7e854c2f2fd206d3abdb0bdc122f`.
+- RAE-0001: official employer full source; https://jobs.csuci.edu/en-us/job/562012/assistant-professor-in-educational-leadership; captured 2026-11-03T02:12:34-05:00 America/New_York; 5pages; SHA-256 `a84bcaad982558d31e9b7ef6081140cb78933b9f536422b02767b9b749848524`.
+- RAE-0044: secondary full source; https://www.universityjobs.com/posting/7370830; captured 2026-11-03T02:12:34-05:00 America/New_York; 3pages; SHA-256 `a463c93fd785be98f61bb4ef950860bed36011074853c592865c1a042b3f60c7`.
