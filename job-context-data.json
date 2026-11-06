@@ -3182,7 +3182,7 @@
         "unit": "Courses",
         "period": "Semester",
         "standardized": "2-2",
-        "annualCourses": 4.0,
+        "annualCourses": 4,
         "notes": "No reduction stated.",
         "reviewStatus": "Numeric load stated",
         "evidenceUrl": "https://www.universityjobs.com/posting/7370830",
@@ -3332,11 +3332,11 @@
       "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
       "reviewedOn": "2026-11-06",
       "appointment": {
-        "type": "Not verified",
-        "detail": "Narrative describes a tenured position; structured Tenure field says Tenure Track. Conflict unresolved. Nine-month appointment starting Aug 10, 2027, negotiable.",
-        "reviewStatus": "Conflicting source statements; pending verification",
+        "type": "Tenure-track",
+        "detail": "Tenure-track; nine-month appointment beginning August 10, 2027, negotiable.",
+        "reviewStatus": "Confirmed using official structured tenure field and board-owner clarification",
         "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
-        "evidenceNote": "Source conflicts and missing units retained explicitly; no unsupported duration, visa policy or numeric teaching load inferred.",
+        "evidenceNote": "Uses the official posting's Tenure Track field; classification confirmed by the board owner on November 6, 2026.",
         "reviewedOn": "2026-11-06"
       },
       "institutionContext": {
@@ -3876,11 +3876,11 @@
       "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
       "reviewedOn": "2026-11-06",
       "appointment": {
-        "type": "Not verified",
-        "detail": "Narrative describes a tenured position; structured Tenure field says Tenure Track. Conflict unresolved. Nine-month appointment; Aug 10, 2027 start negotiable.",
-        "reviewStatus": "Conflicting source statements; pending verification",
+        "type": "Tenure-track",
+        "detail": "Tenure-track; nine-month appointment beginning August 10, 2027, negotiable.",
+        "reviewStatus": "Confirmed using official structured tenure field and board-owner clarification",
         "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
-        "evidenceNote": "Current structured Work Type no longer includes Faculty Administrator; narrative unchanged. Conflicting tenure labels not resolved by choosing one.",
+        "evidenceNote": "Uses the official posting's Tenure Track field; classification confirmed by the board owner on November 6, 2026.",
         "reviewedOn": "2026-11-06"
       },
       "institutionContext": {
