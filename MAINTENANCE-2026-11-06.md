@@ -31,3 +31,10 @@ Source review and capture took place on November 6 in America/New_York. This cur
 |RAE-0129|Stanford SCALE quantitative postdoc|Official employer|https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb|
 
 Vanderbilt0053 adopted full secondary source: https://aefpweb.org/jobs_listing.asp?id=270. The publisher listing expiration is not treated as an employer deadline. Final commit, deployment and document-readback closure are recorded in the private bilingual collection logs after publication.
+
+## User-authorized annual map label correction — November 6, 2026
+
+Resolved the previously recorded five `undefined · 0` map labels. The US Atlas states dataset has56features:50states,DCand5territories (American Samoa,Guam,Northern Mariana Islands,Puerto Rico,US Virgin Islands). The Albers USA state map has a51-entry state/DC FIPS lookup. Unmapped territory features were still given SVG title elements, producing unnamed accessibility/hover labels even though they were not drawn by the projection.
+
+The annual renderer now binds only features present in its state/DC lookup. This removes the five phantom paths/titles without changing supported state geometries, colors, job records, counts, classification, summaries or layout. Regression verification against the actual56-feature atlas reproduces the old five failures, retains all51supported regions, and also guards an unexpected future region ID. Inline JavaScript syntax check passes. Deployment, annual/current count checks, map labels and state-click/keyboard behavior are verified after publication; final commit and live outcomes are recorded in the bilingual private logs. This is a separately requested code correction, not an incidental scheduled posting refresh. Other previously documented source/PDF and device/native-visual verification exceptions remain open.
+
