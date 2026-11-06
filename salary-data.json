@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-03",
+  "reviewedOn": "2026-11-06",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -120,26 +120,11 @@
       "reviewedOn": "2026-10-02"
     },
     {
-      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
-      "category": "commensurate",
-      "label": "9-month academic appointment",
-      "note": "Negotiable; based on experience and qualifications.",
-      "reviewedOn": "2026-10-02"
-    },
-    {
       "url": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
       "category": "numeric",
       "amount": "$95,000–$115,000",
       "label": "Posted hiring range",
       "note": "Pay period not expressly stated.",
-      "reviewedOn": "2026-10-02"
-    },
-    {
-      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
-      "category": "commensurate",
-      "amount": "",
-      "label": "Competitive and commensurate with experience",
-      "note": "No numeric salary figure.",
       "reviewedOn": "2026-10-02"
     },
     {
@@ -428,15 +413,6 @@
       "reviewedOn": "2026-10-23"
     },
     {
-      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
-      "category": "numeric",
-      "amount": "$180,000–$260,000",
-      "label": "Published salary range; nine-month appointment",
-      "note": "Posting lists a nine-month appointment but does not explicitly attach a pay period to the salary range; no annualization inferred.",
-      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
-      "reviewedOn": "2026-10-23"
-    },
-    {
       "url": "https://explore.jobs.ufl.edu/en-us/job/541425/assistantassociate-professor-of-artificial-intelligence-in-education",
       "category": "commensurate",
       "amount": "Commensurate with qualifications and experience",
@@ -606,6 +582,105 @@
       "note": "Separate CSU classification range $5,274–$7,684 per month; not substituted for the anticipated hiring range.",
       "evidenceUrl": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
       "reviewedOn": "2026-11-03"
+    },
+    {
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
+      "category": "numeric",
+      "amount": "$180,000–$260,000",
+      "label": "Nine-month appointment; salary figure period not explicitly attached",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322640",
+      "category": "numeric",
+      "amount": "$95,000–$100,000 / year",
+      "label": "Annual base salary range",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322640",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596394",
+      "category": "numeric",
+      "amount": "$130,000–$145,000",
+      "label": "Pay period not stated",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596394",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016501546-senior-institutional-research-analyst-consultant",
+      "category": "numeric",
+      "amount": "Up to $120,000",
+      "label": "Pay period not stated",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016501546-senior-institutional-research-analyst-consultant",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-026324",
+      "category": "numeric",
+      "amount": "$88,600–$132,900",
+      "label": "Pay period not explicitly stated",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-026324",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://jobs.villanova.edu/postings/36500/print_preview",
+      "category": "numeric",
+      "amount": "$58,300–$73,800",
+      "label": "Salaried grade 14; pay period not explicitly attached to figure",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://jobs.villanova.edu/postings/36500/print_preview",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://jobs.jmu.edu/jobs/tenure-track-assistant-professor-of-psychology-psychological-research-methodology-psychology-as-a-natural-science-harrisonburg-virginia-united-states",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Commensurate with experience",
+      "note": "",
+      "evidenceUrl": "https://jobs.jmu.edu/jobs/tenure-track-assistant-professor-of-psychology-psychological-research-methodology-psychology-as-a-natural-science-harrisonburg-virginia-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb",
+      "category": "numeric",
+      "amount": "$82,000–$85,000",
+      "label": "Base pay; period not explicitly stated",
+      "note": "No annualization or conversion of an unstated pay period.",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "category": "commensurate",
+      "amount": "",
+      "label": "9-month academic appointment",
+      "note": "Negotiable; based on experience and qualifications.",
+      "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Competitive and commensurate with experience",
+      "note": "No numeric salary figure.",
+      "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "reviewedOn": "2026-10-02"
+    },
+    {
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
+      "category": "numeric",
+      "amount": "$180,000–$260,000",
+      "label": "Published salary range; nine-month appointment",
+      "note": "Posting lists a nine-month appointment but does not explicitly attach a pay period to the salary range; no annualization inferred.",
+      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
+      "reviewedOn": "2026-10-23"
     }
   ]
 }

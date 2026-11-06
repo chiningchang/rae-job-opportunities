@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-03",
+  "reviewedOn": "2026-11-06",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -241,44 +241,6 @@
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
-    },
-    {
-      "id": "RAE-0011",
-      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Reference letters": {
-          "required": 0,
-          "conditional": 0,
-          "later": 1
-        },
-        "Research samples / publications": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
     },
     {
       "id": "RAE-0012",
@@ -782,59 +744,6 @@
       }
     },
     {
-      "id": "RAE-0032",
-      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research samples / publications": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Other application statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Application format instructions": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Reference letters": {
-          "required": 0,
-          "conditional": 0,
-          "later": 1
-        }
-      }
-    },
-    {
       "id": "RAE-0033",
       "url": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
       "review": "reviewed",
@@ -856,34 +765,6 @@
           "later": 0
         },
         "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
-    },
-    {
-      "id": "RAE-0034",
-      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Transcripts": {
           "required": 1,
           "conditional": 0,
           "later": 0
@@ -1537,34 +1418,6 @@
       }
     },
     {
-      "id": "RAE-0053",
-      "url": "https://appam.mcjobboard.net/jobs/236456",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research samples / publications": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
-    },
-    {
       "id": "RAE-0054",
       "url": "https://careers.insidehighered.com/job/3474563/associate-professor-in-educational-leadership-research-methodology-/",
       "review": "reviewed",
@@ -2078,59 +1931,6 @@
       }
     },
     {
-      "id": "RAE-0085",
-      "url": "https://indiana.peopleadmin.com/postings/34364/print_preview",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching statement": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching dossier / materials": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Research samples / publications": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Transcripts": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Reference letters": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Teaching evaluations": {
-          "required": 0,
-          "conditional": 1,
-          "later": 0
-        }
-      }
-    },
-    {
       "id": "RAE-0086",
       "url": "https://careers.utrgv.edu/postings/52033/print_preview",
       "review": "reviewed",
@@ -2579,13 +2379,6 @@
     {
       "id": "RAE-0098",
       "url": "https://www.judsonu.edu/job/assistant-or-associate-professor-of-psychology-statistics-and-research/",
-      "review": "reviewed",
-      "itemization": "not-itemized",
-      "counts": {}
-    },
-    {
-      "id": "RAE-0099",
-      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
       "review": "reviewed",
       "itemization": "not-itemized",
       "counts": {}
@@ -3178,6 +2971,496 @@
           "later": 1
         }
       }
+    },
+    {
+      "id": "RAE-0118",
+      "url": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0119",
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0120",
+      "url": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-81563285-e652-485b-80d8-c0b2a22e0371",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0121",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322640",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0122",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596394",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0123",
+      "url": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016501546-senior-institutional-research-analyst-consultant",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0124",
+      "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-026324",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0125",
+      "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4817",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0126",
+      "url": "https://jobs.villanova.edu/postings/36500/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0127",
+      "url": "https://jobs.jmu.edu/jobs/tenure-track-assistant-professor-of-psychology-psychological-research-methodology-psychology-as-a-natural-science-harrisonburg-virginia-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0128",
+      "url": "https://jobs.charlotte.edu/postings/71705/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0129",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0011",
+      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0032",
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0034",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0085",
+      "url": "https://indiana.peopleadmin.com/postings/34364/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0053",
+      "url": "https://aefpweb.org/jobs_listing.asp?id=270",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0099",
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
+      "review": "reviewed",
+      "itemization": "not-itemized",
+      "counts": {}
     }
   ]
 }

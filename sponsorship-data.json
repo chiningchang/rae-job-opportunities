@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-03",
+  "reviewedOn": "2026-11-06",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -88,15 +88,6 @@
       "note": "No explicit visa-sponsorship policy found in the captured posting.",
       "visaType": "",
       "evidenceUrl": "https://www.higheredjobs.com/faculty/details.cfm?JobCode=179547591",
-      "reviewedOn": "2026-09-28"
-    },
-    {
-      "id": "RAE-0011",
-      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship policy found in the captured posting.",
-      "visaType": "",
-      "evidenceUrl": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
       "reviewedOn": "2026-09-28"
     },
     {
@@ -262,30 +253,12 @@
       "reviewedOn": "2026-10-02"
     },
     {
-      "id": "RAE-0032",
-      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
-      "status": "Not stated",
-      "note": "No explicit sponsorship statement found.",
-      "visaType": "",
-      "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
-      "reviewedOn": "2026-10-02"
-    },
-    {
       "id": "RAE-0033",
       "url": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
       "status": "Not stated",
       "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
       "visaType": "",
       "evidenceUrl": "https://careers.insidehighered.com/job/3551807/tenure-track-assistant-professor-in-department-of-human-behavior-research-and-policy/",
-      "reviewedOn": "2026-10-02"
-    },
-    {
-      "id": "RAE-0034",
-      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
-      "visaType": "",
-      "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
       "reviewedOn": "2026-10-02"
     },
     {
@@ -439,15 +412,6 @@
       "note": "The posting explicitly says immigration sponsorship cannot be provided.",
       "visaType": "",
       "evidenceUrl": "https://jobs.wichita.edu/jobs/assistant-professor-9-month-counseling-wichita-kansas-united-states",
-      "reviewedOn": "2026-10-02"
-    },
-    {
-      "id": "RAE-0053",
-      "url": "https://appam.mcjobboard.net/jobs/236456",
-      "status": "Not stated",
-      "note": "No explicit visa-sponsorship statement found in the accessible posting.",
-      "visaType": "",
-      "evidenceUrl": "https://appam.mcjobboard.net/jobs/236456",
       "reviewedOn": "2026-10-02"
     },
     {
@@ -631,15 +595,6 @@
       "reviewedOn": "2026-10-16"
     },
     {
-      "id": "RAE-0085",
-      "url": "https://indiana.peopleadmin.com/postings/34364/print_preview",
-      "status": "Not stated",
-      "note": "No explicit sponsorship commitment or restriction stated; absence is not a refusal.",
-      "visaType": "",
-      "evidenceUrl": "https://indiana.peopleadmin.com/postings/34364/print_preview",
-      "reviewedOn": "2026-10-20"
-    },
-    {
       "id": "RAE-0086",
       "url": "https://careers.utrgv.edu/postings/52033/print_preview",
       "status": "Not stated",
@@ -754,15 +709,6 @@
       "note": "No explicit visa-sponsorship policy in university announcement or linked Paycom job description.",
       "visaType": "",
       "evidenceUrl": "https://www.judsonu.edu/job/assistant-or-associate-professor-of-psychology-statistics-and-research/",
-      "reviewedOn": "2026-10-23"
-    },
-    {
-      "id": "RAE-0099",
-      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
-      "status": "Not stated",
-      "note": "E-Verify/I-9 work-eligibility notice is present; no explicit sponsorship policy or visa types stated.",
-      "visaType": "",
-      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
       "reviewedOn": "2026-10-23"
     },
     {
@@ -953,6 +899,168 @@
       "visaType": "H-1B",
       "evidenceUrl": "https://careersmanager.pageuppeople.com/873/sm/en-us/job/563530/institutional-research-analyst-institutional-planning-and-analysis",
       "reviewedOn": "2026-11-03"
+    },
+    {
+      "id": "RAE-0118",
+      "url": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0119",
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-stem-learning-sciences-vcu-main-campus-virginia-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0120",
+      "url": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-81563285-e652-485b-80d8-c0b2a22e0371",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-81563285-e652-485b-80d8-c0b2a22e0371",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0121",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322640",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322640",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0122",
+      "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596394",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4596394",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0123",
+      "url": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016501546-senior-institutional-research-analyst-consultant",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.smartrecruiters.com/UniversityOfNotreDame/3743990016501546-senior-institutional-research-analyst-consultant",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0124",
+      "url": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-026324",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://wgu.wd5.myworkdayjobs.com/External/job/Salt-Lake-City-UT/Senior-Psychometrician_JR-026324",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0125",
+      "url": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4817",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.ucsf.edu/careers/JobDetail/San-Francisco-CA-United-States/4817",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0126",
+      "url": "https://jobs.villanova.edu/postings/36500/print_preview",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.villanova.edu/postings/36500/print_preview",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0127",
+      "url": "https://jobs.jmu.edu/jobs/tenure-track-assistant-professor-of-psychology-psychological-research-methodology-psychology-as-a-natural-science-harrisonburg-virginia-united-states",
+      "status": "Not stated",
+      "note": "E-Verify and legal work authorization required; no sponsorship offer or refusal stated.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.jmu.edu/jobs/tenure-track-assistant-professor-of-psychology-psychological-research-methodology-psychology-as-a-natural-science-harrisonburg-virginia-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0128",
+      "url": "https://jobs.charlotte.edu/postings/71705/print_preview",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.charlotte.edu/postings/71705/print_preview",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0129",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb",
+      "status": "Not stated",
+      "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-susanna-loeb",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0011",
+      "url": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy found in the captured posting.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.ua.edu/jobs/bcas-assistant-associate-professor-in-quantitative-psychology-530295-tuscaloosa-alabama-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0032",
+      "url": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "status": "Not stated",
+      "note": "No explicit sponsorship statement found.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.wisc.edu/jobs/assistant-associate-or-full-professor-of-learning-sciences-rise-ai-artificial-intelligence-madison-wisconsin-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0034",
+      "url": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship statement found in the accessible announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.ua.edu/jobs/edu-assistant-professor-associate-professor-of-instructional-technology-tenure-tenure-track-530461-alabama-united-states",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0085",
+      "url": "https://indiana.peopleadmin.com/postings/34364/print_preview",
+      "status": "Not stated",
+      "note": "No explicit sponsorship commitment or restriction stated; absence is not a refusal.",
+      "visaType": "",
+      "evidenceUrl": "https://indiana.peopleadmin.com/postings/34364/print_preview",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0053",
+      "url": "https://aefpweb.org/jobs_listing.asp?id=270",
+      "status": "Not stated",
+      "note": "No explicit visa or H-1B sponsorship statement found in the reviewed posting.",
+      "visaType": "",
+      "evidenceUrl": "https://aefpweb.org/jobs_listing.asp?id=270",
+      "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0099",
+      "url": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
+      "status": "Not stated",
+      "note": "E-Verify/I-9 work-eligibility notice is present; no explicit sponsorship policy or visa types stated.",
+      "visaType": "",
+      "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
+      "reviewedOn": "2026-11-06"
     }
   ]
 }
