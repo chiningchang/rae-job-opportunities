@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-06",
+  "reviewedOn": "2026-11-10",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,51 +18,51 @@
   ],
   "views": {
     "all": {
-      "total": 346,
-      "postingCount": 79,
+      "total": 413,
+      "postingCount": 98,
       "counts": {
         "Cover letter": {
-          "required": 62,
+          "required": 76,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 64,
+          "required": 81,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 49,
+          "required": 61,
           "conditional": 0,
           "later": 0
         },
         "Research statement": {
-          "required": 23,
+          "required": 25,
           "conditional": 0,
           "later": 0
         },
         "Teaching statement": {
-          "required": 23,
+          "required": 25,
           "conditional": 1,
           "later": 0
         },
         "Application format instructions": {
-          "required": 19,
+          "required": 23,
           "conditional": 0,
           "later": 0
         },
         "Reference letters": {
           "required": 4,
           "conditional": 5,
-          "later": 11
+          "later": 13
         },
         "Transcripts": {
-          "required": 8,
+          "required": 9,
           "conditional": 0,
-          "later": 5
+          "later": 6
         },
         "Research samples / publications": {
-          "required": 30,
+          "required": 34,
           "conditional": 2,
           "later": 0
         },
@@ -72,8 +72,8 @@
           "later": 0
         },
         "Other application statement": {
-          "required": 10,
-          "conditional": 0,
+          "required": 12,
+          "conditional": 1,
           "later": 3
         },
         "Service statement": {

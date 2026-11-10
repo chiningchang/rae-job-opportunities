@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-06",
+  "reviewedOn": "2026-11-10",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -119,12 +119,12 @@
     },
     {
       "id": "RAE-0015",
-      "url": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
+      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
       "status": "Not offered",
-      "note": "The posting says applicants must already have unrestricted U.S. work authorization and that the university will not sponsor work visas.",
-      "visaType": "H-1B",
-      "evidenceUrl": "https://www.usa.jobs/jobs/665475358-assistant-professor-educational-research-and-statistics",
-      "reviewedOn": "2026-09-29"
+      "note": "Applicants must already have full-time U.S. work authorization without sponsorship; university will not sponsor work visas, including H-1B.",
+      "visaType": "Work visas, including H-1B",
+      "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "reviewedOn": "2026-11-10"
     },
     {
       "id": "RAE-0016",
@@ -1061,6 +1061,177 @@
       "visaType": "",
       "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
       "reviewedOn": "2026-11-06"
+    },
+    {
+      "id": "RAE-0130",
+      "url": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+      "status": "Not offered",
+      "note": "Position is not eligible for visa sponsorship.",
+      "visaType": "",
+      "evidenceUrl": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0131",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0132",
+      "url": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0133",
+      "url": "https://faculty.utexas.edu/career/190886",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://faculty.utexas.edu/career/190886",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0134",
+      "url": "https://academicjobsonline.org/ajo/jobs/33097",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33097",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0135",
+      "url": "https://www.sujobopps.com/postings/114903",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://www.sujobopps.com/postings/114903/print_preview",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0136",
+      "url": "https://jobs.ncat.edu/postings/42013",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.ncat.edu/postings/42013/print_preview",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0137",
+      "url": "https://jobs.bridgew.edu/postings/34022",
+      "status": "Conditional or limited",
+      "note": "H-1B sponsorship is explicitly unavailable. Other visa categories are not stated; general sponsorship availability is not inferred.",
+      "visaType": "H-1B",
+      "evidenceUrl": "https://jobs.bridgew.edu/postings/34022/print_preview",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0138",
+      "url": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0139",
+      "url": "https://careers.uoregon.edu/en-us/job/537018",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.uoregon.edu/en-us/job/537018",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0140",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600167",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://jobs.rutgers.edu/postings/283231/print_preview",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0141",
+      "url": "unused",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Evaluation-and-Research-Scientist_JR34533",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0142",
+      "url": "https://unc.peopleadmin.com/postings/328167/print_preview",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://unc.peopleadmin.com/postings/328167/print_preview",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0143",
+      "url": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+      "status": "Not offered",
+      "note": "This position is not eligible for any nonimmigrant or immigrant visa sponsorship.",
+      "visaType": "",
+      "evidenceUrl": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0144",
+      "url": "https://academicjobsonline.org/ajo/jobs/33301",
+      "status": "Not offered",
+      "note": "No visa sponsorship; must maintain U.S. work authorization.",
+      "visaType": "",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33301",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0145",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in adopted source.",
+      "visaType": "",
+      "evidenceUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0146",
+      "url": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in adopted source.",
+      "visaType": "",
+      "evidenceUrl": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0147",
+      "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in adopted source.",
+      "visaType": "",
+      "evidenceUrl": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+      "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0148",
+      "url": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in adopted source.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+      "reviewedOn": "2026-11-10"
     }
   ]
 }

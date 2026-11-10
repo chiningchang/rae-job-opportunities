@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-06",
+  "reviewedOn": "2026-11-10",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -690,6 +690,186 @@
       "note": "Posting lists a nine-month appointment but does not explicitly attach a pay period to the salary range; no annualization inferred.",
       "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
       "reviewedOn": "2026-10-23"
+    },
+    {
+      "url": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Rate of pay: DOE",
+      "note": "No numeric salary stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor"
+    },
+    {
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+      "category": "numeric",
+      "amount": "$95,000–$100,000 / year",
+      "label": "Annual base salary",
+      "note": "Distinct requisition REQ20182269; existing RAE-0121 is REQ20182271.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592"
+    },
+    {
+      "url": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Competitive salary",
+      "note": "No numeric salary figure stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://edpolicy.umich.edu/what-we-do/join-our-team"
+    },
+    {
+      "url": "https://faculty.utexas.edu/career/190886",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Not stated",
+      "note": "No numeric salary figure stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://faculty.utexas.edu/career/190886"
+    },
+    {
+      "url": "https://academicjobsonline.org/ajo/jobs/33097",
+      "category": "numeric",
+      "amount": "$63,480 hiring rate; classification range $62,232–$88,745",
+      "label": "Posted hiring rate and classification range",
+      "note": "Pay period is not explicitly attached; figures are not annualized.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33097"
+    },
+    {
+      "url": "https://www.sujobopps.com/postings/114903",
+      "category": "numeric",
+      "amount": "$65,500",
+      "label": "Posted pay rate",
+      "note": "Pay period not explicitly stated; secondary advertisement deadline not adopted.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://www.sujobopps.com/postings/114903/print_preview"
+    },
+    {
+      "url": "https://jobs.ncat.edu/postings/42013",
+      "category": "numeric",
+      "amount": "$113,066–$115,000",
+      "label": "Posted salary range",
+      "note": "Pay period not explicitly attached; twelve-month work calendar stated separately.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://jobs.ncat.edu/postings/42013/print_preview"
+    },
+    {
+      "url": "https://jobs.bridgew.edu/postings/34022",
+      "category": "numeric",
+      "amount": "$105,000–$115,000",
+      "label": "Posted salary range",
+      "note": "Pay period not explicitly stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://jobs.bridgew.edu/postings/34022/print_preview"
+    },
+    {
+      "url": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Pay Grade 31; linked salary schedule",
+      "note": "No numeric salary amount in adopted announcement.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst"
+    },
+    {
+      "url": "https://careers.uoregon.edu/en-us/job/537018",
+      "category": "numeric",
+      "amount": "$90,000–$110,000 / year",
+      "label": "Annual salary range",
+      "note": "Regular ongoing full-time appointment.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://careers.uoregon.edu/en-us/job/537018"
+    },
+    {
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600167",
+      "category": "numeric",
+      "amount": "$71,447 minimum; $90,435 midpoint; $109,422 maximum",
+      "label": "Posted salary range",
+      "note": "Pay period not explicitly attached; twelve-month staff work calendar is a separate field.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://jobs.rutgers.edu/postings/283231/print_preview"
+    },
+    {
+      "url": "unused",
+      "category": "numeric",
+      "amount": "$85,000–$95,000",
+      "label": "Posted pay range",
+      "note": "Pay period not explicitly attached.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Evaluation-and-Research-Scientist_JR34533"
+    },
+    {
+      "url": "https://unc.peopleadmin.com/postings/328167/print_preview",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Salary field blank in adopted official announcement.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://unc.peopleadmin.com/postings/328167/print_preview"
+    },
+    {
+      "url": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Official review date January 15 used; secondary source January 22 not adopted.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223"
+    },
+    {
+      "url": "https://academicjobsonline.org/ajo/jobs/33301",
+      "category": "numeric",
+      "amount": "$65,000 / year",
+      "label": "Annual salary",
+      "note": "Benefits, moving expenses and $2,000 annual research allowance separately stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33301"
+    },
+    {
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Not stated",
+      "note": "No numeric pay figure stated.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680"
+    },
+    {
+      "url": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+      "category": "numeric",
+      "amount": "$75,000–$80,000",
+      "label": "Budgeted wage",
+      "note": "Pay period not explicitly attached in official source.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603"
+    },
+    {
+      "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+      "category": "numeric",
+      "amount": "Starting at $56,500",
+      "label": "Salary commensurate with experience",
+      "note": "Pay period not explicitly attached to starting amount.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+      "category": "numeric",
+      "amount": "$48,000–$54,000",
+      "label": "Secondary full announcement compensation",
+      "note": "Pay period not explicitly attached; official full page currently returns 403.",
+      "reviewedOn": "2026-11-10",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/"
+    },
+    {
+      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "Full official announcement reviewed; no amount or pay period disclosed.",
+      "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "reviewedOn": "2026-11-10"
     }
   ]
 }

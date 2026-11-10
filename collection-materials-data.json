@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-06",
+  "reviewedOn": "2026-11-10",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -353,7 +353,7 @@
     },
     {
       "id": "RAE-0015",
-      "url": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
+      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
       "review": "reviewed",
       "itemization": "itemized",
       "counts": {
@@ -375,7 +375,7 @@
         "Transcripts": {
           "required": 1,
           "conditional": 0,
-          "later": 0
+          "later": 1
         }
       }
     },
@@ -3461,6 +3461,482 @@
       "review": "reviewed",
       "itemization": "not-itemized",
       "counts": {}
+    },
+    {
+      "id": "RAE-0130",
+      "url": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0131",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0132",
+      "url": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0133",
+      "url": "https://faculty.utexas.edu/career/190886",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0134",
+      "url": "https://academicjobsonline.org/ajo/jobs/33097",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0135",
+      "url": "https://www.sujobopps.com/postings/114903",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0136",
+      "url": "https://jobs.ncat.edu/postings/42013",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0137",
+      "url": "https://jobs.bridgew.edu/postings/34022",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0138",
+      "url": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0139",
+      "url": "https://careers.uoregon.edu/en-us/job/537018",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0140",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600167",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0141",
+      "url": "unused",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0142",
+      "url": "https://unc.peopleadmin.com/postings/328167/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0143",
+      "url": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0144",
+      "url": "https://academicjobsonline.org/ajo/jobs/33301",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0145",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+      "review": "reviewed",
+      "itemization": "formatOnly",
+      "counts": {
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0146",
+      "url": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+      "review": "reviewed",
+      "itemization": "notItemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0147",
+      "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0148",
+      "url": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
     }
   ]
 }

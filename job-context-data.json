@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-11-06",
+  "reviewedOn": "2026-11-10",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -403,14 +403,15 @@
       "id": "RAE-0015",
       "position": "Assistant Professor, Educational Research and Statistics",
       "institution": "University of Southern Mississippi",
-      "url": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
-      "reviewedOn": "2026-10-08",
+      "url": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+      "reviewedOn": "2026-11-10",
       "appointment": {
         "type": "Tenure-track",
-        "detail": "Explicit tenure-track / tenure-line / tenure-earning designation in the posting.",
-        "reviewStatus": "Verified from partial secondary posting",
-        "evidenceUrl": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
-        "reviewedOn": "2026-10-08"
+        "detail": "Two on-campus tenure-track faculty positions beginning August 2027.",
+        "reviewStatus": "Verified from official employer full announcement",
+        "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+        "evidenceNote": "Official req5525 replaces unavailable abbreviated FacultyAtlas source.",
+        "reviewedOn": "2026-11-10"
       },
       "institutionContext": {
         "control": "Public",
@@ -421,15 +422,15 @@
         "reviewedOn": "2026-10-08"
       },
       "teaching": {
-        "asStated": "Unable to assess",
+        "asStated": "Not stated",
         "unit": "",
         "period": "",
         "standardized": "",
         "annualCourses": null,
-        "notes": "Original/full posting unavailable or abbreviated; silence cannot be treated as no teaching.",
-        "reviewStatus": "Unable to assess",
-        "evidenceUrl": "https://www.facultyatlas.org/jobs/assistant-professor-educational-research-and-statistics-university-of-southern-mississippi-289c95/",
-        "reviewedOn": "2026-10-08"
+        "notes": "Graduate teaching and mentoring required; no numeric teaching load specified.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
+        "reviewedOn": "2026-11-10"
       }
     },
     {
@@ -3901,6 +3902,633 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://vcujobs.com/jobs/professor-or-advanced-associate-professor-of-school-mental-health-and-the-science-of-learning-and-development-vcu-main-campus-virginia-united-states",
         "reviewedOn": "2026-11-06"
+      }
+    },
+    {
+      "id": "RAE-0130",
+      "position": "Assistant Professor (T/TE), Human-Centered AI and Data Literacy",
+      "institution": "University of Arizona",
+      "url": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Academic-year appointment, anticipated August 16, 2027 start.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Not verified in this run",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-10-23"
+      },
+      "teaching": {
+        "asStated": "Four courses per academic year",
+        "unit": "Courses",
+        "period": "Academic year",
+        "standardized": "4 courses / academic year",
+        "annualCourses": 4,
+        "notes": "40% teaching / 40% research / 20% service overall; 51% Education / 49% Information Science joint appointment. Unit-specific allocations retained in archive.",
+        "reviewStatus": "Numeric load stated",
+        "evidenceUrl": "https://arizona.csod.com/ux/ats/careersite/4/home/requisition/27551?c=arizona&sq=assistant%20professor",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0131",
+      "position": "Assistant Research Professor - Center for Education, Identity and Social Justice (Summer Institutes)",
+      "institution": "University of Southern California",
+      "url": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Research track (tenure not specified)",
+        "detail": "Start date and fixed duration not explicitly stated.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-southern-california/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/assistant-research-professor-center-for-education-identity-and-social-justice/1209/102627322592",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0132",
+      "position": "Postdoctoral Fellowship in Early Childhood",
+      "institution": "University of Michigan",
+      "url": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Postdoc / Research",
+        "detail": "One to two years; renewal contingent on performance and funding. January 2027 anticipated; source also retains conflicting winter 2026 wording.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://edpolicy.umich.edu/what-we-do/join-our-team",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0133",
+      "position": "Assistant Professor of Practice & Program Director in Applied Data Analytics",
+      "institution": "University of Texas at Austin",
+      "url": "https://faculty.utexas.edu/career/190886",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "Full-time professional-track; anticipated January 1, 2027 start.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://faculty.utexas.edu/career/190886",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-10-09"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "Teach formula-funded courses with course releases for administrative responsibilities; no numeric load stated.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://faculty.utexas.edu/career/190886",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0134",
+      "position": "Postdoctoral Associate – Engineering Education Research",
+      "institution": "Cornell University",
+      "url": "https://academicjobsonline.org/ajo/jobs/33097",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Postdoc / Research",
+        "detail": "Postdoctoral appointment; fixed duration not stated.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33097",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "190415",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33097",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0135",
+      "position": "Assessment Associate",
+      "institution": "Syracuse University",
+      "url": "https://www.sujobopps.com/postings/114903",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt staff.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.sujobopps.com/postings/114903/print_preview",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.sujobopps.com/postings/114903/print_preview",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0136",
+      "position": "Director of Assessment and Accreditation",
+      "institution": "North Carolina A&T State University",
+      "url": "https://jobs.ncat.edu/postings/42013",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Permanent full-time, twelve-month staff; anticipated November 16, 2026 start.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://jobs.ncat.edu/postings/42013/print_preview",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.ncat.edu/postings/42013/print_preview",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0137",
+      "position": "Director of Assessment",
+      "institution": "Bridgewater State University",
+      "url": "https://jobs.bridgew.edu/postings/34022",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt APA unit staff.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://jobs.bridgew.edu/postings/34022/print_preview",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.bridgew.edu/postings/34022/print_preview",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0138",
+      "position": "Assessment Analyst",
+      "institution": "University of Massachusetts Boston",
+      "url": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff; internal bargaining-unit preference first ten business days.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "166638",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; Public control stated in announcement; Carnegie 2025 R1 verified from official institutional profile.",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/University-of-Massachusetts-Boston/",
+        "reviewedOn": "2026-10-23"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://employmentopportunities.umb.edu/boston/en-us/job/530310/assessment-analyst",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0139",
+      "position": "Director of Assessment, Student Life",
+      "institution": "University of Oregon",
+      "url": "https://careers.uoregon.edu/en-us/job/537018",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Regular ongoing appointment; 1.0 FTE.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://careers.uoregon.edu/en-us/job/537018",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-oregon/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.uoregon.edu/en-us/job/537018",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0140",
+      "position": "Research Specialist (Evaluation Research Analyst)",
+      "institution": "Rutgers University",
+      "url": "https://www.higheredjobs.com/details.cfm?JobCode=179600167",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time twelve-month staff, 37.5 hours per week.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://jobs.rutgers.edu/postings/283231/print_preview",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.rutgers.edu/postings/283231/print_preview",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0141",
+      "position": "Evaluation and Research Scientist",
+      "institution": "University of Chicago",
+      "url": "unused",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff, 37.5 hours per week.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Evaluation-and-Research-Scientist_JR34533",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://uchicago.wd5.myworkdayjobs.com/External/job/Chicago-IL/Evaluation-and-Research-Scientist_JR34533",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0142",
+      "position": "Senior Research Associate for Faculty Analysis",
+      "institution": "University of North Carolina at Chapel Hill",
+      "url": "https://unc.peopleadmin.com/postings/328167/print_preview",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Permanent full-time non-faculty, 40 hours per week; proposed January 4, 2027 start.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://unc.peopleadmin.com/postings/328167/print_preview",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://unc.peopleadmin.com/postings/328167/print_preview",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0143",
+      "position": "Postdoctoral Fellow, Educating Character Initiative",
+      "institution": "Wake Forest University",
+      "url": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Postdoc / Research",
+        "detail": "Two positions; one-year renewable appointment beginning July 1, 2027.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://wfu.wd1.myworkdayjobs.com/Staff_Career_Website_live/job/Winston-Salem-NC/Postdoctoral-Fellow--Educating-Character-Initiative_R0009223",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0144",
+      "position": "Postdoctoral Associate for AI Education in the Disciplines",
+      "institution": "Cornell University",
+      "url": "https://academicjobsonline.org/ajo/jobs/33301",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Postdoc / Research",
+        "detail": "One-year appointment renewable for a second year; start January–June 2027; six to ten hires under one announcement.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33301",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "190415",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://academicjobsonline.org/ajo/jobs/33301",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0145",
+      "position": "Director of Institutional Research and Planning",
+      "institution": "Spalding University",
+      "url": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff; no fixed duration stated.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.paycomonline.net/v4/ats/web.php/portal/A99CE46A67143A8F77A8C7BDEA7155DA/jobs/578680",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0146",
+      "position": "Institutional Research Analyst – Analytics & Assessment",
+      "institution": "Community College of Vermont",
+      "url": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time, forty hours weekly; any CCV center, hybrid work.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://vsc.wd108.myworkdayjobs.com/CCV/job/Winooski-VT/Institutional-Research-Analyst---Analytics---Assessment_R-2026603",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0147",
+      "position": "Assistant Director of Assessment",
+      "institution": "William & Mary",
+      "url": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Continuing E&G-funded staff position, not term-limited; twelve-month probationary period.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://williammary.wd12.myworkdayjobs.com/WM/job/Posting-Location---William--Mary/Assistant-Director-of-Assessment_JR101818-1",
+        "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0148",
+      "position": "Assessment & Evaluation Analyst",
+      "institution": "Southern University at Shreveport",
+      "url": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+      "reviewedOn": "2026-11-10",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff; duration not stated.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+        "reviewedOn": "2026-11-10"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not mean zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
+        "reviewedOn": "2026-11-10"
       }
     }
   ]
