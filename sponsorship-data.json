@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-10",
+  "reviewedOn": "2026-11-13",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -1232,6 +1232,51 @@
       "visaType": "",
       "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
       "reviewedOn": "2026-11-10"
+    },
+    {
+      "id": "RAE-0149",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+      "status": "Not offered",
+      "note": "Federally sponsored training restricted to U.S. citizens or permanent residents; Bay Area residence required. This is an eligibility restriction, not an inferred generic H-1B policy.",
+      "visaType": "",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+      "reviewedOn": "2026-11-13"
+    },
+    {
+      "id": "RAE-0150",
+      "url": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+      "reviewedOn": "2026-11-13"
+    },
+    {
+      "id": "RAE-0151",
+      "url": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+      "status": "Not offered",
+      "note": "Official posting: must be authorized to work in U.S.; unable to sponsor or take over employment-visa sponsorship. Christian commitment compatible with the university mission required.",
+      "visaType": "",
+      "evidenceUrl": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+      "reviewedOn": "2026-11-13"
+    },
+    {
+      "id": "RAE-0152",
+      "url": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated in the adopted full announcement.",
+      "visaType": "",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+      "reviewedOn": "2026-11-13"
+    },
+    {
+      "id": "RAE-0153",
+      "url": "https://www.uvmjobs.com/postings/88258/print_preview",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated.",
+      "visaType": "",
+      "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview",
+      "reviewedOn": "2026-11-13"
     }
   ]
 }

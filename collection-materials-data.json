@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-10",
+  "reviewedOn": "2026-11-13",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -3927,6 +3927,121 @@
           "later": 0
         },
         "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0149",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0150",
+      "url": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0151",
+      "url": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+      "review": "reviewed",
+      "itemization": "formatOnly",
+      "counts": {
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0152",
+      "url": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0153",
+      "url": "https://www.uvmjobs.com/postings/88258/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
           "required": 1,
           "conditional": 0,
           "later": 0

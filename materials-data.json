@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-10",
+  "reviewedOn": "2026-11-13",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,26 +18,26 @@
   ],
   "views": {
     "all": {
-      "total": 413,
-      "postingCount": 98,
+      "total": 428,
+      "postingCount": 103,
       "counts": {
         "Cover letter": {
-          "required": 76,
+          "required": 80,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 81,
+          "required": 85,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 61,
+          "required": 64,
           "conditional": 0,
           "later": 0
         },
         "Research statement": {
-          "required": 25,
+          "required": 26,
           "conditional": 0,
           "later": 0
         },
@@ -47,7 +47,7 @@
           "later": 0
         },
         "Application format instructions": {
-          "required": 23,
+          "required": 24,
           "conditional": 0,
           "later": 0
         },
@@ -57,12 +57,12 @@
           "later": 13
         },
         "Transcripts": {
-          "required": 9,
+          "required": 10,
           "conditional": 0,
           "later": 6
         },
         "Research samples / publications": {
-          "required": 34,
+          "required": 35,
           "conditional": 2,
           "later": 0
         },

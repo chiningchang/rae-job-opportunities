@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-10",
+  "reviewedOn": "2026-11-13",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -870,6 +870,51 @@
       "note": "Full official announcement reviewed; no amount or pay period disclosed.",
       "evidenceUrl": "https://usm.csod.com/ux/ats/careersite/1/home/requisition/5525?c=usm",
       "reviewedOn": "2026-11-10"
+    },
+    {
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+      "category": "numeric",
+      "amount": "$79,056 (FY27 minimum; pay period not explicitly stated)",
+      "label": "FY27 Stanford postdoctoral minimum",
+      "note": "Posting states no pay above required minimum; do not annualize an unstated pay period.",
+      "reviewedOn": "2026-11-13",
+      "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic"
+    },
+    {
+      "url": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period disclosed.",
+      "reviewedOn": "2026-11-13",
+      "evidenceUrl": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar"
+    },
+    {
+      "url": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period disclosed.",
+      "reviewedOn": "2026-11-13",
+      "evidenceUrl": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Commensurate with experience",
+      "note": "No numeric amount or pay period stated.",
+      "reviewedOn": "2026-11-13",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/"
+    },
+    {
+      "url": "https://www.uvmjobs.com/postings/88258/print_preview",
+      "category": "numeric",
+      "amount": "$160,000–$165,000 (pay period not explicitly stated)",
+      "label": "Anticipated pay range",
+      "note": "Employee term12months is not used to infer the salary pay period.",
+      "reviewedOn": "2026-11-13",
+      "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview"
     }
   ]
 }

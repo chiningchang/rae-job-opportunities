@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-11-10",
+  "reviewedOn": "2026-11-13",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -4529,6 +4529,171 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://careers.insidehighered.com/job/3475463/assessment-and-evaluation-analyst/",
         "reviewedOn": "2026-11-10"
+      }
+    },
+    {
+      "id": "RAE-0149",
+      "position": "Equity in Early Education Postdoctoral (E3) Fellowship",
+      "institution": "Stanford University",
+      "url": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+      "reviewedOn": "2026-11-13",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "OPA lists one year; program supports one to two years for up to two fellows. Start September 1, 2027.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+        "reviewedOn": "2026-11-13"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "243744",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://postdocs.stanford.edu/prospective/opportunities/open-postdoctoral-position-faculty-mentor-jelena-obradovic",
+        "reviewedOn": "2026-11-13"
+      }
+    },
+    {
+      "id": "RAE-0150",
+      "position": "Postdoctoral Scholar – ExpandDL Quantitative Education Research",
+      "institution": "University of Oregon",
+      "url": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+      "reviewedOn": "2026-11-13",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "One-year full-time postdoctoral appointment, possible second-year renewal; begins September 1, 2027.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+        "reviewedOn": "2026-11-13"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/university-of-oregon/",
+        "reviewedOn": "2026-11-03"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.uoregon.edu/cw/en-us/job/537112/postdoctoral-scholar",
+        "reviewedOn": "2026-11-13"
+      }
+    },
+    {
+      "id": "RAE-0151",
+      "position": "Director of Institutional Research",
+      "institution": "Eastern University",
+      "url": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+      "reviewedOn": "2026-11-13",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff leadership appointment; duration not stated; job number1192.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+        "reviewedOn": "2026-11-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-13"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.schooljobs.com/careers/easternpa/jobs/5542630/director-of-institutional-research",
+        "reviewedOn": "2026-11-13"
+      }
+    },
+    {
+      "id": "RAE-0152",
+      "position": "Executive Director for Institutional Research and Planning",
+      "institution": "Southern University at Shreveport",
+      "url": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+      "reviewedOn": "2026-11-13",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time staff leadership; duration not stated. Official full page unavailable (403); indexed official date differs, so current official review date remains unverified.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+        "reviewedOn": "2026-11-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3475480/executive-director-for-institutional-research-and-planning/",
+        "reviewedOn": "2026-11-13"
+      }
+    },
+    {
+      "id": "RAE-0153",
+      "position": "Executive Director of Institutional Research and Assessment",
+      "institution": "University of Vermont",
+      "url": "https://www.uvmjobs.com/postings/88258/print_preview",
+      "reviewedOn": "2026-11-13",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt staff; employee term12months; no fixed end date stated. Official body identifies UVM public land-grant R1; UNITID remains unverified.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview",
+        "reviewedOn": "2026-11-13"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-13"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this is a staff leadership role.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview",
+        "reviewedOn": "2026-11-13"
       }
     }
   ]
