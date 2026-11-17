@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-13",
+  "reviewedOn": "2026-11-17",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,53 +18,53 @@
   ],
   "views": {
     "all": {
-      "total": 428,
-      "postingCount": 103,
+      "total": 468,
+      "postingCount": 116,
       "counts": {
         "Cover letter": {
-          "required": 80,
+          "required": 88,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 85,
+          "required": 95,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 64,
+          "required": 71,
           "conditional": 0,
           "later": 0
         },
         "Research statement": {
-          "required": 26,
+          "required": 30,
           "conditional": 0,
           "later": 0
         },
         "Teaching statement": {
-          "required": 25,
+          "required": 26,
           "conditional": 1,
           "later": 0
         },
         "Application format instructions": {
-          "required": 24,
+          "required": 26,
           "conditional": 0,
           "later": 0
         },
         "Reference letters": {
-          "required": 4,
+          "required": 5,
           "conditional": 5,
           "later": 13
         },
         "Transcripts": {
-          "required": 10,
+          "required": 11,
           "conditional": 0,
           "later": 6
         },
         "Research samples / publications": {
-          "required": 35,
+          "required": 36,
           "conditional": 2,
-          "later": 0
+          "later": 1
         },
         "Teaching evaluations": {
           "required": 4,
@@ -72,7 +72,7 @@
           "later": 0
         },
         "Other application statement": {
-          "required": 12,
+          "required": 13,
           "conditional": 1,
           "later": 3
         },

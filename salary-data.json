@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-13",
+  "reviewedOn": "2026-11-17",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -915,6 +915,123 @@
       "note": "Employee term12months is not used to infer the salary pay period.",
       "reviewedOn": "2026-11-13",
       "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview"
+    },
+    {
+      "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R162266-1",
+      "category": "numeric",
+      "amount": "$62,232–$63,000 (pay period not stated)",
+      "label": "Stated pay range",
+      "note": "No explicit pay period; not annualized.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R162266-1"
+    },
+    {
+      "url": "https://med.stanford.edu/content/dam/sm/autism/documents/Postdoctoral%20Research%20Fellowship%20in%20Autism%20ad.pdf",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Competitive stipend; adjusted for Bay Area cost of living",
+      "note": "No numeric stipend or pay period stated; benefits and training funds described.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://med.stanford.edu/content/dam/sm/autism/documents/Postdoctoral%20Research%20Fellowship%20in%20Autism%20ad.pdf"
+    },
+    {
+      "url": "https://careers.msu.edu/jobs/assistant-professor-tenure-system-east-lansing-michigan-united-states-7057ad4c-7366-4c54-83af-d700b8652ef5",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Commensurate with experience",
+      "note": "No numeric amount or period stated.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://careers.msu.edu/jobs/assistant-professor-tenure-system-east-lansing-michigan-united-states-7057ad4c-7366-4c54-83af-d700b8652ef5"
+    },
+    {
+      "url": "https://www.schooljobs.com/jobs/5537495-0/executive-director-institutional-research",
+      "category": "numeric",
+      "amount": "$80,000 annually",
+      "label": "Annual salary",
+      "note": "Official salary side field states Annually.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://www.schooljobs.com/jobs/5537495-0/executive-director-institutional-research"
+    },
+    {
+      "url": "https://www.theladders.com/job/director-of-institutional-research-data-analytics-niagara-university-niagara-university-ny_89683832?source=similar",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No employer-stated numeric pay in adopted description",
+      "note": "Platform salary estimates are excluded; employer body could not be read.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://www.theladders.com/job/director-of-institutional-research-data-analytics-niagara-university-niagara-university-ny_89683832?source=similar"
+    },
+    {
+      "url": "https://hiring.jhu.edu/careers/job/1133916770032?domain=jhu.edu&hl=en",
+      "category": "numeric",
+      "amount": "$66,215–$116,130 annually; target $91,225",
+      "label": "Annual salary range and target",
+      "note": "Employer states Annually and target salary.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://hiring.jhu.edu/careers/job/1133916770032?domain=jhu.edu&hl=en"
+    },
+    {
+      "url": "https://www.uvmjobs.com/postings/88962/print_preview",
+      "category": "numeric",
+      "amount": "Assistant $87,000–$126,000; Associate $118,000–$145,800; Professor $150,500–$222,000 (period not stated)",
+      "label": "Rank-specific anticipated pay ranges",
+      "note": "Twelve-month employee term is not used to infer pay period.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://www.uvmjobs.com/postings/88962/print_preview"
+    },
+    {
+      "url": "https://careers.insidehighered.com/job/3570001/postdoctoral-fellow/",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period stated in adopted source.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://careers.insidehighered.com/job/3570001/postdoctoral-fellow/"
+    },
+    {
+      "url": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-e4d90b39-b467-4a18-aee3-aad3d14f6cba",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Commensurate with experience",
+      "note": "No numeric amount or pay period.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-e4d90b39-b467-4a18-aee3-aad3d14f6cba"
+    },
+    {
+      "url": "https://careers.umich.edu/job_detail/285583/research-and-assessment-specialist",
+      "category": "numeric",
+      "amount": "$50,000–$70,000 (pay period not stated)",
+      "label": "Stated salary range",
+      "note": "No explicit pay period.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://careers.umich.edu/job_detail/285583/research-and-assessment-specialist"
+    },
+    {
+      "url": "https://www.edtech.com/jobs/director-of-strategic-analytics-5268",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period stated in adopted source.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://www.edtech.com/jobs/director-of-strategic-analytics-5268"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/37708712/director-of-institutional-effectiveness/",
+      "category": "numeric",
+      "amount": "$78,000–$85,000 (pay period not stated)",
+      "label": "Stated salary range",
+      "note": "No explicit pay period in adopted full source.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://jobs.chronicle.com/job/37708712/director-of-institutional-effectiveness/"
+    },
+    {
+      "url": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
+      "category": "numeric",
+      "amount": "$162,595.85–$203,059.94 annually",
+      "label": "Annual administrative salary range",
+      "note": "Official salary field states Annually.",
+      "reviewedOn": "2026-11-17",
+      "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation"
     }
   ]
 }

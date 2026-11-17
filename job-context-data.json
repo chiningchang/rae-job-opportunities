@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-11-13",
+  "reviewedOn": "2026-11-17",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -4694,6 +4694,435 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://www.uvmjobs.com/postings/88258/print_preview",
         "reviewedOn": "2026-11-13"
+      }
+    },
+    {
+      "id": "RAE-0154",
+      "position": "Postdoctoral Scholar – Quantitative Psychology",
+      "institution": "The Ohio State University",
+      "url": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R162266-1",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "One year, possible reappointment up to three years total contingent on performance and funding; begins August 15, 2027.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R162266-1",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Develop and teach undergraduate and graduate quantitative-methodology courses; numeric load not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://osu.wd1.myworkdayjobs.com/OSUCareers/job/Columbus-Campus/Post-Doctoral-Scholar_R162266-1",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0155",
+      "position": "Postdoctoral Research Fellowship in Psychometrics in Autism",
+      "institution": "Stanford University",
+      "url": "https://med.stanford.edu/content/dam/sm/autism/documents/Postdoctoral%20Research%20Fellowship%20in%20Autism%20ad.pdf",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Initial two years, possible additional year contingent on funding; start by mutual agreement.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://med.stanford.edu/content/dam/sm/autism/documents/Postdoctoral%20Research%20Fellowship%20in%20Autism%20ad.pdf",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "243744",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025; unresolved fields not inferred",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://med.stanford.edu/content/dam/sm/autism/documents/Postdoctoral%20Research%20Fellowship%20in%20Autism%20ad.pdf",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0156",
+      "position": "Assistant Professor-Tenure System – Quantitative Education Leadership and Policy",
+      "institution": "Michigan State University",
+      "url": "https://careers.msu.edu/jobs/assistant-professor-tenure-system-east-lansing-michigan-united-states-7057ad4c-7366-4c54-83af-d700b8652ef5",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Full-time tenure-stream faculty; begins Fall 2027.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://careers.msu.edu/jobs/assistant-professor-tenure-system-east-lansing-michigan-united-states-7057ad4c-7366-4c54-83af-d700b8652ef5",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "171100",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 institutional profile",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/michigan-state-university/",
+        "reviewedOn": "2026-11-06"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.msu.edu/jobs/assistant-professor-tenure-system-east-lansing-michigan-united-states-7057ad4c-7366-4c54-83af-d700b8652ef5",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0157",
+      "position": "Executive Director, Institutional Research",
+      "institution": "Rowan College of South Jersey",
+      "url": "https://www.schooljobs.com/jobs/5537495-0/executive-director-institutional-research",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time non-represented exempt staff; job A99683; travel between Gloucester and Cumberland campuses with personal vehicle.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.schooljobs.com/jobs/5537495-0/executive-director-institutional-research",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.schooljobs.com/jobs/5537495-0/executive-director-institutional-research",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0158",
+      "position": "Director of Institutional Research & Data Analytics",
+      "institution": "Niagara University",
+      "url": "https://www.theladders.com/job/director-of-institutional-research-data-analytics-niagara-university-niagara-university-ny_89683832?source=similar",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time; duration not stated.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://www.theladders.com/job/director-of-institutional-research-data-analytics-niagara-university-niagara-university-ny_89683832?source=similar",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.theladders.com/job/director-of-institutional-research-data-analytics-niagara-university-niagara-university-ny_89683832?source=similar",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0159",
+      "position": "Program Evaluation & Continuous Improvement Specialist (SOM – Assessment and Evaluation)",
+      "institution": "Johns Hopkins University",
+      "url": "https://hiring.jhu.edu/careers/job/1133916770032?domain=jhu.edu&hl=en",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt staff; modified hybrid requires on-site presence 10–59%; requisition122988.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://hiring.jhu.edu/careers/job/1133916770032?domain=jhu.edu&hl=en",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "162928",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-08"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://hiring.jhu.edu/careers/job/1133916770032?domain=jhu.edu&hl=en",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0160",
+      "position": "Director of Evaluation and Assessment",
+      "institution": "University of Vermont",
+      "url": "https://www.uvmjobs.com/postings/88962/print_preview",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time faculty Education Scholar Pathway; tenure status not explicitly stated; employee term12months; F3793PO/00026642.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.uvmjobs.com/postings/88962/print_preview",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-13"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.uvmjobs.com/postings/88962/print_preview",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0161",
+      "position": "Postdoctoral Fellow – TILES Lab",
+      "institution": "Georgia Institute of Technology",
+      "url": "https://careers.insidehighered.com/job/3570001/postdoctoral-fellow/",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Full-time postdoctoral appointment; job305467; duration and start not stated.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3570001/postdoctoral-fellow/",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "139755",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 (public file revision October 10, 2025)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-10-16"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.insidehighered.com/job/3570001/postdoctoral-fellow/",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0162",
+      "position": "Postdoctoral Scholar-Fixed Term – AI Formative Assessment (CREATE for STEM)",
+      "institution": "Michigan State University",
+      "url": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-e4d90b39-b467-4a18-aee3-aad3d14f6cba",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not applicable (postdoctoral appointment)",
+        "detail": "Initial one year, possible second year contingent on performance/funding; full-time fixed-term academic staff.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-e4d90b39-b467-4a18-aee3-aad3d14f6cba",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "171100",
+        "research": "Research 1: Very High Spending and Doctorate Production",
+        "version": "Carnegie 2025 institutional profile",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/institution/michigan-state-university/",
+        "reviewedOn": "2026-11-06"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.msu.edu/jobs/postdoctoral-scholar-fixed-term-east-lansing-michigan-united-states-e4d90b39-b467-4a18-aee3-aad3d14f6cba",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0163",
+      "position": "Research and Assessment Specialist",
+      "institution": "University of Michigan",
+      "url": "https://careers.umich.edu/job_detail/285583/research-and-assessment-specialist",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time regular exempt staff; hybrid; job285583.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://careers.umich.edu/job_detail/285583/research-and-assessment-specialist",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-10"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://careers.umich.edu/job_detail/285583/research-and-assessment-specialist",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0164",
+      "position": "Director of Strategic Analytics",
+      "institution": "Louisiana State University",
+      "url": "https://www.edtech.com/jobs/director-of-strategic-analytics-5268",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time professional/unclassified staff; work location0146ThomasD.BoydHall; exact city not stated in adopted source.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://www.edtech.com/jobs/director-of-strategic-analytics-5268",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.edtech.com/jobs/director-of-strategic-analytics-5268",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0165",
+      "position": "Director of Institutional Effectiveness",
+      "institution": "Cornell College",
+      "url": "https://jobs.chronicle.com/job/37708712/director-of-institutional-effectiveness/",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time; duration not stated.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://jobs.chronicle.com/job/37708712/director-of-institutional-effectiveness/",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.chronicle.com/job/37708712/director-of-institutional-effectiveness/",
+        "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0166",
+      "position": "Dean, Institutional Effectiveness, Research, Planning, and Accreditation",
+      "institution": "Antelope Valley College",
+      "url": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
+      "reviewedOn": "2026-11-17",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Educational administrator; anticipated startDecember2026/January2027; RN26-35(2300325).",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
+        "reviewedOn": "2026-11-17"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-17"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
+        "reviewedOn": "2026-11-17"
       }
     }
   ]
