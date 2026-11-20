@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-17",
+  "reviewedOn": "2026-11-20",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -2974,7 +2974,7 @@
     },
     {
       "id": "RAE-0118",
-      "url": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "url": "https://jobs.usf.edu/hcmUI/CandidateExperience/en/sites/USF/job/44541?keyword=44541&mode=location",
       "review": "reviewed",
       "itemization": "itemized",
       "counts": {
@@ -4344,6 +4344,64 @@
           "later": 0
         }
       }
+    },
+    {
+      "id": "RAE-0167",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0168",
+      "url": "https://yourfuture.sdbor.edu/postings/50508",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0169",
+      "url": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+      "review": "reviewed",
+      "itemization": "notItemized",
+      "counts": {}
     }
   ]
 }

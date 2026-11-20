@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-11-17",
+  "reviewedOn": "2026-11-20",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -3296,7 +3296,7 @@
       "id": "RAE-0118",
       "position": "Open Rank Faculty Position in Special Education, Accessibility & AI-Enabled Intervention",
       "institution": "University of South Florida",
-      "url": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "url": "https://jobs.usf.edu/hcmUI/CandidateExperience/en/sites/USF/job/44541?keyword=44541&mode=location",
       "reviewedOn": "2026-11-06",
       "appointment": {
         "type": "Not specified",
@@ -5123,6 +5123,105 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
         "reviewedOn": "2026-11-17"
+      }
+    },
+    {
+      "id": "RAE-0167",
+      "position": "Director of Institutional Research",
+      "institution": "Alvernia University",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+      "reviewedOn": "2026-11-20",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time exempt staff; requisition1634; duration and start not stated.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+        "reviewedOn": "2026-11-20"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-20"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+        "reviewedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "RAE-0168",
+      "position": "Assistant or Associate Professor, or Assistant or Associate Professor of Practice, of Human Development and Educational Psychology in the Division of Counseling and Psychology in Education",
+      "institution": "University of South Dakota",
+      "url": "https://yourfuture.sdbor.edu/postings/50508",
+      "reviewedOn": "2026-11-20",
+      "appointment": {
+        "type": "Tenure-track or non-tenure-track Professor of Practice",
+        "detail": "Nine months; possible summer employment; doctorate required byAugust22,2027. Narrative offers tenure-track or non-tenure-track practice route; salary paragraph and portal field describe tenure-track.",
+        "reviewStatus": "Verified from official employer announcement",
+        "evidenceUrl": "https://yourfuture.sdbor.edu/postings/50590/print_preview",
+        "reviewedOn": "2026-11-20"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-20"
+      },
+      "teaching": {
+        "asStated": "Undergraduate and graduate teaching may include research methods, statistics, assessment and evaluation; numeric load not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://yourfuture.sdbor.edu/postings/50590/print_preview",
+        "reviewedOn": "2026-11-20"
+      }
+    },
+    {
+      "id": "RAE-0169",
+      "position": "Director of Program Assessment – Vice Provost Institutional Research & Improvement",
+      "institution": "Texas Woman’s University",
+      "url": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+      "reviewedOn": "2026-11-20",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time on-site staff; requisition13055; regular university attendance and possible travel; duration/start not stated.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+        "reviewedOn": "2026-11-20"
+      },
+      "institutionContext": {
+        "control": "Not verified",
+        "unitid": "",
+        "research": "Not verified",
+        "version": "Carnegie 2025 — pending verification",
+        "evidenceUrl": "",
+        "reviewedOn": "2026-11-20"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; missing disclosure does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+        "reviewedOn": "2026-11-20"
       }
     }
   ]

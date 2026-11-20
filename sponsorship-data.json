@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-17",
+  "reviewedOn": "2026-11-20",
   "scope": "active postings in current charts; archived records retained for history",
   "categories": [
     "Sponsorship available",
@@ -902,7 +902,7 @@
     },
     {
       "id": "RAE-0118",
-      "url": "https://www.highered360.com/jobs/JobDetail.cfm?JobID=179585477",
+      "url": "https://jobs.usf.edu/hcmUI/CandidateExperience/en/sites/USF/job/44541?keyword=44541&mode=location",
       "status": "Not stated",
       "note": "No explicit sponsorship policy stated in the complete adopted announcement; not a refusal.",
       "visaType": "",
@@ -1394,6 +1394,33 @@
       "visaType": "",
       "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation",
       "reviewedOn": "2026-11-17"
+    },
+    {
+      "id": "RAE-0167",
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated; work authorization alone does not establish sponsorship policy.",
+      "visaType": "",
+      "evidenceUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+      "reviewedOn": "2026-11-20"
+    },
+    {
+      "id": "RAE-0168",
+      "url": "https://yourfuture.sdbor.edu/postings/50508",
+      "status": "Not stated",
+      "note": "No explicit visa-sponsorship policy stated; work authorization alone does not establish sponsorship policy.",
+      "visaType": "",
+      "evidenceUrl": "https://yourfuture.sdbor.edu/postings/50590/print_preview",
+      "reviewedOn": "2026-11-20"
+    },
+    {
+      "id": "RAE-0169",
+      "url": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+      "status": "Not stated",
+      "note": "Adopted secondary full announcement requires proof of identity and U.S. work eligibility; sponsorship policy not stated. Background/credential checks for security-sensitive roles; selective-service condition stated.",
+      "visaType": "",
+      "evidenceUrl": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+      "reviewedOn": "2026-11-20"
     }
   ]
 }

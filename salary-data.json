@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-17",
+  "reviewedOn": "2026-11-20",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -1032,6 +1032,33 @@
       "note": "Official salary field states Annually.",
       "reviewedOn": "2026-11-17",
       "evidenceUrl": "https://www.governmentjobs.com/jobs/5525097-0/dean-institutional-effectiveness-research-planning-and-accreditation"
+    },
+    {
+      "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period stated in adopted source.",
+      "reviewedOn": "2026-11-20",
+      "evidenceUrl": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=1b9ea04c-142e-4aa7-8d21-45439ca5b76b&ccId=19000101_000001&lang=en_US&jobId=9205018028947_1&&source=EN"
+    },
+    {
+      "url": "https://yourfuture.sdbor.edu/postings/50508",
+      "category": "commensurate",
+      "amount": "",
+      "label": "Commensurate with education and experience",
+      "note": "No numeric amount or pay period stated.",
+      "reviewedOn": "2026-11-20",
+      "evidenceUrl": "https://yourfuture.sdbor.edu/postings/50590/print_preview"
+    },
+    {
+      "url": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "No numeric salary stated",
+      "note": "No numeric salary or pay period stated in adopted source.",
+      "reviewedOn": "2026-11-20",
+      "evidenceUrl": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp"
     }
   ]
 }

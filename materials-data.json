@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-17",
+  "reviewedOn": "2026-11-20",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,21 +18,21 @@
   ],
   "views": {
     "all": {
-      "total": 468,
-      "postingCount": 116,
+      "total": 477,
+      "postingCount": 119,
       "counts": {
         "Cover letter": {
-          "required": 88,
+          "required": 89,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 95,
+          "required": 97,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 71,
+          "required": 73,
           "conditional": 0,
           "later": 0
         },
