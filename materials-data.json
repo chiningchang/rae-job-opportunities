@@ -18,21 +18,21 @@
   ],
   "views": {
     "all": {
-      "total": 559,
-      "postingCount": 138,
+      "total": 556,
+      "postingCount": 137,
       "counts": {
         "Cover letter": {
-          "required": 104,
+          "required": 103,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 113,
+          "required": 112,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 87,
+          "required": 86,
           "conditional": 1,
           "later": 1
         },

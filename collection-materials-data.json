@@ -4855,29 +4855,6 @@
       }
     },
     {
-      "id": "RAE-0186",
-      "url": "https://unc.peopleadmin.com/postings/328120",
-      "review": "reviewed",
-      "itemization": "itemized",
-      "counts": {
-        "CV / résumé": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "Cover letter": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        },
-        "References (contact information)": {
-          "required": 1,
-          "conditional": 0,
-          "later": 0
-        }
-      }
-    },
-    {
       "id": "RAE-0187",
       "url": "https://www.schooljobs.com/jobs/5535813-0/director-of-assessment-and-planning",
       "review": "reviewed",
