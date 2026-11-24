@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-20",
+  "reviewedOn": "2026-11-24",
   "scope": "unique postings by academic year; active and archived; statements in available original postings",
   "categories": [
     "Cover letter",
@@ -4402,6 +4402,536 @@
       "review": "reviewed",
       "itemization": "notItemized",
       "counts": {}
+    },
+    {
+      "id": "RAE-0170",
+      "url": "https://annenberg.brown.edu/about/opportunities/research-scientist-educational-measurement",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0171",
+      "url": "https://careers.purdue.edu/job/West-Lafayette-Clinical-Assistant-Professor%2C-Quantitative-Methods-IN-47906/44130-en_US/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0172",
+      "url": "https://jobs.uncfsu.edu/postings/29539",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 1
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0173",
+      "url": "https://appstate.peopleadmin.com/postings/57031",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0174",
+      "url": "https://jobs.smartrecruiters.com/harvarduniversity/3743990016853276-research-scientist-the-project-on-workforce",
+      "review": "reviewed",
+      "itemization": "notItemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0175",
+      "url": "https://jobs.uc.edu/job/Cincinnati-Research-Associate%2C-Evaluation-Services-Center%2C-CECH%2C-Hybrid-OH-45221/104584-en_US/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0176",
+      "url": "https://jobs.uc.edu/job/Cincinnati-Assessment-&-Evaluation-Analyst,-UCL-OH-45221/104604-en_US/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0177",
+      "url": "https://careers.pageuppeople.com/mob/1234/cw/en-us/job/493529/research-analyst",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0178",
+      "url": "https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/103081856464",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0179",
+      "url": "https://jobs.utdallas.edu/postings/33022/print_preview",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching evaluations": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0180",
+      "url": "https://www.educationjobsite.com/jobs/associate-professor-or-advanced-assistant-professor-ph-d-m-a-program-in-political-science-ph-d-new-york-ny-3494057227-job.html",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Teaching statement": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0181",
+      "url": "https://academiccareers.com/job/183937/assistant-professor-123130-qualitative-research/",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Transcripts": {
+          "required": 1,
+          "conditional": 0,
+          "later": 1
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        }
+      }
+    },
+    {
+      "id": "RAE-0182",
+      "url": "https://careers.pageuppeople.com/1177/cw/en-us/job/55000695/director-institutional-research-and-analytics",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0183",
+      "url": "https://jobs.chronicle.com/job/37959323/director-of-institutional-research-and-analytics/",
+      "review": "reviewed",
+      "itemization": "notItemized",
+      "counts": {}
+    },
+    {
+      "id": "RAE-0184",
+      "url": "https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=CAMPUNIV&cws=37&rid=3733",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0185",
+      "url": "https://minneapolisjobnetwork.com/career/17704649/Psychometrician-Office-Assessment-Evaluation-Phd-Phoenix-Arizona-Phoenix",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Reference letters": {
+          "required": 0,
+          "conditional": 0,
+          "later": 1
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0186",
+      "url": "https://unc.peopleadmin.com/postings/328120",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0187",
+      "url": "https://www.schooljobs.com/jobs/5535813-0/director-of-assessment-and-planning",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Other application statement": {
+          "required": 2,
+          "conditional": 0,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
+    },
+    {
+      "id": "RAE-0188",
+      "url": "https://academicgates.com/job/research-assistant-professor-of-education-policy/755702",
+      "review": "reviewed",
+      "itemization": "itemized",
+      "counts": {
+        "Cover letter": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "CV / résumé": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "References (contact information)": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        },
+        "Research samples / publications": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Other application statement": {
+          "required": 0,
+          "conditional": 1,
+          "later": 0
+        },
+        "Application format instructions": {
+          "required": 1,
+          "conditional": 0,
+          "later": 0
+        }
+      }
     }
   ]
 }

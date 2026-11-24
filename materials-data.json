@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-20",
+  "reviewedOn": "2026-11-24",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,62 +18,62 @@
   ],
   "views": {
     "all": {
-      "total": 477,
-      "postingCount": 119,
+      "total": 559,
+      "postingCount": 138,
       "counts": {
         "Cover letter": {
-          "required": 89,
+          "required": 104,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 97,
+          "required": 113,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 73,
-          "conditional": 0,
-          "later": 0
+          "required": 87,
+          "conditional": 1,
+          "later": 1
         },
         "Research statement": {
-          "required": 30,
+          "required": 32,
           "conditional": 0,
           "later": 0
         },
         "Teaching statement": {
-          "required": 26,
+          "required": 29,
           "conditional": 1,
           "later": 0
         },
         "Application format instructions": {
-          "required": 26,
+          "required": 32,
           "conditional": 0,
           "later": 0
         },
         "Reference letters": {
           "required": 5,
-          "conditional": 5,
-          "later": 13
+          "conditional": 6,
+          "later": 16
         },
         "Transcripts": {
-          "required": 11,
-          "conditional": 0,
-          "later": 6
+          "required": 14,
+          "conditional": 1,
+          "later": 8
         },
         "Research samples / publications": {
-          "required": 36,
-          "conditional": 2,
-          "later": 1
+          "required": 38,
+          "conditional": 4,
+          "later": 2
         },
         "Teaching evaluations": {
-          "required": 4,
-          "conditional": 3,
+          "required": 5,
+          "conditional": 4,
           "later": 0
         },
         "Other application statement": {
-          "required": 13,
-          "conditional": 1,
+          "required": 15,
+          "conditional": 4,
           "later": 3
         },
         "Service statement": {

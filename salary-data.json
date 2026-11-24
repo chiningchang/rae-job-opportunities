@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-20",
+  "reviewedOn": "2026-11-24",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -1059,6 +1059,177 @@
       "note": "No numeric salary or pay period stated in adopted source.",
       "reviewedOn": "2026-11-20",
       "evidenceUrl": "https://www.sparcwork.com/jobs/38201225/director-of-program-assessment-vice-provost-institutional-research-imp"
+    },
+    {
+      "url": "https://annenberg.brown.edu/about/opportunities/research-scientist-educational-measurement",
+      "category": "unverified",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://annenberg.brown.edu/about/opportunities/research-scientist-educational-measurement"
+    },
+    {
+      "url": "https://careers.purdue.edu/job/West-Lafayette-Clinical-Assistant-Professor%2C-Quantitative-Methods-IN-47906/44130-en_US/",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Commensurate with experience",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://careers.purdue.edu/job/West-Lafayette-Clinical-Assistant-Professor%2C-Quantitative-Methods-IN-47906/44130-en_US/"
+    },
+    {
+      "url": "https://jobs.uncfsu.edu/postings/29539",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Commensurate with education and experience",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.uncfsu.edu/postings/29539"
+    },
+    {
+      "url": "https://appstate.peopleadmin.com/postings/57031",
+      "category": "numeric",
+      "amount": "$70,000-$80,000",
+      "label": "Suggested salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://appstate.peopleadmin.com/postings/57031"
+    },
+    {
+      "url": "https://jobs.smartrecruiters.com/harvarduniversity/3743990016853276-research-scientist-the-project-on-workforce",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Salary grade 058; numeric range not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.smartrecruiters.com/harvarduniversity/3743990016853276-research-scientist-the-project-on-workforce"
+    },
+    {
+      "url": "https://jobs.uc.edu/job/Cincinnati-Research-Associate%2C-Evaluation-Services-Center%2C-CECH%2C-Hybrid-OH-45221/104584-en_US/",
+      "category": "numeric",
+      "amount": "$64,000-$75,000",
+      "label": "Posted salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.uc.edu/job/Cincinnati-Research-Associate%2C-Evaluation-Services-Center%2C-CECH%2C-Hybrid-OH-45221/104584-en_US/"
+    },
+    {
+      "url": "https://jobs.uc.edu/job/Cincinnati-Assessment-&-Evaluation-Analyst,-UCL-OH-45221/104604-en_US/",
+      "category": "numeric",
+      "amount": "$64,600-$78,000",
+      "label": "Posted salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.uc.edu/job/Cincinnati-Assessment-&-Evaluation-Analyst,-UCL-OH-45221/104604-en_US/"
+    },
+    {
+      "url": "https://careers.pageuppeople.com/mob/1234/cw/en-us/job/493529/research-analyst",
+      "category": "numeric",
+      "amount": "$68,136-$71,543 / year",
+      "label": "Annual starting salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://careers.pageuppeople.com/mob/1234/cw/en-us/job/493529/research-analyst"
+    },
+    {
+      "url": "https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/103081856464",
+      "category": "numeric",
+      "amount": "$73,000-$80,000",
+      "label": "Posted salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://usccareers.usc.edu/job/los-angeles/postdoctoral-scholar-research-associate/1209/103081856464"
+    },
+    {
+      "url": "https://jobs.utdallas.edu/postings/33022/print_preview",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Negotiable",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.utdallas.edu/postings/33022/print_preview"
+    },
+    {
+      "url": "https://www.educationjobsite.com/jobs/associate-professor-or-advanced-assistant-professor-ph-d-m-a-program-in-political-science-ph-d-new-york-ny-3494057227-job.html",
+      "category": "numeric",
+      "amount": "$102,460-$144,808 / year",
+      "label": "Annual salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://www.educationjobsite.com/jobs/associate-professor-or-advanced-assistant-professor-ph-d-m-a-program-in-political-science-ph-d-new-york-ny-3494057227-job.html"
+    },
+    {
+      "url": "https://academiccareers.com/job/183937/assistant-professor-123130-qualitative-research/",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Commensurate with education and experience",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://academiccareers.com/job/183937/assistant-professor-123130-qualitative-research/"
+    },
+    {
+      "url": "https://careers.pageuppeople.com/1177/cw/en-us/job/55000695/director-institutional-research-and-analytics",
+      "category": "numeric",
+      "amount": "$95,000-$120,000",
+      "label": "Posted salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://careers.pageuppeople.com/1177/cw/en-us/job/55000695/director-institutional-research-and-analytics"
+    },
+    {
+      "url": "https://jobs.chronicle.com/job/37959323/director-of-institutional-research-and-analytics/",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Salary grade 060; numeric range not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://jobs.chronicle.com/job/37959323/director-of-institutional-research-and-analytics/"
+    },
+    {
+      "url": "https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=CAMPUNIV&cws=37&rid=3733",
+      "category": "unverified",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://phg.tbe.taleo.net/phg01/ats/careers/v2/viewRequisition?org=CAMPUNIV&cws=37&rid=3733"
+    },
+    {
+      "url": "https://minneapolisjobnetwork.com/career/17704649/Psychometrician-Office-Assessment-Evaluation-Phd-Phoenix-Arizona-Phoenix",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "AAMC Public Schools for Rank and Specialty; numeric figure not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://minneapolisjobnetwork.com/career/17704649/Psychometrician-Office-Assessment-Evaluation-Phd-Phoenix-Arizona-Phoenix"
+    },
+    {
+      "url": "https://unc.peopleadmin.com/postings/328120",
+      "category": "unverified",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://unc.peopleadmin.com/postings/328120"
+    },
+    {
+      "url": "https://www.schooljobs.com/jobs/5535813-0/director-of-assessment-and-planning",
+      "category": "numeric",
+      "amount": "$80,800-$97,500 / year",
+      "label": "Annual starting salary range",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Official full text verified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://www.schooljobs.com/jobs/5535813-0/director-of-assessment-and-planning"
+    },
+    {
+      "url": "https://academicgates.com/job/research-assistant-professor-of-education-policy/755702",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Commensurate with education and experience",
+      "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
+      "reviewedOn": "2026-11-24",
+      "evidenceUrl": "https://academicgates.com/job/research-assistant-professor-of-education-policy/755702"
     }
   ]
 }
