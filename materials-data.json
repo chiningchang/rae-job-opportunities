@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-24",
+  "reviewedOn": "2026-11-27",
   "source": "Google Sheets — Application Materials",
   "categories": [
     "Cover letter",
@@ -18,32 +18,32 @@
   ],
   "views": {
     "all": {
-      "total": 556,
-      "postingCount": 137,
+      "total": 585,
+      "postingCount": 143,
       "counts": {
         "Cover letter": {
-          "required": 103,
+          "required": 109,
           "conditional": 0,
           "later": 0
         },
         "CV / résumé": {
-          "required": 112,
+          "required": 117,
           "conditional": 0,
           "later": 0
         },
         "References (contact information)": {
-          "required": 86,
+          "required": 88,
           "conditional": 1,
           "later": 1
         },
         "Research statement": {
-          "required": 32,
-          "conditional": 0,
+          "required": 33,
+          "conditional": 1,
           "later": 0
         },
         "Teaching statement": {
-          "required": 29,
-          "conditional": 1,
+          "required": 30,
+          "conditional": 2,
           "later": 0
         },
         "Application format instructions": {
@@ -52,29 +52,29 @@
           "later": 0
         },
         "Reference letters": {
-          "required": 5,
-          "conditional": 6,
+          "required": 6,
+          "conditional": 7,
           "later": 16
         },
         "Transcripts": {
           "required": 14,
-          "conditional": 1,
+          "conditional": 3,
           "later": 8
         },
         "Research samples / publications": {
-          "required": 38,
-          "conditional": 4,
+          "required": 40,
+          "conditional": 5,
           "later": 2
         },
         "Teaching evaluations": {
           "required": 5,
-          "conditional": 4,
+          "conditional": 5,
           "later": 0
         },
         "Other application statement": {
           "required": 15,
-          "conditional": 4,
-          "later": 3
+          "conditional": 6,
+          "later": 4
         },
         "Service statement": {
           "required": 2,
@@ -83,7 +83,7 @@
         },
         "Teaching dossier / materials": {
           "required": 1,
-          "conditional": 2,
+          "conditional": 3,
           "later": 0
         }
       }

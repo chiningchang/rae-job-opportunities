@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "reviewedOn": "2026-11-24",
+  "reviewedOn": "2026-11-27",
   "classification": "Carnegie 2025",
   "entries": [
     {
@@ -5834,6 +5834,210 @@
         "reviewStatus": "Not stated in reviewed posting",
         "evidenceUrl": "https://academicgates.com/job/research-assistant-professor-of-education-policy/755702",
         "reviewedOn": "2026-11-24"
+      }
+    },
+    {
+      "id": "RAE-0189",
+      "position": "Open Rank Positions spanning Quantitative Methods & Data Analytics at Vanderbilt's Peabody College and Vanderbilt’s College of Connected Computing",
+      "institution": "Vanderbilt University",
+      "url": "https://apply.interfolio.com/198028",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Tenure-track / tenured",
+        "detail": "One announcement for two open-rank tenured/tenure-track positions; joint Peabody/College of Connected Computing appointment, tenure home Peabody; no numeric teaching load.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://apply.interfolio.com/198028",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "221999",
+        "research": "R1",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://apply.interfolio.com/198028",
+        "reviewedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "RAE-0190",
+      "position": "Prevention Insights: Assistant Research Scientist",
+      "institution": "Indiana University Bloomington",
+      "url": "https://indiana.peopleadmin.com/postings/34973/print_preview",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Non-tenure-track",
+        "detail": "One-year renewable non-tenure-track research appointment. Body says as early as January 2026; structured Expected Start Date says Jan 4, 2027. Application instructions point to34925 despite this posting34973; discrepancy retained.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://indiana.peopleadmin.com/postings/34973/print_preview",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "151351",
+        "research": "R1",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://indiana.peopleadmin.com/postings/34973/print_preview",
+        "reviewedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "RAE-0191",
+      "position": "Assistant/Associate Professor of Educational Psychology and Learning Sciences, College of Education [R0154347]",
+      "institution": "University of Nevada, Las Vegas",
+      "url": "https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Assistant-Associate-Professor-of-Educational-Psychology-and-Learning-Sciences--College-of-Education--R0154347-_R0154347",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Full-time academic faculty. Associate candidates explicitly tenure-eligible and may request tenure consideration; assistant tenure route not explicit, so the mixed-rank badge remains unverified rather than rank-inferred. No numeric teaching load.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Assistant-Associate-Professor-of-Educational-Psychology-and-Learning-Sciences--College-of-Education--R0154347-_R0154347",
+        "evidenceNote": "Assistant-rank tenure route not explicit; associate tenure eligibility conditional on review.",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "182281",
+        "research": "R1",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Assistant-Associate-Professor-of-Educational-Psychology-and-Learning-Sciences--College-of-Education--R0154347-_R0154347",
+        "reviewedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "RAE-0192",
+      "position": "Postdoctoral Research Associate",
+      "institution": "Northeastern University",
+      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R142878-1",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Postdoctoral appointment",
+        "detail": "Grant-funded, renewable subject to funding and satisfactory performance; Boston hybrid and some travel; no numeric teaching load. Official requisitionR142878, not unrelatedR142800.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R142878-1",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Private nonprofit",
+        "unitid": "167358",
+        "research": "R1",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R142878-1",
+        "reviewedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "RAE-0193",
+      "position": "Director of Assessment",
+      "institution": "University of North Carolina at Pembroke",
+      "url": "https://jobs.uncp.edu/postings/13877/print_preview",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Not specified",
+        "detail": "Twelve-month, FTE1 exempt professional staff; position3572/EPA01192; background and eligibility checks, direct deposit; no sponsorship commitment or numeric teaching load.",
+        "reviewStatus": "Verified from official posting",
+        "evidenceUrl": "https://jobs.uncp.edu/postings/13877/print_preview",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "199281",
+        "research": "No research designation",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://jobs.uncp.edu/postings/13877/print_preview",
+        "reviewedOn": "2026-11-27"
+      }
+    },
+    {
+      "id": "RAE-0194",
+      "position": "Assistant Professor - Educational Leadership (EdD)",
+      "institution": "Austin Peay State University",
+      "url": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147064",
+      "reviewedOn": "2026-11-27",
+      "appointment": {
+        "type": "Tenure-track",
+        "detail": "Tenure-track, beginsJuly30,2027; on-campus presence plus face-to-face/online instruction. Secondary full source links officialOracle375; existing Educational Research role376 is a distinct requisition. No numeric teaching load.",
+        "reviewStatus": "Verified from secondary full source",
+        "evidenceUrl": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147064",
+        "evidenceNote": "",
+        "reviewedOn": "2026-11-27"
+      },
+      "institutionContext": {
+        "control": "Public",
+        "unitid": "219602",
+        "research": "Research Colleges and Universities",
+        "version": "Carnegie 2025 (official public data file; campus UNITID matched)",
+        "evidenceUrl": "https://carnegieclassifications.acenet.edu/wp-content/uploads/2025/04/2025-Public-Data-File.xlsx",
+        "reviewedOn": "2026-11-27"
+      },
+      "teaching": {
+        "asStated": "Not stated",
+        "unit": "",
+        "period": "",
+        "standardized": "",
+        "annualCourses": null,
+        "notes": "No numeric teaching load stated; this does not establish zero teaching.",
+        "reviewStatus": "Not stated in reviewed posting",
+        "evidenceUrl": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147064",
+        "reviewedOn": "2026-11-27"
       }
     }
   ]

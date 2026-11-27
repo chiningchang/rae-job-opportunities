@@ -1,5 +1,5 @@
 {
-  "reviewedOn": "2026-11-24",
+  "reviewedOn": "2026-11-27",
   "entries": [
     {
       "url": "https://careers.fresnostate.edu/en-us/job/562337/psychology-quantitative-methods-assistant-professor",
@@ -1221,6 +1221,60 @@
       "note": "Source-stated figure/label retained; pay period not inferred when absent. Secondary full text; official full text not certified.",
       "reviewedOn": "2026-11-24",
       "evidenceUrl": "https://academicgates.com/job/research-assistant-professor-of-education-policy/755702"
+    },
+    {
+      "url": "https://apply.interfolio.com/198028",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Competitive; no figure",
+      "note": "Original pay period not inferred. Official full text verified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://apply.interfolio.com/198028"
+    },
+    {
+      "url": "https://indiana.peopleadmin.com/postings/34973/print_preview",
+      "category": "numeric",
+      "amount": "From $70,000",
+      "label": "Baseline starting salary; pay period not stated",
+      "note": "Original pay period not inferred. Official full text verified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://indiana.peopleadmin.com/postings/34973/print_preview"
+    },
+    {
+      "url": "https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Assistant-Associate-Professor-of-Educational-Psychology-and-Learning-Sciences--College-of-Education--R0154347-_R0154347",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Competitive; no figure",
+      "note": "Original pay period not inferred. Official full text verified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://nshe.wd1.myworkdayjobs.com/UNLV-External/job/UNLV1-Main-Campus-Las-Vegas/Assistant-Associate-Professor-of-Educational-Psychology-and-Learning-Sciences--College-of-Education--R0154347-_R0154347"
+    },
+    {
+      "url": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R142878-1",
+      "category": "numeric",
+      "amount": "$60,315.00-$85,192.50",
+      "label": "Expected hiring range; pay period not stated",
+      "note": "Original pay period not inferred. Official full text verified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://northeastern.wd1.myworkdayjobs.com/careers/job/Boston-MA-Main-Campus/Postdoctoral-Research-Associate_R142878-1"
+    },
+    {
+      "url": "https://jobs.uncp.edu/postings/13877/print_preview",
+      "category": "non-numeric",
+      "amount": "",
+      "label": "Commensurate with education and experience",
+      "note": "Original pay period not inferred. Official full text verified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://jobs.uncp.edu/postings/13877/print_preview"
+    },
+    {
+      "url": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147064",
+      "category": "unverified",
+      "amount": "",
+      "label": "Not stated",
+      "note": "Original pay period not inferred. Complete secondary source; official full body not certified.",
+      "reviewedOn": "2026-11-27",
+      "evidenceUrl": "https://www.higheredmilitary.com/jobs/details.cfm?JobCode=147064"
     }
   ]
 }
